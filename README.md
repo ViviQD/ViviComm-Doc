@@ -16,12 +16,26 @@
 [![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ViviQD/ViviComm-Doc">
+    <img src="images/viviqd_fulllogo_transparent_nobuffer.png" alt="Logo" width="300" height="300">
+  </a>
+
+  <h3 align="center">ViviComm</h3>
+
+  <p align="center">
+    Medical AI Chat for Kids
+    <br />
+    Documentation Site
+    <br />
+    <a href="https://github.com/ViviQD/ViviComm-Doc"><strong>Explore the docs »</strong></a>
+</div>
+
 # ViviComm – Documentation
 
 ### ViviQD - *The adventure for life, knowledge and healing.*
-
-Welcome to the official documentation for **ViviComm Chat**, a Social Media Platform AI Chatbot designed mainly for children. ViviComm provides chat functionalities with a friendly, engaging interface, powered by AI from a distant universe. Our motto, *"The adventure for life, knowledge and healing"*, reflects our mission to create a fun and enriching communication experience for our young users.
-
 
 Welcome to the official documentation for **ViviComm Chat**, a Social Media Platform AI Chatbot designed mainly for children.
 **ViviComm Chat** is an AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. The platform **stores medical information securely**. Access to this information is controlled by configurable settings that determine whether the AI or healthcare professionals have permission to access the data. These settings comply with **GDPR** and **HIPAA** regulations, ensuring that user data is handled securely and lawfully.
@@ -118,8 +132,8 @@ To set up a local copy of the ViviQD Chat project, follow these steps:
 1. **Clone the Repository:**
 
 ```
-git clone https://github.com/ViviQD/ViviComm.git
-cd ViviComm
+git clone https://github.com/ViviQD/ViviComm-Doc.git
+cd ViviComm-Doc
 ```
 
 2. **Install Dependencies:**
@@ -194,16 +208,16 @@ Thank you for being a part of the ViviQD Chat adventure – together, we're buil
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm?style=for-the-badge&color=blue
-[contributors-url]: https://github.com/ViviQD/ViviComm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm?style=for-the-badge&color=blue
+[contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
+[contributors-url]: https://github.com/ViviQD/ViviComm-Doc/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm?style=for-the-badge&color=blue
+[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm?style=for-the-badge&color=blue
+[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge
-[license-url]: https://github.com/ViviQD/ViviComm/blob/main/LICENSE
+[license-url]: https://github.com/ViviQD/ViviComm-Doc/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/viviqd
 [SpringBoot-shield]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
@@ -224,25 +238,3 @@ Thank you for being a part of the ViviQD Chat adventure – together, we're buil
 [React-url]: https://react.dev/
 [Bootstrap.com-shield]: https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
