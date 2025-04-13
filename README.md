@@ -126,7 +126,7 @@ Below is our development roadmap outlining key upcoming features and improvement
 
 ## Installation
 
-To set up a local copy of the ViviQD Chat project, follow these steps:
+To set up a local copy of the ViviComm project, follow these steps:
 
 1. **Clone the Repository:**
 
@@ -167,7 +167,7 @@ This will create a `build` directory containing all the static assets.
 
 ## Deploy
 
-To deploy the ViviQD Chat documentation using GitHub Pages, make sure the `docusaurus.config.js` file is correctly configured (e.g., `url` set to `https://<your-username>.github.io` and `baseUrl` set to `/viviqd-chat/`), then execute:
+To deploy the ViviComm documentation using GitHub Pages, make sure the `docusaurus.config.js` file is correctly configured (e.g., `url` set to `https://<your-username>.github.io` and `baseUrl` set to `/vivicomm/`), then execute:
 
 ```
 npm run deploy
@@ -179,7 +179,7 @@ This command publishes the built files to the `gh-pages` branch, making your doc
 
 ## Contribution
 
-We welcome contributions that help improve ViviQD Chat! If you have suggestions, feature requests, or bug reports:
+We welcome contributions that help improve ViviComm! If you have suggestions, feature requests, or bug reports:
 
 - **Issues:** Open an issue on our GitHub repository.
 - **Pull Requests:** Fork the repository, make your changes, and submit a pull request. We'll review and merge your contributions.
@@ -198,7 +198,7 @@ This project is distributed under the GNU GPL v3 license. This means any modific
 
 If you have any questions or would like to connect with us, feel free to reach out via our official communication channels.
 
-Thank you for being a part of the ViviQD Chat adventure – together, we're building a journey for life, knowledge, and healing!
+Thank you for being a part of the ViviQD Chat adventure, using ViviComm – together, we're building a journey for life, knowledge, and healing!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
