@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ViviQD/ViviComm-Doc">
+  <a href="https://github.com/ViviQD/ViviComm-Docs">
     <img src="images/viviqd_fulllogo_transparent_nobuffer.png" alt="Logo" width="300" height="300">
   </a>
 
@@ -30,7 +30,7 @@
     <br />
     Documentation Site
     <br />
-    <a href="https://github.com/ViviQD/ViviComm-Doc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ViviQD/ViviComm-Docs"><strong>Explore the docs »</strong></a>
 </div>
 
 # ViviComm – Documentation
@@ -131,8 +131,8 @@ To set up a local copy of the ViviComm project, follow these steps:
 1. **Clone the Repository:**
 
 ```
-git clone https://github.com/ViviQD/ViviComm-Doc.git
-cd ViviComm-Doc
+git clone https://github.com/ViviQD/ViviComm-Docs.git
+cd ViviComm-Docs
 ```
 
 2. **Install Dependencies:**
@@ -207,16 +207,16 @@ Thank you for being a part of the ViviQD Chat adventure, using ViviComm – toge
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
-[contributors-url]: https://github.com/ViviQD/ViviComm-Doc/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
+[contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
+[contributors-url]: https://github.com/ViviQD/ViviComm-Docs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
+[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Doc?style=for-the-badge&color=blue
+[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge
-[license-url]: https://github.com/ViviQD/ViviComm-Doc/blob/main/LICENSE
+[license-url]: https://github.com/ViviQD/ViviComm-Docs/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/viviqd
 [SpringBoot-shield]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
