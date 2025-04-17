@@ -9,36 +9,43 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<center>
+  <table>
+    <tr>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite-Atlas/graphs/contributors"><img src="https://img.shields.io/github/contributors/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Contributors"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite-Atlas/network/members"><img src="https://img.shields.io/github/forks/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Forks"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite-Atlas/stargazers"><img src="https://img.shields.io/github/stars/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Stars"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite-Atlas/issues"><img src="https://img.shields.io/github/issues/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="Issues"></a></td>
+      <td><a href="https://github.com/ViviQD/ViviComm-Lite-Atlas/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ViviQD/ViviComm-Lite?logo=github&logoWidth=40&style=for-the-badge" alt="License"></a></td>
+      <td><a href="https://www.linkedin.com/company/viviqd"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoWidth=40&style=for-the-badge" alt="LinkedIn"></a></td>
+    </tr>
+  </table>
+</center>
+
+
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ViviQD/ViviComm-Docs">
+  <a href="https://github.com/ViviQD/ViviComm-Lite-Atlas">
     <img src="images/viviqd_fulllogo_transparent_nobuffer.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">ViviComm</h3>
+  <h3 align="center">ViviComm Lite Atlas</h3>
 
   <p align="center">
     Medical AI Chat for Kids
     <br />
-    Documentation Site
-    <br />
-    <a href="https://github.com/ViviQD/ViviComm-Docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ViviQD/ViviComm-Lite-Atlas/"><strong>Explore the docs »</strong></a>
 </div>
 
-# ViviComm – Documentation
+# ViviComm Lite Atlas
 
 ### ViviQD - *The adventure for life, knowledge and healing.*
 
-Welcome to the official documentation for **ViviComm Chat**, a Social Media Platform AI Chatbot designed mainly for children.
-**ViviComm Chat** is an AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. The platform **stores medical information securely**. Access to this information is controlled by configurable settings that determine whether the AI or healthcare professionals have permission to access the data. These settings comply with **GDPR** and **HIPAA** regulations, ensuring that user data is handled securely and lawfully.
+Welcome to the official documentation for **ViviComm Lite**, a Social Media Platform AI Chatbot designed mainly for children.
+**ViviComm Lite** is an AI-driven opensource chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. The platform **stores medical information securely**. Access to this information is controlled by configurable settings that determine whether the AI or healthcare professionals have permission to access the data. These settings comply with **GDPR** and **HIPAA** regulations, ensuring that user data is handled securely and lawfully.
 
 
 ---
@@ -61,20 +68,23 @@ Welcome to the official documentation for **ViviComm Chat**, a Social Media Plat
 
 ## Overview
 
-**ViviComm** is an AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. Note that while our platform is designed for various types of content, it **does not** store or process medical information.
+**ViviComm Lite** is an opensource AI-driven chat platform tailored for kids and young audiences. It enables safe, dynamic, and interactive communication while ensuring a fun experience that stimulates learning and creativity. 
+
+> [!NOTE]
+> Note that while our platform is designed for various types of content, it mainly created for health related.
 
 ---
 
 ## Features
 
 - **AI-Powered Conversations:** Advanced AI handles chat tasks and provides engaging responses.
-- **Interactive Social Experience:** A vibrant social media platform focused on safe and enjoyable communication.
+- **Interactive Social Experience:** A nice social media platform focused on safe and enjoyable communication.
 
 ---
 
 ## Backend Technologies
 
-The backend of ViviQD Chat is built using a modern and scalable tech stack to ensure reliability and performance. Our current backend technologies include:
+The backend of ViviComm Lite is built using a modern and scalable tech stack to ensure reliability and performance. Our current backend technologies include:
 
 - **Spring Boot** – for building the core application logic and API.
 - **Spring Security** – for handling authentication and authorization.
@@ -114,25 +124,26 @@ The backend of ViviQD Chat is built using a modern and scalable tech stack to en
 Below is our development roadmap outlining key upcoming features and improvements. Check off the items as they are completed:
 
 - [ ] **User Registration and Authentication:** Secure sign-up, login, and account management using Spring Security and JWT.
-- [ ] **Real-time Messaging Enhancements:** Improved real-time communication with better stability and scalability.
-- [ ] **GDPR and HIPAA Compliance:** Ensure that the platform complies with GDPR and HIPAA standards for handling user data.
-- [ ] **Logging and Monitoring:** Implement logging and real-time monitoring for system health and error tracking using tools like Spring Actuator and ELK stack.
 - [ ] **Profile Data Management:** Secure storage and access to user profile data, with configurable visibility for AI and healthcare professionals.
+- [ ] **Real-time Messaging Enhancements:** Improved real-time communication with better stability and scalability.
+- [ ] **Logging and Monitoring:** Implement logging and real-time monitoring for system health and error tracking using tools like Spring Actuator and ELK stack.
 - [ ] **Message Saving to PDF:** Implement functionality to save chat messages as PDF documents for users.
 - [ ] **Enhanced Moderation Tools:** Tools for monitoring, moderation, and reporting inappropriate content.
+- [ ] **GDPR and HIPAA Compliance:** Ensure that the platform complies with GDPR and HIPAA standards for handling user data.
 - [ ] **Admin Dashboard:** A comprehensive dashboard for managing users and content.
+
 
 ---
 
 ## Installation
 
-To set up a local copy of the ViviComm project, follow these steps:
+To set up a local copy of the ViviComm-Lite Chat project, follow these steps:
 
 1. **Clone the Repository:**
 
 ```
-git clone https://github.com/ViviQD/ViviComm-Docs.git
-cd ViviComm-Docs
+git clone https://github.com/ViviQD/ViviComm-Lite-Atlas.git
+cd ViviComm-Lite-Atlas
 ```
 
 2. **Install Dependencies:**
@@ -198,7 +209,7 @@ This project is distributed under the GNU GPL v3 license. This means any modific
 
 If you have any questions or would like to connect with us, feel free to reach out via our official communication channels.
 
-Thank you for being a part of the ViviQD Chat adventure, using ViviComm – together, we're building a journey for life, knowledge, and healing!
+Thank you for being a part of the ViviQD Chat adventure, using ViviComm-Lite – together, we're building a journey for life, knowledge, and healing!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -207,16 +218,16 @@ Thank you for being a part of the ViviQD Chat adventure, using ViviComm – toge
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
-[contributors-url]: https://github.com/ViviQD/ViviComm-Docs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Docs?style=for-the-badge&color=blue
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[contributors-shield]: https://img.shields.io/github/contributors/ViviQD/ViviComm-Lite-Atlas?style=for-the-badge&color=blue
+[contributors-url]: https://github.com/ViviQD/ViviComm-Lite-Atlas/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ViviQD/ViviComm-Lite-Atlas?style=for-the-badge&color=blue
+[forks-url]: https://img.shields.io/github/forks/ViviQD/ViviComm-Lite-Atlas
+[stars-shield]: https://img.shields.io/github/stars/ViviQD/ViviComm-Lite-Atlas?style=for-the-badge&color=blue
+[stars-url]: https://img.shields.io/github/stars/ViviQD/ViviComm-Lite-Atlas
+[issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite-Atlas?style=for-the-badge&color=blue
+[issues-url]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite-Atlas
 [license-shield]: https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge
-[license-url]: https://github.com/ViviQD/ViviComm-Docs/blob/main/LICENSE
+[license-url]: https://github.com/ViviQD/ViviComm-Lite-Atlas/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/viviqd
 [SpringBoot-shield]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
