@@ -1,4 +1,3 @@
-
 # Federated Login Component
 
 The **Federated Login** component handles user authentication through third-party providers like Google, Facebook, etc. It is responsible for managing the authentication flow and linking the user's external account with the internal system.

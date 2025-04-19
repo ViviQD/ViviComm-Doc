@@ -1,4 +1,6 @@
-
+---
+sidebar_position: 2
+---
 # User Roles
 
 ViviComm supports several user roles, each with different levels of access and functionalities:
