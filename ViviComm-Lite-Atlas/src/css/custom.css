@@ -28,3 +28,24 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.clean-list {
+  column-count: 4;
+}
+
+.footer__title {
+  margin-left: 0px;
+}
+
+.footer__item {
+  font-size: 0.9em;
+}
+
+.iconExternalLink_nPIU {
+  width: 0.75em;
+}
+
+.footer__copyright {
+  font-size: 1em;
+  margin-top: 50px;
+}
