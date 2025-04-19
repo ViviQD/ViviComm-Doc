@@ -9,7 +9,6 @@ Welcome to the ViviComm Lite Atlas! This documentation provides an overview of t
 - [Technology Stack](./technology-stack)
 - [Architecture](./architecture)
 - [Key Components](./key-components.md)
-- [Components](./components.md)
 - [Security](./security.md)
 - [Compliance](./compliance.md)
 - [Changelog](./changelog.md)

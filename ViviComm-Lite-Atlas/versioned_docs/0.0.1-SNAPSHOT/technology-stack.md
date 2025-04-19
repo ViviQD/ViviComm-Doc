@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # Technology Stack
 
 ViviComm is built using modern and reliable technologies to ensure scalability, security, and performance. Below is the overview of the key technologies used:
