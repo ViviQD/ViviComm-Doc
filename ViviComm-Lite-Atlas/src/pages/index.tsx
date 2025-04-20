@@ -10,8 +10,16 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+  return (    
+    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+      <div  className="viviqd_logo-container">
+      <img
+        className="viviqd_logo"
+        src="/ViviComm-Lite-Atlas/img/fulllogo_transparent_nobuffer.png"
+        alt="ViviQD Logo"
+        width="210"            
+      />
+      </div>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -20,12 +28,13 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/intro"
+          >
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
       </div>
-    </header>
+    </header>    
   );
 }
 

@@ -4,8 +4,9 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+  /*padding: 4rem 0;*/
+  padding-left: 15rem;
+  text-align: left;
   position: relative;
   overflow: hidden;
   background-color: rgb(11, 11, 73);
@@ -19,6 +20,26 @@
 
 .buttons {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
 }
+
+.viviqd_logo {
+/*   position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; */
+  /*margin-left: 400px;
+  padding-left: 300px;*/
+  padding-right: "10rem";
+}
+
+.viviqd_logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*margin-left: 300px;
+  padding-left: 300px;*/
+}
+
