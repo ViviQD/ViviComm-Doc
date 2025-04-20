@@ -13,7 +13,7 @@ ViviComm is built using modern and reliable technologies to ensure scalability, 
 - **Spring Data JPA**: for managing the database and handling CRUD operations.
 - **Spring Data Redis**: for caching and real-time notifications.
 - **Hibernate**: ORM (Object-Relational Mapping) for managing the database more effectively with Spring Data JPA, helping in mapping Java objects to database records.
- - **SpringAI** – for integrating AI functionalities, such as NLP processing for chatbot features, recommendation systems, and personalizing user interactions. 
+- **SpringAI** – for integrating AI functionalities, such as NLP processing for chatbot features, recommendation systems, and personalizing user interactions. 
 - **PostgreSQL**: for managing relational data, providing advanced SQL features and better performance for complex queries compared to MySQL for managing user and medical data.
 - **Redis**: In-memory data store for caching and real-time notifications and quick data retrieval.
 - **Keycloak**: Authentication and authorization solution for managing users and their access.
