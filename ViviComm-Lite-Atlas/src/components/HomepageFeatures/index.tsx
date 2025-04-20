@@ -14,9 +14,17 @@ const FeatureList: FeatureItem[] = [
     title: "Atlas",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
-      <>
-        
-      </>
+    <>
+      <div className="atlas-description-box">
+        <h2>Welcome to ViviComm Lite Atlas</h2>
+        <p>
+          ViviComm Lite Atlas is the comprehensive documentation system for the ViviComm Lite platform, designed to offer accessible and up-to-date information about our medical AI chatbot for children. Whether you're a developer, researcher, or just a curious user, the Atlas provides detailed guidance, tutorials, and versioned releases to help you better understand and use the platform.
+        </p>
+        <p>
+          Explore key components, system architecture, and other essential documentation to enhance your experience with ViviComm Lite.
+        </p>
+      </div>
+    </>
     ),
   },
   {
