@@ -3,49 +3,53 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+      - main  # Trigger the workflow on push to the main branch
 
 jobs:
   build:
     name: Build Docusaurus
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2  # Checkout the repo
         with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v4
+          fetch-depth: 0  # Ensures the full history is fetched
+
+      - uses: actions/setup-node@v2  # Setup Node.js environment (stable version)
         with:
-          node-version: 18
-          cache: yarn
+          node-version: '18'  # Set Node.js version
+
+      - name: Cache yarn dependencies
+        uses: actions/cache@v2  # Cache dependencies to speed up the build process
+        with:
+          path: ~/.yarn/cache
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: yarn install --frozen-lockfile  # Install dependencies using yarn
+
       - name: Build website
-        run: yarn build
+        run: yarn build  # Build the Docusaurus website
 
       - name: Upload Build Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v2  # Upload the build artifact
         with:
-          path: build
+          path: build  # Upload the build directory
 
   deploy:
     name: Deploy to GitHub Pages
-    needs: build
-
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-
-    # Deploy to the github-pages environment
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
+    needs: build  # Ensure the build job runs before deploy
     runs-on: ubuntu-latest
+
+    permissions:
+      pages: write  # Grant write access to Pages for deployment
+      id-token: write  # Access to generate an ID token for authentication
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1  # Use stable deploy version
+        with:
+          branch: gh-pages  # Deploy to the gh-pages branch for GitHub Pages
