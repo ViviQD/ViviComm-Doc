@@ -11,21 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3  # Use actions/checkout@v3 for repo checkout
+      - uses: actions/checkout@v3  # Checkout the repo using the latest v3
         with:
           fetch-depth: 0  # Ensures the full history is fetched
 
-      - uses: actions/setup-node@v3  # Use actions/setup-node@v3 for Node.js setup
+      - uses: actions/setup-node@v3  # Setup Node.js environment using the latest v3
         with:
           node-version: '18'  # Set Node.js version
-
-      - name: Cache yarn dependencies
-        uses: actions/cache@v3  # Use actions/cache@v3 (latest stable version)
-        with:
-          path: ~/.yarn/cache  # Define the path to the yarn cache
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}  # Cache key using yarn.lock hash
-          restore-keys: |
-            ${{ runner.os }}-yarn-  # If the exact key is not found, restore the key starting with OS and yarn
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile  # Install dependencies using yarn
@@ -50,6 +42,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4  # Use actions/deploy-pages@v4 (latest stable version)
+        uses: actions/deploy-pages@v4  # Use actions/deploy-pages@v4 for deployment to GitHub Pages
         with:
           branch: gh-pages  # Deploy to the gh-pages branch for GitHub Pages
