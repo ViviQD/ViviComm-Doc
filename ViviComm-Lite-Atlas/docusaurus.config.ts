@@ -81,7 +81,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'ViviComm Lite Atlas',
+      title: 'Navigation Bar',
       logo: {
         alt: 'ViviQD Logo',
         src: 'img/viviqd-logo.svg',
