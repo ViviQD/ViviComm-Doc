@@ -8,6 +8,6 @@ Welcome to the ViviComm Lite Atlas! This documentation provides an overview of t
 Please choose the required version.
 
 ## Quick Links:
-- [0.0.1-SNAPSHOT](../versioned_docs/0.0.1-SNAPSHOT/index.md)
+- [0.0.1-SNAPSHOT](../versioned_docs/0.0.1-SNAPSHOT/index.md) (Under development - not yet released)
 
 
