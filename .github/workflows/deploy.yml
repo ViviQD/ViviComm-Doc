@@ -15,17 +15,9 @@ jobs:
         with:
           fetch-depth: 0  # Ensures the full history is fetched
 
-      - uses: actions/setup-node@v3  # Setup Node.js environment (updated to v3)
+      - uses: actions/setup-node@v2  # Setup Node.js environment
         with:
           node-version: '18'  # Set Node.js version
-
-      - name: Cache Yarn dependencies
-        uses: actions/cache@v2  # Cache dependencies to speed up subsequent builds
-        with:
-          path: ~/.yarn/cache
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile  # Install dependencies using yarn
