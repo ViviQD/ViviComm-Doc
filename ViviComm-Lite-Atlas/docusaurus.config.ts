@@ -67,15 +67,14 @@ const config: Config = {
   
   plugins: [
     [
-      // Enable versioning
       '@docusaurus/plugin-content-docs',
       {
         id: 'versioned_docs',   // Set versioned docs
-        path: 'versioned_docs',            // Point to the docs folder
-        routeBasePath: 'versioned_docs',   // URL prefix for docs pages
+        path: 'versioned_docs', // Point to the docs folder
+        routeBasePath: 'versioned_docs', // URL prefix for docs pages
         includeCurrentVersion: true, // Include current version in the sidebar
       },
-    ],
+    ]
   ],
 
   themeConfig: {

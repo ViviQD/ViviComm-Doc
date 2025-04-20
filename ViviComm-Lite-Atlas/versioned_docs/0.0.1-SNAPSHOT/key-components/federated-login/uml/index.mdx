@@ -1,13 +1,18 @@
+import Mermaid from '@site/src/components/Mermaid';
+
 # Federated Login UML Diagrams
 
-
-# FederatedLogin – Corrected Mermaid Diagrams
-
----
+<Mermaid chart={`
+  graph LR
+    A --> B
+    B --> C
+    C --> D
+    D --> A
+`} />
 
 ## ▶️ Sequence Diagram
 
-```mermaid
+<Mermaid chart={`
 sequenceDiagram
     actor EndUser as End User
     participant FL as FederatedLogin
@@ -22,28 +27,23 @@ sequenceDiagram
     FL->>ULS: Link User
     ULS-->>FL: User ID
     FL->>EndUser: Create Session
-```
+`} />
 
 ---
 
-## 🧩 Use Case Diagram (Restored)
+## 🧩 Use Case Diagram 
+<img src="/vivicomm-lite-atlas/img/diagrams/key-components/federated-login/FederatedLogin_UseCaseDiagram_UML_Complete_Final.svg" alt="Federated Login Use Case Diagram" />
 
-```mermaid
-graph TD
-    A[OAuth2 Handler] --> UC1[Match by External ID]
-    A --> UC2[Fallback Match by Verified Email]
-    A --> UC3[Detect Conflicts]
-    A --> UC4[Create New User (Verified Only)]
-    A --> UC5[Log Link Outcome]
-    Admin --> UC3
-    Admin --> UC5
-```
+---
+
+## 🧩 Logo 
+<img src="/img/logo.svg" alt="Federated Login Use Case Diagram" />
 
 ---
 
 ## 🔄 State Diagram (Restored)
 
-```mermaid
+<Mermaid chart={`
 stateDiagram-v2
     [*] --> TryExternalIdMatch
     TryExternalIdMatch --> MatchFound : Match exists
@@ -58,13 +58,13 @@ stateDiagram-v2
     Reject --> AuditFailure
     AuditSuccess --> [*]
     AuditFailure --> [*]
-```
+`} />
 
 ---
 
 ## 📡 Data Flow Diagram (Corrected + Labeled)
 
-```mermaid
+<Mermaid chart={`
 graph LR
     EU[End User] -->|Login Request| FL[FederatedLogin]
     FL -->|Redirect & Token| OP[OAuth2 Provider]
@@ -72,4 +72,4 @@ graph LR
     FL -->|Profile| ULS[UserLinkService]
     ULS -->|Lookup/Create| UDB[User Database]
     FL -->|Session Created| EU
-```
+`} />
