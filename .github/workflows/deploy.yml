@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - gh-pages  # Trigger the workflow on push to the gh-pages branch
 
 jobs:
   build:
@@ -46,3 +46,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4  # Deploy to GitHub Pages
+        with:
+          branch: gh-pages
