@@ -9,26 +9,6 @@ type FeatureItem = {
   description: ReactNode;
 };
 
-/* const FeatureItem = {
-  title: 'ViviQD Overview',
-  Svg: 'Svg',
-  description: (
-    <>
-    ViviComm Lite Atlas is a medical AI chatbot for children, designed to
-    provide information and support for various health conditions. It is a
-    simplified version of the full ViviComm platform, tailored for younger
-    users and their families. The ViviComm Lite chatbot offers a
-    user-friendly interface, engaging content, and interactive features to
-    help children understand their health needs and make informed decisions.
-    It is a valuable tool for parents and caregivers to provide guidance and
-    support with healing. With a focus on education and empowerment,
-    ViviComm Lite aims to improve health literacy and promote well-being
-    among children and their caregivers. ViviQD - The adventure for life,
-    knowledge and healing.
-    </>
-  ),
-};  */
-
 const FeatureList: FeatureItem[] = [
   {
     title: "Atlas",
