@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvivi_comm_lite_atlas=self.webpackChunkvivi_comm_lite_atlas||[]).push([[3594],{2461:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"versioned_docs"}')}}]);
