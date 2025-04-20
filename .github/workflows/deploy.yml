@@ -11,16 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2  # Checkout the repo
+      - uses: actions/checkout@v3  # Use actions/checkout@v3 for repo checkout
         with:
           fetch-depth: 0  # Ensures the full history is fetched
 
-      - uses: actions/setup-node@v2  # Setup Node.js environment (stable version)
+      - uses: actions/setup-node@v3  # Use actions/setup-node@v3 for Node.js setup
         with:
           node-version: '18'  # Set Node.js version
 
       - name: Cache yarn dependencies
-        uses: actions/cache@v3  # Updated to use v3 (latest stable version)
+        uses: actions/cache@v3  # Use actions/cache@v3 (latest stable version)
         with:
           path: ~/.yarn/cache  # Define the path to the yarn cache
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}  # Cache key using yarn.lock hash
@@ -34,7 +34,7 @@ jobs:
         run: yarn build  # Build the Docusaurus website
 
       - name: Upload Build Artifact
-        uses: actions/upload-artifact@v2  # Upload the build artifact
+        uses: actions/upload-artifact@v3  # Use actions/upload-artifact@v3 for uploading build artifact
         with:
           path: build  # Upload the build directory
 
@@ -50,6 +50,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1  # Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4  # Use actions/deploy-pages@v4 (latest stable version)
         with:
           branch: gh-pages  # Deploy to the gh-pages branch for GitHub Pages
