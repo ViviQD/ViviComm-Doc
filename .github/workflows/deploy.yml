@@ -20,12 +20,12 @@ jobs:
           node-version: '18'  # Set Node.js version
 
       - name: Cache yarn dependencies
-        uses: actions/cache@v2  # Cache dependencies to speed up the build process
+        uses: actions/cache@v3  # Updated to use v3 (latest stable version)
         with:
-          path: ~/.yarn/cache
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          path: ~/.yarn/cache  # Define the path to the yarn cache
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}  # Cache key using yarn.lock hash
           restore-keys: |
-            ${{ runner.os }}-yarn-
+            ${{ runner.os }}-yarn-  # If the exact key is not found, restore the key starting with OS and yarn
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile  # Install dependencies using yarn
@@ -50,6 +50,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1  # Use stable deploy version
+        uses: actions/deploy-pages@v1  # Deploy to GitHub Pages
         with:
           branch: gh-pages  # Deploy to the gh-pages branch for GitHub Pages
