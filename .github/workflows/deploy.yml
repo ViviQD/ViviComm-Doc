@@ -3,22 +3,21 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Trigger on push to main branch
+      - main  # Trigger the workflow on push to the main branch
 
 jobs:
   build:
     name: Build Docusaurus
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2  # Use actions/checkout@v2 for compatibility and stability
         with:
-          fetch-depth: 0  # Ensures that the entire history is fetched, important for actions that need full history
+          fetch-depth: 0  # Ensures the full history is fetched (important for actions requiring history)
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v2  # Use actions/setup-node@v2 for compatibility with Node.js setup
         with:
-          node-version: 18
-          cache: 'yarn'
-
+          node-version: '18'  # Set Node.js version to match your project requirements
+          
       - name: Install dependencies
         run: yarn install --frozen-lockfile  # Install dependencies using yarn
 
@@ -26,22 +25,22 @@ jobs:
         run: yarn build  # Build the Docusaurus website
 
       - name: Upload Build Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1  # Use actions/upload-pages-artifact@v1 for stability
         with:
-          path: build  # Upload the build directory
+          path: build  # Upload the build directory for deployment
 
   deploy:
     name: Deploy to GitHub Pages
-    needs: build
+    needs: build  # Make sure the build job runs before deploy
     runs-on: ubuntu-latest
 
     permissions:
-      pages: write  # Write access to Pages to deploy
+      pages: write  # Grant write access to Pages for deployment
       id-token: write  # Access to generate an ID token for authentication
 
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4  # Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1  # Use actions/deploy-pages@v1 for stability
         with:
-          branch: gh-pages
+          branch: gh-pages  # Deploy to the gh-pages branch for GitHub Pages
