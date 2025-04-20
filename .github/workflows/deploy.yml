@@ -10,14 +10,14 @@ jobs:
     name: Build Docusaurus
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2  # Use actions/checkout@v2 for compatibility and stability
+      - uses: actions/checkout@v2  # Checkout the repo
         with:
-          fetch-depth: 0  # Ensures the full history is fetched (important for actions requiring history)
+          fetch-depth: 0  # Ensures the full history is fetched
 
-      - uses: actions/setup-node@v2  # Use actions/setup-node@v2 for compatibility with Node.js setup
+      - uses: actions/setup-node@v2  # Setup Node.js environment
         with:
-          node-version: '18'  # Set Node.js version to match your project requirements
-          
+          node-version: '18'  # Set Node.js version
+
       - name: Install dependencies
         run: yarn install --frozen-lockfile  # Install dependencies using yarn
 
@@ -25,13 +25,13 @@ jobs:
         run: yarn build  # Build the Docusaurus website
 
       - name: Upload Build Artifact
-        uses: actions/upload-pages-artifact@v1  # Use actions/upload-pages-artifact@v1 for stability
+        uses: actions/upload-pages-artifact@v1  # Use v1 for stability
         with:
-          path: build  # Upload the build directory for deployment
+          path: build  # Upload the build directory
 
   deploy:
     name: Deploy to GitHub Pages
-    needs: build  # Make sure the build job runs before deploy
+    needs: build  # Ensure the build job runs before deploy
     runs-on: ubuntu-latest
 
     permissions:
