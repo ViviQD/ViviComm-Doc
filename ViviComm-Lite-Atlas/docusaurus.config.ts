@@ -6,23 +6,20 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ViviComm Lite Atlas',
-  tagline: 'ViviComm Medical AI Chatbot for kids. The adventure for life, knowledge and healing.',
+  tagline: 'ViviComm Medical AI Chatbot for kids.',
   favicon: 'img/favicon.ico',
-
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://viviqd.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
+  baseUrl: '/ViviComm-Lite-Atlas/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ViviQD', // Usually your GitHub org/user name.
-  projectName: 'ViviComm Lite Atlas', // Usually your repo name.
-
+  projectName: 'ViviComm-Lite-Atlas', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -70,11 +67,11 @@ const config: Config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'versioned_docs',   // Set versioned docs
-        path: 'versioned_docs',            // Point to the docs folder
-        routeBasePath: 'versioned_docs',   // URL prefix for docs pages
+        path: 'versioned_docs', // Point to the docs folder
+        routeBasePath: 'versioned_docs', // URL prefix for docs pages
         includeCurrentVersion: true, // Include current version in the sidebar
       },
-    ],
+    ]
   ],
 
   themeConfig: {
