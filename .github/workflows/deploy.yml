@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages  # Trigger the workflow on push to the gh-pages branch
+      - main  # Trigger on push to main branch
 
 jobs:
   build:
@@ -34,9 +34,6 @@ jobs:
     name: Deploy to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}  # URL of the deployed site
 
     permissions:
       pages: write  # Write access to Pages to deploy
