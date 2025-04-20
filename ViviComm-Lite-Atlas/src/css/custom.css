@@ -34,11 +34,12 @@
 }
 
 .footer__title {
-  margin-left: 0px;
+  margin-bottom: 2em;
+  /*text-align: center;*/
 }
 
 .footer__item {
-  font-size: 0.9em;
+  font-size: 1em;
 }
 
 .iconExternalLink_nPIU {
