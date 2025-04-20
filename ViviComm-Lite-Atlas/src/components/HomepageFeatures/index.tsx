@@ -27,15 +27,23 @@ const FeatureList: FeatureItem[] = [
     </>
     ),
   },
-  {
-    title: "ViviComm Lite",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
-    description: (
-      <>
-        
-      </>
-    ),
-  },
+{
+  title: "ViviComm Lite",
+  Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+  description: (
+    <>
+      <div className="viviCommLite-description-box">
+        <h2>Welcome to ViviComm Lite</h2>
+        <p>
+          **ViviComm Lite** is an innovative medical AI chatbot designed for children, providing a safe and interactive environment where young users can easily access health-related information and guidance. It's a simplified version of the full **ViviComm** platform, offering a user-friendly interface tailored to younger audiences and their families.
+        </p>
+        <p>
+          ViviComm Lite empowers children and parents with knowledge, offering support for various health conditions. Through engaging content and interactive tools, it aims to foster health literacy and help families make informed decisions about well-being and healing.
+        </p>
+      </div>
+    </>
+  ),
+},
   {
     title: "Open Source",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
