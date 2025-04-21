@@ -1,7 +1,0 @@
-{
-  "name": "ViviComm-Lite-Atlas",
-  "packageManager": "yarn@4.9.1",
-  "dependencies": {
-    "@docusaurus/theme-mermaid": "^3.7.0"
-  }
-}
