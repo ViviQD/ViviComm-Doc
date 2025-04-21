@@ -138,6 +138,9 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    mermaid: {
+      theme: 'forest', // A Mermaid theme (eg. 'forest', 'dark', 'default')
+    },
   } satisfies Preset.ThemeConfig,
 };
 
