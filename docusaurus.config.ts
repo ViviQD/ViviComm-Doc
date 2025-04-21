@@ -69,18 +69,24 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'ViviComm Lite Atlas',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'ViviQD Logo',
+        src: 'img/viviqd-logo.svg',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          //type: 'docSidebar',
+          //sidebarId: 'tutorialSidebar',
+          to: 'docs/intro',
           position: 'left',
           label: 'Tutorial',
         },
+        {
+          to: 'versioned_docs',  // versions site
+          label: 'Versions',
+          position: 'left',
+        }, 
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -105,16 +111,72 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Website',
+              href: 'https://www.viviqd.com',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/4NC3V5BE',
             },
             {
               label: 'X',
+              href: 'https://x.com/viviqdai',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/viviqd/',
+            },
+            {
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com/users/30262572/viviqd',
+            },
+            {
+              label: 'Linkedin',
+              href: 'https://www.linkedin.com/company/viviqd',
+            },
+            {
+              label: 'Youtube',
               href: 'https://x.com/docusaurus',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/viviqdai/',
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/@viviqd_ai',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://www.reddit.com/user/ViviQD/',
+            },
+            {
+              label: 'Threads',
+              href: 'https://www.threads.net/@viviqdai',
+            },
+            {
+              label: 'Twitch',
+              href: 'https://www.twitch.tv/viviqd',
+            },
+            {
+              label: 'Pinterest',
+              href: 'https://hu.pinterest.com/viviqd_ai/',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://www.reddit.com/user/ViviQD/',
+            },
+            {
+              label: 'Quora',
+              href: 'https://www.quora.com/profile/ViviQD',
+            },
+            {
+              label: 'Udemy',
+              href: 'https://www.udemy.com/user/univital/',
+            },
+            {
+              label: 'lnk.bio',
+              href: 'https://lnk.bio/viviqd',
             },
           ],
         },
@@ -126,13 +188,13 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'ViviQD GitHub',
+              href: 'https://github.com/ViviQD',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ViviQD. All rights reserved. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

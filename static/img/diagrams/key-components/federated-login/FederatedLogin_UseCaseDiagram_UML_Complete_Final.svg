@@ -1,0 +1,78 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="860">
+  <style>
+    .actor { fill: #f0f0f0; stroke: #000; stroke-width: 1.4; rx: 10; ry: 10; }
+    .usecase { fill: white; stroke: black; stroke-width: 1.6; rx: 50; ry: 25; }
+    .text { font-family: sans-serif; font-size: 14px; }
+    .line { stroke: black; stroke-width: 1.2; }
+  </style>
+
+  <!-- Actors -->
+  <rect x="60" y="100" width="120" height="40" class="actor"/>
+  <text x="95" y="125" class="text">User</text>
+
+  <rect x="60" y="260" width="120" height="40" class="actor"/>
+  <text x="90" y="285" class="text">Parent</text>
+
+  <rect x="60" y="480" width="120" height="40" class="actor"/>
+  <text x="100" y="505" class="text">Admin</text>
+
+  <rect x="60" y="640" width="140" height="40" class="actor"/>
+  <text x="70" y="665" class="text">OAuth2 Handler</text>
+
+  <!-- Use Cases -->
+  <rect x="440" y="60" width="340" height="50" class="usecase"/>
+  <text x="520" y="90" class="text">Initiate Login</text>
+
+  <rect x="440" y="130" width="340" height="50" class="usecase"/>
+  <text x="495" y="160" class="text">Authenticate via OAuth2</text>
+
+  <rect x="440" y="200" width="340" height="50" class="usecase"/>
+  <text x="520" y="230" class="text">Parental Approval</text>
+
+  <rect x="440" y="270" width="340" height="50" class="usecase"/>
+  <text x="510" y="300" class="text">Link or Create Account</text>
+
+  <rect x="440" y="340" width="340" height="50" class="usecase"/>
+  <text x="560" y="370" class="text">Assign Role</text>
+
+  <rect x="440" y="410" width="340" height="50" class="usecase"/>
+  <text x="530" y="440" class="text">Audit Login Event</text>
+
+  <rect x="440" y="480" width="340" height="50" class="usecase"/>
+  <text x="525" y="510" class="text">Match by External ID</text>
+
+  <rect x="440" y="550" width="340" height="50" class="usecase"/>
+  <text x="470" y="580" class="text">Fallback Match by Verified Email</text>
+
+  <rect x="440" y="620" width="340" height="50" class="usecase"/>
+  <text x="535" y="650" class="text">Detect Conflicts</text>
+
+  <rect x="440" y="690" width="340" height="50" class="usecase"/>
+  <text x="485" y="720" class="text">["Create New User (Verified Only)"]</text>
+
+  <rect x="440" y="760" width="340" height="50" class="usecase"/>
+  <text x="560" y="790" class="text">Log Link Outcome</text>
+
+  <rect x="440" y="830" width="340" height="50" class="usecase"/>
+  <text x="550" y="860" class="text">Review Logs</text>
+
+  <!-- Lines -->
+  <line x1="180" y1="120" x2="440" y2="85" class="line"/>
+  <line x1="180" y1="120" x2="440" y2="160" class="line"/>
+  <line x1="180" y1="120" x2="440" y2="300" class="line"/>
+  <line x1="180" y1="120" x2="440" y2="370" class="line"/>
+  <line x1="180" y1="120" x2="440" y2="440" class="line"/>
+  <line x1="180" y1="280" x2="440" y2="230" class="line"/>
+  <line x1="180" y1="280" x2="440" y2="300" class="line"/>
+  <line x1="180" y1="500" x2="440" y2="370" class="line"/>
+  <line x1="180" y1="500" x2="440" y2="650" class="line"/>
+  <line x1="180" y1="500" x2="440" y2="790" class="line"/>
+  <line x1="180" y1="500" x2="440" y2="860" class="line"/>
+  <line x1="200" y1="660" x2="440" y2="510" class="line"/>
+  <line x1="200" y1="660" x2="440" y2="580" class="line"/>
+  <line x1="200" y1="660" x2="440" y2="650" class="line"/>
+  <line x1="200" y1="660" x2="440" y2="720" class="line"/>
+  <line x1="200" y1="660" x2="440" y2="790" class="line"/>
+  <line x1="200" y1="660" x2="440" y2="860" class="line"/>
+</svg>

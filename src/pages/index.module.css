@@ -1,23 +1,67 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+  background-color: #052238; /* Bg color for the hero banner. */
+  padding: 50px 0; /* Inner margin for captoions and buttons. */
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em; /* space between logo and text */
+  margin-left: 20em;
+}
+
+.viviqdLogo {
+  max-width: 100%;
+  height: auto;
+  margin: 1em 1.5em 2em 0;
+}
+
+.hero__title {
+  text-align: center;
+  font-size: 3rem;
+  color: #2d3748;
+  margin-bottom: 0.5em;
+}
+
+.hero__subtitle {
+  text-align: center;
+  font-size: 1.25rem;
+  color: #4a5568;
+  margin-bottom: 1em;
 }
 
 .buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.overviewContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em 0.7em 0.5em 0.7em;
+  background-color: #ffffff;
+  border-radius: 1em;
+  box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.1);
+  margin-top: 0.2em;
+  margin-bottom: 0em;
+  font-size: 3rem;
+}
+
+.overviewTitle {
+  font-size: 2rem;
+  color: #2d3748;
+  text-align: center;
+  margin-bottom: 0.7em;
+}
+
+.overviewContainer p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #4a5568;
+  text-align: justify;
+}
+
+.bold-text {
+  font-weight: bold;
 }
