@@ -1,6 +1,6 @@
 {
   "name": "vivi-comm-lite-atlas",
-  "version": "0.0.0",
+  "version": "0.0.1-SNAPSHOT",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -16,12 +16,15 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
+    "@docusaurus/plugin-content-docs": "^3.7.0",
     "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/theme-mermaid": "^3.7.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "rimraf": "^6.0.1",
     "vivi-comm-lite-atlas": "file:"
   },
   "devDependencies": {

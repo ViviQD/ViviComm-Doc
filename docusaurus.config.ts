@@ -5,23 +5,24 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'ViviComm Lite Atlas',
+  tagline: 'ViviComm Medical AI Chatbot for kids.',
+  favicon: 'img/design.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://viviqd.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ViviComm-Lite-Atlas/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ViviQD', // Usually your GitHub org/user name.
+  projectName: 'ViviComm-Lite-Atlas', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -64,21 +65,36 @@ const config: Config = {
     ],
   ],
 
+/*   // Itt beállíthatod a verziózott dokumentációkat
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'versionedDocs', // Azonosító a verziózott dokumentációkhoz
+        path: 'docs/versionedDocs', // A verziózott dokumentációk mappája
+        routeBasePath: 'docs', // A dokumentációk útvonala
+        sidebarPath: require.resolve('./sidebars.ts'), // A sidebar fájl
+        editUrl: 'https://github.com/my-project/my-project/edit/main/',
+      },
+    ],
+  ], */ 
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'ViviComm Lite Atlas',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'ViviQD Logo',
+        src: 'img/viviqd-logo.svg',
       },
       items: [
+        // Tutorials menu
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -96,7 +112,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/Tutorial',
             },
           ],
         },
@@ -104,16 +120,72 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Website',
+              href: 'https://www.viviqd.com',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/4NC3V5BE',
             },
             {
               label: 'X',
+              href: 'https://x.com/viviqdai',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/viviqd/',
+            },
+            {
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com/users/30262572/viviqd',
+            },
+            {
+              label: 'Linkedin',
+              href: 'https://www.linkedin.com/company/viviqd',
+            },
+            {
+              label: 'Youtube',
               href: 'https://x.com/docusaurus',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/viviqdai/',
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/@viviqd_ai',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://www.reddit.com/user/ViviQD/',
+            },
+            {
+              label: 'Threads',
+              href: 'https://www.threads.net/@viviqdai',
+            },
+            {
+              label: 'Twitch',
+              href: 'https://www.twitch.tv/viviqd',
+            },
+            {
+              label: 'Pinterest',
+              href: 'https://hu.pinterest.com/viviqd_ai/',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://www.reddit.com/user/ViviQD/',
+            },
+            {
+              label: 'Quora',
+              href: 'https://www.quora.com/profile/ViviQD',
+            },
+            {
+              label: 'Udemy',
+              href: 'https://www.udemy.com/user/univital/',
+            },
+            {
+              label: 'lnk.bio',
+              href: 'https://lnk.bio/viviqd',
             },
           ],
         },
@@ -125,17 +197,20 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'ViviQD GitHub',
+              href: 'https://github.com/ViviQD',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ViviQD. All rights reserved. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    mermaid: {
+      theme: 'forest', // A Mermaid theme (eg. 'forest', 'dark', 'default')
     },
   } satisfies Preset.ThemeConfig,
 };
