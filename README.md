@@ -184,6 +184,13 @@ To deploy the ViviComm documentation using GitHub Pages, make sure the `docusaur
 npm run deploy
 ```
 
+### Windows standard:
+
+```shell
+yarn deploy
+```
+
+
 This command publishes the built files to the `gh-pages` branch, making your documentation live.
 
 ---
