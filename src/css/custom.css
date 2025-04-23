@@ -29,6 +29,11 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* hide md files from sidebar - DO NOT REMOVE */
+.hidden {
+  display: none !important;
+}
+
 .clean-list {
   column-count: 4;
 }

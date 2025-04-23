@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_class_name: hidden #<- add this if you want to hide this page.
 ---
 
 import Mermaid from '@site/src/components/Mermaid';
@@ -8,13 +8,7 @@ import Mermaid from '@site/src/components/Mermaid';
 
 This diagram represents the architecture of the system, illustrating the connections and relationships between key components.
 
-<Mermaid chart={`
-classDiagram
-    class WebFrontend {
-        +UI interaction
-        +Technologies: React, Zustand, TailwindCSS, Bit.Cloud
-    }
-
+```mermaid
     class API_Gateway {
         +uses for login
         +authenticates requests
@@ -310,16 +304,4 @@ classDiagram
     AzureMonitor --> NotificationCenter : tracks notification delivery
     AzureMonitor --> Redis : monitors cache usage and performance
     AzureMonitor --> AuditLogger : tracks log generation and errors
-`} />
-
-[System Architecture Diagram in Mermaid Editor](https://www.mermaidchart.com/app/projects/9ccdd3b5-dab4-48ac-a059-6dc1b4b4ce74/diagrams/b85812e0-c581-4bb8-9850-154a917cb464/version/v0.1/edit)
-
-(Use the hand tool to move the diagram around and the zoom tool to zoom in with ctrl+mousewheel)
-
-[System Architecture Diagram in SVG](https://www.mermaidchart.com/raw/b85812e0-c581-4bb8-9850-154a917cb464?theme=light&version=v0.1&format=svg)
-
-(Download the image with the right click menu)
-
-[System Architecture Diagram in md file, mermaid version](./system-architecture_mermaid.md)
-
-(Download the image with the right click menu)
+```
