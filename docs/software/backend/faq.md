@@ -55,5 +55,5 @@ To add your own questions and answers to the FAQ, simply edit the **FAQ.md** fil
 
 ---
 
-If you have any other questions, please don't hesitate to reach out to us at [support@vivicomm.com](mailto:support@vivicomm.com).
+If you have any other questions, please don't hesitate ask it on the **GitHub Issues** page or join the **ViviQD** community on [Reddit](https://www.reddit.com/user/ViviQD/).
 
