@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvivi_comm_lite_atlas=self.webpackChunkvivi_comm_lite_atlas||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/ViviComm-Lite-Atlas/blog","blogTitle":"Blog","authorsListPath":"/ViviComm-Lite-Atlas/blog/authors"}')}}]);

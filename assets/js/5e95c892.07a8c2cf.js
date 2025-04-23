@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvivi_comm_lite_atlas=self.webpackChunkvivi_comm_lite_atlas||[]).push([[647],{8122:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});a(6540);var r=a(4164),t=a(1082),c=a(204),i=a(2831),l=a(1410),u=a(4848);function n(e){return(0,u.jsx)(t.e3,{className:(0,r.A)(c.G.wrapper.docsPages),children:(0,u.jsx)(l.A,{children:(0,i.v)(e.route.routes)})})}}}]);

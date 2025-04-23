@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvivi_comm_lite_atlas=self.webpackChunkvivi_comm_lite_atlas||[]).push([[745],{279:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ViviComm-Lite-Atlas/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
