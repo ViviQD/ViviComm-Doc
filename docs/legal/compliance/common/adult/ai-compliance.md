@@ -1,0 +1,1 @@
+Részletes AI szabályozás 

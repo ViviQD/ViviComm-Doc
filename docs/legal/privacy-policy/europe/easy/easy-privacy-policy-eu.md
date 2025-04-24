@@ -1,0 +1,1 @@
+Európai egyszerűsített adatvédelmi szabályok 

@@ -1,0 +1,1 @@
+Egészségügyi adatvédelmi szabályok 

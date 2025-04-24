@@ -1,0 +1,1 @@
+Részletes felhasználási feltételek (felnőtteknek) 

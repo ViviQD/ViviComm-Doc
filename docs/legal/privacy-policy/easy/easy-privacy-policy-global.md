@@ -1,0 +1,1 @@
+Egyszerűsített adatvédelmi szabályok (globális) 

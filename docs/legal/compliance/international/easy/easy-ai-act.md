@@ -1,0 +1,1 @@
+Egyszerűsített AI Act szabályozás 
