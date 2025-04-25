@@ -160,9 +160,6 @@ Amennyiben bármilyen kérdése van a megfelelőségi szabályokkal vagy a szolg
 
 ## 7. Változatok
 
-A felnőtteknek szóló megfelelőség dokumentumok, amelyek a felnőttek számára készültek, elérhetők az alábbi linken:  
-[Felnőtteknek szóló változat](../adult/index.md)
-
 A gyerekek számára készült, könnyen érthető változat, amely segíti a megértést, szintén elérhető:  
 [Gyerekeknek szóló változat](../easy/index.md)
 
