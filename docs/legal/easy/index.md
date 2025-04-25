@@ -33,41 +33,41 @@ A **BastionGPT** az orvosi AI chatbot, amely orvosi tanácsokat adhat. Azonban f
 
 A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az alábbi alapvető adatvédelmi törvényeknek és előírásoknak.
 
-### ***Nemzetközi jogszabályok, rendeletek és szabványoknak való meggfelelés**
+## 6. Nemzetközi jogszabályok, rendeletek és szabványoknak való meggfelelés
 
-#### **Általános Adatvédelmi Rendelet (GDPR)**
+### **Általános Adatvédelmi Rendelet (GDPR)**
 
 - [**GDPR Compliance (EU adatvédelmi szabályok)**](../adult/gdpr-compliance.md)
 
-#### **AI Act (EU mesterséges intelligenciára vonatkozó rendelet)**
+### **AI Act (EU mesterséges intelligenciára vonatkozó rendelet)**
 
 - [**AI Act (EU mesterséges intelligenciára vonatkozó rendelet)**](../adult/eu-ai-act.md)
 
-#### **Egészségügyi adatkezelés Magyarországon**
+### **Egészségügyi adatkezelés Magyarországon**
 
 - [**Egészségügyi adatkezelés Magyarországon**](../adult/healthcare-compliance-hungary.md)
 
-#### **IEEE AI Etikai Irányelvek**
+### **IEEE AI Etikai Irányelvek**
 
 - [**IEEE AI Etikai Irányelvek**](../adult/ieee-ai-ethics.md)
 
-#### **Infotv. Compliance Magyarországon**
+### **Infotv. Compliance Magyarországon**
 
 - [**Infotv. Compliance Magyarországon**](../adult/infotv-compliance-hungary.md)
 
-#### **ISO 27799 Compliance**
+### **ISO 27799 Compliance**
 
 - [**ISO 27799 Compliance**](../adult/iso-27799-compliance.md)
 
-#### **OECD AI Etikai Irányelvek**
+### **OECD AI Etikai Irányelvek**
 
 - [**OECD AI Etikai Irányelvek**](../adult/oecd-ai-ethics.md)
 
-#### **USA CCPA Compliance**
+### **USA CCPA Compliance**
 
 - [**USA CCPA Compliance**](../adult/usa-cpra-compliance.md)
 
-### **Gyerekeknek szóló dokumentumok**
+## **Gyerekeknek szóló dokumentumok**
 
 A gyerekek számára készült dokumentumok segítenek megérteni az adatkezelés és jogi előírások szabályait, könnyen érthető formában.
 
