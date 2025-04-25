@@ -1,4 +1,4 @@
-# ISO 22301 – Üzletmenet Folytonosság – Megfelelés
+# ISO 22301 – Üzletmenet Folytonosság
 
 Ez a dokumentum bemutatja, hogyan biztosítja a **ViviComm** a **ViviQD** platform részeként az üzletmenet folytonosságának fenntartását és megfelelését az **ISO 22301** szabványnak. Az **ISO 22301** az üzletmenet folytonosságának kezelésére vonatkozó nemzetközi szabvány, amely célja a szervezetek számára biztosítani, hogy vészhelyzetek esetén is biztosítani tudják a szolgáltatásaik zavartalan működését.
 

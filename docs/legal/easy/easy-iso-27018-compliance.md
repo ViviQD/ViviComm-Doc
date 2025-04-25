@@ -1,4 +1,4 @@
-# ISO 27018 – Felhőalapú Adatvédelem – Megfelelés (Gyerekeknek)
+# ISO 27018 – Felhőalapú Adatvédelem (Gyerekeknek)
 
 Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan védi a felhasználói adatokat a felhőben, megfelelve az **ISO 27018** szabványnak. Az **ISO 27018** segít abban, hogy a felhőben tárolt adatokat biztonságosan kezeljük, és megvédjük őket a jogosulatlan hozzáféréstől.
 

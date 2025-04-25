@@ -1,4 +1,4 @@
-# E-Privacy Irányelv – Elektronikus adatkezelés – Megfelelés (Gyerekeknek)
+# E-Privacy Irányelv – Elektronikus adatkezelés (Gyerekeknek)
 
 Ez a dokumentum bemutatja, hogyan védjük meg a személyes adatokat a **ViviComm** rendszerében, és hogyan tartjuk be az **E-Privacy Directive** szabályokat, hogy az adataid biztonságban legyenek.
 

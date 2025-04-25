@@ -1,4 +1,4 @@
-# ISO/IEC 27001 – Információbiztonság – Megfelelés (Gyerekeknek)
+# ISO/IEC 27001 – Információbiztonság (Gyerekeknek)
 
 Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan védi a felhasználói adatokat, hogy azok biztonságban legyenek a szolgáltatásunk használata során, megfelelve az **ISO/IEC 27001** szabványnak.
 

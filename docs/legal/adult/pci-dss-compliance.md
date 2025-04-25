@@ -1,4 +1,4 @@
-# PCI DSS – Kártyaipari Adatvédelmi Szabványok – Megfelelés
+# PCI DSS – Kártyaipari Adatvédelmi Szabványok
 
 Ez a dokumentum bemutatja, hogyan biztosítja a **ViviComm** a **ViviQD** platform részeként a kártyaipari adatvédelmi szabványoknak való megfelelést, különös figyelmet fordítva a bankkártyás tranzakciók biztonságára. Mivel a **ViviComm** a **Stripe**-ot használja az internetes fizetések kezelésére, biztosítani kell, hogy a platform megfeleljen a PCI DSS (Payment Card Industry Data Security Standard) előírásainak.
 

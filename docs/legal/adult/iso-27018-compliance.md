@@ -1,4 +1,4 @@
-# ISO 27018 - Felhőalapú Adatvédelem - Megfelelés
+# ISO 27018 - Felhőalapú Adatvédelem
 
 Ez a dokumentum bemutatja, hogyan biztosítja a **ViviQD** platform **ViviComm** chat szolgáltatás az **ISO 27018:2019** felhőalapú adatvédelmi szabvány szerinti megfelelést. A szabvány célja, hogy biztosítsa a felhőalapú szolgáltatásokban tárolt személyes adatok védelmét, különös figyelmet fordítva az adatok biztonságos kezelésére és védelmére.
 

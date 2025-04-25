@@ -1,4 +1,4 @@
-# ISO 9001 - Minőségirányítási Rendszer - Megfelelés
+# ISO 9001 - Minőségirányítási Rendszer
 
 Ez a dokumentum bemutatja, hogyan biztosítja a **ViviQD** platform **ViviComm** chat szolgáltatás az **ISO 9001:2015** minőségirányítási szabvány szerinti megfelelést. A minőségirányítási rendszer célja a folyamatos fejlesztés és a felhasználói igények legmagasabb szintű kielégítése.
 

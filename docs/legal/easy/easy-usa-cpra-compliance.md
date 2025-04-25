@@ -1,4 +1,4 @@
-# California Privacy Rights Act (CPRA) - Kaliforniai Adatvédelmi Jogok Törvénye (Gyerekeknek)
+# California Privacy Rights Act (CPRA) (Gyerekeknek)
 
 Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **Kaliforniai Adatvédelmi Jogok Törvénye (CPRA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CPRA segít biztosítani, hogy a cégek tisztelettel bánjanak az adataiddal, és hogy te tudd, hogyan használják azokat.
 

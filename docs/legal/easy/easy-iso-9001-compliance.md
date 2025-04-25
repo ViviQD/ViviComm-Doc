@@ -1,4 +1,4 @@
-# ISO 9001 – Minőségirányítás – Megfelelés (Gyerekeknek)
+# ISO 9001 – Minőségirányítás (Gyerekeknek)
 
 Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan biztosítja a szolgáltatás minőségét és a felhasználói élményt, megfelelve az **ISO 9001** szabványnak. Az **ISO 9001** szabvány segít abban, hogy a szolgáltatások mindig magas színvonalúak legyenek, és minden felhasználó elégedett legyen a szolgáltatásokkal.
 

@@ -1,4 +1,4 @@
-# ISO/IEC 27001 – Információbiztonság – Megfelelés
+# ISO/IEC 27001 – Információbiztonság
 
 Ez a dokumentum bemutatja, hogyan biztosítja a **ViviQD** platform **ViviComm** chat szolgáltatás az **ISO/IEC 27001:2013** információbiztonság kezelésére vonatkozó nemzetközi szabvány szerinti megfelelést. Az ISO/IEC 27001 szabvány célja, hogy biztosítsa a szervezetek számára az információk biztonságos kezelését és védelmét, valamint az adatkezelési folyamatok átláthatóságát és megfelelő kontrollját.
 

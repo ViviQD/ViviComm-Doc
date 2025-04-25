@@ -1,4 +1,4 @@
-# California Consumer Privacy Act (CCPA) - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Felnőtteknek)
+# California Consumer Privacy Act (CCPA)
 
 Ez a dokumentum részletes tájékoztatást ad arról, hogy a **ViviComm** szolgáltatás hogyan biztosítja a felhasználók adatvédelmét a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** alapján. A CCPA az egyik legfontosabb adatvédelmi törvény, amely Kalifornia államban biztosítja a felhasználók számára az irányítást a személyes adataik kezelésében és védelmében.
 
