@@ -46,7 +46,7 @@ A **ViviComm** és az AI minden egyes válasza úgy van kialakítva, hogy a lehe
 
 ## 6. Kapcsolat
 
-Ha bárminemű kérdésed van a **ViviComm** AI működésével kapcsolatban, kérjük, hogy beszélj a szüleiddel, és közösen lépjetek kapcsolatba velünk:
+Ha bárminemű kérdésed van a **ViviComm** működésével kapcsolatban, kérjük, hogy beszélj a szüleiddel, és közösen lépjetek kapcsolatba velünk:
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 

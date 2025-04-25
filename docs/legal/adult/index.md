@@ -74,6 +74,23 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 
 ---
 
+## **Felnőtteknek szóló dokumentumok**
+
+A következő dokumentumok segítenek megérteni az adatkezelés és jogi előírások szabályait, könnyen érthető formában:
+
+- [**AI Act**](./eu-ai-act.md)
+- [**Adatkezelési Szabályok**](./data-retention.md)
+- [**GDPR Compliance**](./gdpr-compliance.md)
+- [**Egészségügyi Adatkezelés Magyarországon**](./healthcare-compliance-hungary.md)
+- [**IEEE AI Etikai Irányelvek**](./ieee-ai-ethics.md)
+- [**Infotv. Compliance Magyarországon**](./infotv-compliance-hungary.md)
+- [**ISO 27799 Compliance**](./iso-27799-compliance.md)
+- [**OECD AI Etikai Irányelvek**](./oecd-ai-ethics.md)
+- [**USA CPRA Compliance**](./usa-cpra-compliance.md)
+- [**USA CCPA Compliance**](./usa-ccpa-compliance.md)
+
+---
+
 ### **A jogi megfelelés fenntartása**
 
 A **ViviQD** folyamatosan figyelemmel kíséri a jogszabályi változásokat és frissíti a megfelelőségi intézkedéseit annak érdekében, hogy mindig megfeleljen a vonatkozó jogszabályoknak és szabványoknak. Az adatvédelmi és biztonsági intézkedések rendszeres felülvizsgálatára kerül sor, hogy biztosítsuk a személyes adatok védelmét.
