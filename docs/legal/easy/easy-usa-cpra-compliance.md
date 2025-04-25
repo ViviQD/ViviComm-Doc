@@ -13,6 +13,7 @@ A **ViviComm** a következő adatokat tárolja, ha használod a szolgáltatásun
 - A neved
 - Az e-mail címed
 - Egyéb kapcsolattartási adataid, ha megosztod velünk
+- Életkorod
 - Az orvosi adataid, ha megosztod velünk
 
 ### Hogyan használjuk az adataidat?
