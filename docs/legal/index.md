@@ -29,7 +29,6 @@ A felhasználók a rendszer használatával kijelentik, hogy tudomásul veszik: 
 
 A **ViviQD** folyamatosan figyelemmel kíséri a jogszabályi változásokat és frissíti a megfelelőségi intézkedéseit annak érdekében, hogy mindig megfeleljen a vonatkozó jogszabályoknak és szabványoknak. Az adatvédelmi és biztonsági intézkedések rendszeres felülvizsgálatára kerül sor, hogy biztosítsuk a személyes adatok védelmét.
 
-
 ## 5. Következtetés
 
 A ViviQD elkötelezett amellett, hogy biztosítsa a ViviComm szolgáltatás jogszerű működését és az adatvédelmi előírások betartását. A rendszer minden adatkezelési és biztonsági intézkedése megfelel a nemzetközi jogszabályoknak és iparági szabványoknak, beleértve a GDPR, AI Act, HIPAA és más hasonló előírásokat.

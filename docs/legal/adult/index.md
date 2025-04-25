@@ -137,14 +137,12 @@ A következő dokumentumok segítenek megérteni az adatkezelés és jogi előí
 - [**OECD AI Etikai Irányelvek**](./oecd-ai-ethics.md)
 - [**USA CPRA Megfelelés**](./usa-cpra-compliance.md)
 - [**USA CCPA Megfelelés**](./usa-ccpa-compliance.md)
-
 - [**ISO 9001 Minőségirányítás Megfelelés**](./usa-ccpa-compliance.md)
 - [**E-Privacy Irányelv Megfelelés**](./usa-ccpa-compliance.md)
 - [**ISO 22301 Üzletmenet Folytonosság Megfelelés**](./usa-ccpa-compliance.md)
 - [**ISO 27018 Felhőalapú Adatvédelem Megfelelés**](./usa-ccpa-compliance.md)
 - [**ISO/IEC 27001 Információbiztonság Megfelelés**](./usa-ccpa-compliance.md)
 - [**PCI DSS Kártyaipari Adatvédelmi Szabványok**](./usa-ccpa-compliance.md)
-
 
 ---
 
