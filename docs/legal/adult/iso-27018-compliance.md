@@ -39,3 +39,7 @@ A **ViviComm** folyamatosan biztosítja, hogy az adatkezelési és adatvédelmi 
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** megfeleljen az ISO 27018 szabvány előírásainak, így garantálva a felhasználói adatok biztonságát és védelmét.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-iso-27018-compliance.md)

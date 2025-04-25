@@ -53,5 +53,7 @@ Ha bárminemű kérdésed van a **ViviComm** működésével kapcsolatban, kérj
 --- 
 
 Ez a dokumentum bemutatja, hogyan biztosítja a **ViviComm** az etikus és biztonságos mesterséges intelligencia használatát, és hogyan védjük meg a felhasználók jogait.
-
-
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/ieee-ai-ethics.md)

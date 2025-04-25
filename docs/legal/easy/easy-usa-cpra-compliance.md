@@ -1,39 +1,48 @@
-# USA CCPA Megfelelés - (Gyerekeknek)
+# California Privacy Rights Act (CPRA) - Kaliforniai Adatvédelmi Jogok Törvénye (Gyerekeknek)
 
-Ez a dokumentum elmagyarázza, hogyan védjük a személyes adataidat a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** szerint, ha a **ViviComm** szolgáltatást használod.
+Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **Kaliforniai Adatvédelmi Jogok Törvénye (CPRA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CPRA segít biztosítani, hogy a cégek tisztelettel bánjanak az adataiddal, és hogy te tudd, hogyan használják azokat.
 
-## 1. Mi a CCPA?
+## Mi az a CPRA?
 
-A **CCPA** egy törvény Kaliforniában, amely biztosítja, hogy a felhasználók kontrollálhassák a saját személyes adataikat. A **ViviComm** teljesíti ezt a törvényt, hogy védje a személyes adataidat.
+A **Kaliforniai Adatvédelmi Jogok Törvénye (CPRA)** egy olyan törvény, amely azt biztosítja, hogy a cégek biztonságosan kezeljék a személyes adatokat, és hogy te, mint felhasználó, megismerhesd, mi történik az adataiddal.
 
-## 2. Mi történik az adataiddal?
+## Milyen adatokat használunk?
 
-A **ViviComm** a következő adatokat tárolja, ha használod a szolgáltatásunkat:
+A **ViviComm** szolgáltatásban az alábbi adatokat kérhetjük tőled, amikor regisztrálsz vagy használod a szolgáltatást:
 
 - A neved
 - Az e-mail címed
 - Egyéb kapcsolattartási adataid, ha megosztod velünk
-- Életkorod
 - Az orvosi adataid, ha megosztod velünk
 
-### Hogyan használjuk az adataidat?
+Mi biztosítjuk, hogy mindezt biztonságosan kezeljük és senki nem férhet hozzá az adataidhoz, hacsak te nem engeded meg.
 
-Az adataidat kizárólag arra használjuk, hogy segíthessünk neked orvosi tanácsokkal, és hogy megfelelő szolgáltatásokat nyújthassunk. Mivel te is és a szüleid beleegyeztek, hogy tároljuk azokat, biztosítjuk, hogy biztonságban legyenek.
+## Mit tehetsz a saját adataiddal?
 
-## 3. Hogyan kérheted, hogy töröljük az adataidat?
+A CPRA biztosítja, hogy te mindig tudhasd, mi történik az adataiddal. Jogosult vagy arra, hogy:
 
-Te és a szüleid jogosultak kérni, hogy töröljük az adatokat, ha már nincs rá szükség. Ha szeretnéd, kérheted az adatokat a szüleid segítségével, és ők kérhetik azok törlését. Az adatok törlését követően nem lesznek elérhetők a rendszerünkben, kivéve, ha a törvények másképp rendelkeznek.
+- **Megnézd** a saját adataidat, amiket mi tárolunk.
+- **Kérd**, hogy töröljük az adataidat, ha már nincs rájuk szükség.
+- **Tudd, hogy hogyan használjuk az adataidat**, és kérheted, hogy ne használjuk reklám célokra.
 
-## 4. Hogyan férhetsz hozzá az adataidhoz?
+## Hogyan védjük az adataidat?
 
-Ha szeretnéd látni, milyen adatokat tárolunk rólad, kérheted, hogy mutassuk meg neked. Ha bármi hibás vagy pontatlan, kérheted azok javítását.
+Minden adatot titkosítunk és biztonságosan tárolunk, hogy mások ne férhessenek hozzájuk. Az adataid csak azok számára elérhetők, akiknek szükségük van rá, például orvosok, ha te beleegyezel.
 
-## 5. Kapcsolat
+## Mi történik, ha nem akarod, hogy az adataidat használjuk?
 
-Ha bármilyen kérdésed van az adataid védelmével kapcsolatban, vagy szeretnél több információt kapni, kérjük, lépj kapcsolatba velünk a következő e-mail címen:
-
-- **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
+Ha nem szeretnéd, hogy a **ViviComm** használja a személyes adataidat, akkor bárminemű adatfelhasználásról lemondhatsz. Ezt bármikor megteheted, és biztosítjuk, hogy az adataid ne legyenek tovább használva semmilyen célra.
 
 ---
 
-Ez a dokumentum segít megérteni, hogyan kezeljük a személyes adataidat, és hogyan biztosítjuk a biztonságos adatkezelést a **ViviComm** szolgáltatásában.
+Ha bármi kérdésed van, vagy szeretnéd, hogy módosítsuk az adataidat, kérjük, vedd fel velünk a kapcsolatot!
+
+- **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
+
+--- 
+
+Ez a dokumentum segít megérteni, hogyan védjük az adataidat és hogyan biztosítjuk, hogy minden a törvényeknek megfelelően történjen a **ViviComm** szolgáltatásban.
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogilag csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/usa-cpra-compliance.md)

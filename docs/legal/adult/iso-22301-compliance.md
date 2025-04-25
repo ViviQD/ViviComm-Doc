@@ -41,3 +41,7 @@ A **ViviComm** folyamatosan biztosítja, hogy az üzletmenet folytonosságát a 
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** platform teljes mértékben megfeleljen az **ISO 22301** előírásainak, és minden üzleti folyamatot zavartalanul biztosít a felhasználók számára még vészhelyzetek esetén is.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-iso-22301-compliance.md)

@@ -152,5 +152,7 @@ Ha bármilyen kérdésed van a szolgáltatás működésével, vagy az adatkezel
 Ez a dokumentum segít megérteni, hogy hogyan biztosítjuk a személyes adatok védelmét és hogyan működik a **ViviComm** adatkezelése, hogy a szolgáltatás jogszerűen működjön, miközben tiszteletben tartjuk a felhasználók jogait.
 
 ---
-
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat, de jogilag csak ez figyelembe vehető, elérhető itt: 
 [**Felnőtteknek szóló változat**](../adult/index.md)

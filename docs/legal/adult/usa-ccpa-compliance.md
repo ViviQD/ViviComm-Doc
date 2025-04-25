@@ -1,58 +1,65 @@
-# USA CCPA Megfelelés - Kaliforniai Fogyasztóvédelmi Jogi Szabályok
+# California Consumer Privacy Act (CCPA) - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Felnőtteknek)
 
-Ez a dokumentum tájékoztatást nyújt a **ViviComm** szolgáltatás adatkezelési gyakorlatáról és annak megfelelőségéről a **California Consumer Privacy Act (CCPA)** előírásaival kapcsolatban, amely biztosítja a kaliforniai lakosok személyes adatainak védelmét.
+Ez a dokumentum részletes tájékoztatást ad arról, hogy a **ViviComm** szolgáltatás hogyan biztosítja a felhasználók adatvédelmét a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** alapján. A CCPA az egyik legfontosabb adatvédelmi törvény, amely Kalifornia államban biztosítja a felhasználók számára az irányítást a személyes adataik kezelésében és védelmében.
 
-## 1. Bevezetés
+## Mi az a CCPA?
 
-A **ViviComm** teljes mértékben elkötelezett amellett, hogy megfeleljen a **California Consumer Privacy Act (CCPA)** törvény előírásainak, és biztosítja, hogy a felhasználók személyes adatai biztonságosan és törvényes módon kerüljenek kezelésre. A CCPA jogot biztosít a felhasználók számára arra, hogy hozzáférjenek, módosítsák, töröljék és továbbítsák adataikat.
+A **California Consumer Privacy Act (CCPA)** 2018-ban került bevezetésre, és Kalifornia állam adatvédelmi törvénye. Az alapvető célja, hogy biztosítsa, hogy a felhasználók jogot kapjanak személyes adataik kezelésére, megismerhessék, hogy mely adatokat gyűjtik róluk, és kérhessék azok törlését vagy módosítását.
 
-## 2. A Felhasználói Jogok a CCPA Alapján
+A CCPA különösen fontos, mivel előírja, hogy a cégek, mint a **ViviComm**, hogyan kezeljék a kaliforniai felhasználók személyes adatait, és miként biztosítsák, hogy az adatok ne kerüljenek jogosulatlan felhasználásra vagy kiadásra.
 
-A **ViviComm** szolgáltatás biztosítja, hogy minden kaliforniai felhasználó élhessen a **CCPA** által biztosított jogokkal, ideértve a következőket:
+## Milyen adatokat kezelünk?
 
-### **2.1. Hozzáférési jog**
-A felhasználók jogosultak kérni az adataikhoz való hozzáférést, valamint egy részletes jelentést arról, hogy milyen személyes adatokat gyűjtöttünk róluk, hogyan használjuk fel azokat, és kivel osztjuk meg.
+A **ViviComm** szolgáltatás során a következő típusú adatokat kezeljük:
 
-### **2.2. Adatok törlésének jog**
-A felhasználók jogosultak kérni a személyes adataink törlését, amennyiben azok már nem szükségesek a szolgáltatás biztosításához, vagy ha más jogi kötelezettség nem indokolja azok megőrzését.
+- **Személyes adatok**: Azok az adatok, amelyeket közvetlenül tőled gyűjtünk, például a neved, e-mail címed, telefonszámod, és más kapcsolattartási információid.
+- **Egészségügyi adatok**: Az orvosi kérdések, diagnózisok és bármilyen egyéb orvosi információ, amelyet a szolgáltatás használata során megosztasz velünk. 
 
-### **2.3. Adathordozhatóság**
-A felhasználók kérhetik az adataik átvitelét más adatkezelőhöz, ha azok jogilag lehetségesek és a CCPA rendelkezéseinek megfelelően.
+A **ViviComm** biztosítja, hogy ezen adatok kezelésére kizárólag az általad megadott beleegyezés alapján kerül sor, és azok kizárólag az általad igényelt orvosi tanácsadás biztosítása érdekében kerülnek felhasználásra.
 
-### **2.4. Tiltakozási jog**
-A felhasználók jogot kapnak arra, hogy tiltakozzanak a személyes adataik kezelésével szemben, különösen, ha azok marketing célokra kerülnek felhasználásra. Ezen kívül jogukban áll arra, hogy megakadályozzák az adatok értékesítését harmadik fél számára.
+## Mit tehetsz a saját adataiddal?
 
-### **2.5. Növelt védelem 16 év alatti gyermekek adatainak védelme**
-A **ViviComm** biztosítja, hogy ha a felhasználó 16 éves vagy annál fiatalabb, az adatkezelés csak a szülői beleegyezés alapján történik. A felhasználók szülői engedély nélkül nem regisztrálhatnak a **ViviComm** szolgáltatásban.
+A CCPA biztosítja számos jogot, amelyek lehetővé teszik számodra, hogy kontrolláld, hogyan használják a személyes adataidat. Ezek a jogok a következők:
 
-## 3. Adatkezelés és Átláthatóság
+### 1. **Hozzáférési jog**
+A felhasználó jogosult arra, hogy hozzáférjen azokhoz az adatokhoz, amelyeket a **ViviComm** gyűjtött róla. Ez magában foglalja a személyes adatokat, a gyűjtési forrást, valamint azt, hogy az adatokat hogyan használják fel. A felhasználó kérheti, hogy az összes tárolt adatot megismerhesse.
 
-A **ViviComm** biztosítja, hogy a személyes adatokat átláthatóan kezeljük és minden szükséges információval ellássuk a felhasználókat az adatkezelési folyamatokkal kapcsolatban. A CCPA értelmében a következő adatkezelési gyakorlatokat alkalmazzuk:
+### 2. **Adatok törlésének joga**
+A felhasználó jogosult arra, hogy kérje a személyes adatainak törlését, ha már nincs szükség a további kezelésükre. A törlés nem vonatkozik a jogszabályoknak megfelelően tárolt, például a pénzügyi vagy adózási célú adatkezelésekre, amelyek esetében a törlés jogilag nem lehetséges.
 
-- **Adatok gyűjtése és felhasználása**: A felhasználók által megadott személyes adatokat a szolgáltatás biztosításához szükséges célokra használjuk, és nem tároljuk őket hosszabb ideig, mint szükséges.
-- **Adatok megosztása**: A felhasználói adatokat nem osztjuk meg harmadik féllel a felhasználók beleegyezése nélkül, kivéve, ha erre jogszabályi kötelezettségünk van.
-- **Adatok értékesítése**: A **ViviComm** nem értékesíti a felhasználók személyes adatait harmadik fél számára.
+### 3. **Adatok hordozhatósága**
+A felhasználónak joga van kérni, hogy az általa megadott adatokat átvigyék egy másik adatkezelőhöz. A **ViviComm** biztosítja ezt a lehetőséget a megfelelő jogszabályoknak megfelelően.
 
-## 4. Adatok Törlésének Szabályai
+### 4. **Tiltakozás az adatkezelés ellen**
+A felhasználó jogosult arra, hogy kérje a személyes adatai feldolgozásának korlátozását vagy leállítását, különösen, ha nem járul hozzá az adatok marketing célú felhasználásához. Ez a jog az adatkezelési alapok módosítását is lehetővé teszi.
 
-A **ViviComm** az adatkezelést a **CCPA** és az alkalmazandó adatvédelmi törvények alapján végzi. A felhasználók jogosultak törölni személyes adataikat a következő feltételek mellett:
+### 5. **Nem kerülhetsz hátrányos helyzetbe**
+A **CCPA** garantálja, hogy a felhasználóknak jogukban áll kérni az adataik törlését vagy módosítását anélkül, hogy emiatt hátrányos helyzetbe kerülnének. Ez azt jelenti, hogy ha gyakorolsz egy jogot, például törlöd az adataidat, nem kell aggódnod amiatt, hogy a szolgáltatás igénybevételéhez hátrányos feltételek társulnak.
 
-- Amennyiben az adatok nem szükségesek a szolgáltatás biztosításához.
-- Ha a felhasználó visszavonja a hozzájárulását, és jogszabályi kötelezettség nem indokolja a további adatkezelést.
-- Ha a felhasználó kérésére törlés történik, és ezt törvények nem akadályozzák.
+## Miért fontos a CCPA?
 
-Az adatok törlését követően azok nem kerülnek tovább tárolásra, kivéve, ha jogszabályi előírások kötelezik azok megőrzésére.
+A CCPA fontos szabályozás, mivel lehetővé teszi, hogy a felhasználók jobban megértsék, hogyan használják az adataikat, és miként védhetik meg őket. Ezenkívül biztosítja, hogy a vállalatok, mint a **ViviComm**, átláthatóan és felelősségteljesen kezeljék a felhasználók személyes adatokat.
 
-## 5. A CCPA-hoz való megfelelés
+## CCPA és a **ViviComm** kötelezettségei
 
-A **ViviComm** teljes mértékben megfelel a **California Consumer Privacy Act (CCPA)** törvény követelményeinek, és biztosítja, hogy minden felhasználói adatkezelési folyamat, ideértve a személyes adatokat, a törvényben előírt módon történjen.
+A **ViviComm** biztosítja, hogy:
 
-## 6. Kapcsolat
+- A felhasználók adatainak kezelése megfeleljen a **CCPA** szabályainak.
+- Az adatok gyűjtése, tárolása és felhasználása átlátható legyen.
+- A felhasználóknak minden jogukat biztosítjuk, hogy módosíthassák, törölhessék vagy hordozhassák az adatokat.
 
-Ha bármilyen kérdése van a CCPA-val kapcsolatos adatkezeléssel kapcsolatban, kérjük, lépjen kapcsolatba velünk az alábbi elérhetőségeken:
+## Hogyan kérheted a jogaid gyakorlását?
+
+Ha szeretnéd gyakorolni a jogaidat a **ViviComm** szolgáltatásban, például szeretnéd hozzáférni az adataidhoz, kérni azok törlését, vagy kérni az adatkezelés korlátozását, vedd fel velünk a kapcsolatot a következő módon:
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
 ---
 
-Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás adatkezelése megfeleljen a **California Consumer Privacy Act (CCPA)** előírásainak, és garantálja a felhasználói jogok tiszteletben tartását.
+További információ a **California Consumer Privacy Act (CCPA)**-ról itt található:  
+- [California Consumer Privacy Act (CCPA) teljes szövege](https://oag.ca.gov/privacy/ccpa)
+
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-usa-ccpa-compliance.md)

@@ -74,3 +74,7 @@ Amennyiben bármilyen kérdése van a GDPR-nak való megfelelésünkkel vagy a s
 ---
 
 Ez a dokumentum áttekintést nyújt a **ViviComm** és a **ViviQD** adatvédelmi intézkedéseiről és azok GDPR előírásoknak való megfeleléséről.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-gdpr-compliance.md)

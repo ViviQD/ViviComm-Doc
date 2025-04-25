@@ -66,3 +66,7 @@ Ha bármilyen kérdése van az IEEE AI etikai szabályokkal kapcsolatban, kérj�
 ---
 
 Ez a dokumentum tartalmazza az IEEE AI Ethics irányelveit, amelyek segítenek biztosítani a **ViviComm** szolgáltatásának etikai és jogi megfelelőségét. A hivatkozásokat a dokumentum elején találhatók. Ha további információra van szükséged, kérlek, lépj kapcsolatba velünk.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-ieee-ai-ethics.md)

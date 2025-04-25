@@ -47,4 +47,7 @@ Ha bármilyen kérdésed van az AI működésével kapcsolatban, vagy szeretnél
 ---
 
 Ez a dokumentum segít megérteni, hogyan alkalmazzuk az **OECD AI Etikai Szabályokat** a **ViviComm** szolgáltatásban, hogy biztonságos és megbízható választ kapj. Ha bármilyen kérdésed van, kérlek, vedd fel velünk a kapcsolatot.
-
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/oecd-ai-ethics.md)

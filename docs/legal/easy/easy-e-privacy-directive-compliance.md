@@ -31,3 +31,7 @@ A **ViviComm** az **E-Privacy Directive** szabályai szerint dolgozik, hogy bizt
 ---
 
 Ez a dokumentum segít megérteni, hogyan biztosítjuk a személyes adatok védelmét a **ViviComm** rendszerén belül az **E-Privacy Directive** előírásainak megfelelően, és hogy miért fontos az adatvédelem.
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/e-privacy-directive-compliance.md)

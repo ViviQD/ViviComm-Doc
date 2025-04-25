@@ -35,3 +35,7 @@ Ha bárminemű kérdésed van az adatkezelésről, törlésről vagy a szolgált
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás megfeleljen az adatvédelmi szabályoknak, és hogy a személyes és orvosi adatokat biztonságosan kezeljük. Ha további kérdéseid vannak, kérlek, tudasd velünk.
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/data-retention.md)

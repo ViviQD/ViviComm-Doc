@@ -32,3 +32,9 @@ A **ViviComm** mindig arra törekszik, hogy a felhasználók számára megbízha
 ---
 
 Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan biztosítja, hogy a szolgáltatás mindig kiváló minőségű legyen, és hogyan alkalmazza az **ISO 9001** szabványt, hogy a felhasználók mindig elégedettek legyenek.
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/iso-9001-compliance.md)
+
+

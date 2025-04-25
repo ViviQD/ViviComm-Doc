@@ -41,4 +41,7 @@ Ha bárminemű kérdésed van az adataid kezelésével kapcsolatban, kérjük, b
 ---
 
 Ez a dokumentum bemutatja, hogyan biztosítjuk az orvosi adatok védelmét a **ViviComm** szolgáltatásban, és hogyan biztosítjuk, hogy mindent a törvényeknek megfelelően kezeljünk. Ha bármilyen kérdésed van, kérlek, vedd fel velünk a kapcsolatot.
-
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/iso-27799-compliance.md)

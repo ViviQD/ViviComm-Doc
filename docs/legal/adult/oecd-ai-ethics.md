@@ -51,4 +51,7 @@ Ha bármilyen kérdése van az **OECD AI Etikai Szabályok** alkalmazásával ka
 ---
 
 Ez a dokumentum részletes leírást tartalmaz az **OECD AI Etikai Szabályok** betartásáról a **ViviComm** szolgáltatásban, és biztosítja, hogy a rendszer teljes mértékben megfeleljen a nemzetközi etikai előírásoknak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
-
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-oecd-ai-ethics.md)

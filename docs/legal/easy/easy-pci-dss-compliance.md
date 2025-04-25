@@ -31,3 +31,7 @@ A **ViviComm** a **PCI DSS** szabályai szerint dolgozik, hogy biztosítsa a ban
 ---
 
 Ez a dokumentum segít megérteni, hogyan biztosítjuk a bankkártyás adatok védelmét a **ViviComm** rendszerén belül a **PCI DSS** előírásainak megfelelően, és hogy miért fontos az adatvédelem.
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/pci-dss-compliance.md)

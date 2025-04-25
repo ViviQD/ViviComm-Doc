@@ -156,11 +156,10 @@ Amennyiben bármilyen kérdése van a megfelelőségi szabályokkal vagy a szolg
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
-## 7. Változatok
-
-A gyerekek számára készült, könnyen érthető változat, amely segíti a megértést, szintén elérhető:  
-[Gyerekeknek szóló változat](../easy/index.md)
-
 ---
 
 Ez a dokumentum áttekintést nyújt a ViviQD megfelelőségi intézkedéseiről és azok alkalmazásáról, hogy biztosítsa a szolgáltatás jogszerű működését és az adatvédelmi előírások betartását.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[Gyerekeknek szóló változat](../easy/index.md)

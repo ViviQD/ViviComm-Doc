@@ -75,3 +75,7 @@ Ha bármilyen kérdése van a **USA CPRA** törvénnyel vagy a személyes adatok
 ---
 
 Ez a dokumentum tartalmazza a **USA CPRA** törvénynek való megfelelőséget, és biztosítja, hogy a **ViviComm** szolgáltatás teljes mértékben megfeleljen a felhasználók adatvédelmi jogainak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-usa-cpra-compliance.md)

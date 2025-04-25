@@ -1,47 +1,48 @@
-# USA CCPA Megfelelés - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Gyerekeknek)
+# California Consumer Privacy Act (CCPA) - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Gyerekeknek)
 
-Ez a dokumentum egyszerűen és érthetően elmagyarázza, hogyan védjük a személyes adataidat a Kaliforniai Fogyasztóvédelmi Jogi Szabályoknak megfelelően, és hogy miként biztosítjuk, hogy a te és a szüleid jogai védve legyenek, amikor a **ViviComm** szolgáltatását használod.
+Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CCPA segít biztosítani, hogy a cégek biztonságosan kezeljék a személyes adataidat, és hogy te tudd, hogyan használják azokat.
 
-## 1. Mi a CCPA?
+## Mi az a CCPA?
 
-A **CCPA (California Consumer Privacy Act)** a Kaliforniában élő emberek jogait védi, hogy tudják, hogyan gyűjtjük és használjuk az ő személyes adataikat. Ha te Kaliforniában élsz, akkor neked és a szüleidnek jogotok van tudni, mi történik az adataitokkal.
+A **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** egy olyan törvény, amely biztosítja, hogy a cégek biztonságosan kezeljék a személyes adatokat. Ez a törvény különösen fontos a kaliforniai felhasználók számára, mert így biztosítva van, hogy megvédjék az adataikat.
 
-A **ViviComm** tiszteletben tartja a CCPA előírásait és biztosítja a felhasználók jogainak védelmét.
+## Milyen adatokat használunk?
 
-## 2. A Felhasználók Jogai
+A **ViviComm** szolgáltatásban az alábbi adatokat kérhetjük tőled, amikor regisztrálsz vagy használod a szolgáltatást:
 
-A **CCPA** biztosítja neked és a szüleidnek a következő jogokat a személyes adatkezeléssel kapcsolatban:
+- A neved
+- Az e-mail címed
+- Egyéb kapcsolattartási adataid, ha megosztod velünk
+- Az orvosi adataid, ha megosztod velünk
 
-### **2.1. Hozzáférés a személyes adatokhoz**
-- Jogosult vagy arra, hogy tudd, milyen adatokat gyűjtünk rólad. Kérheted, hogy tájékoztassunk arról, hogy mi történik a te személyes adataiddal.
+A **ViviComm** biztosítja, hogy mindezt biztonságosan kezeljük, és soha nem osztjuk meg őket senkivel, akivel nem kellene.
 
-### **2.2. Adatok törlése**
-- Ha nem szükségesek már a szolgáltatás biztosításához, kérheted, hogy töröljük a rólad tárolt adatokat.
+## Mit tehetsz a saját adataiddal?
 
-### **2.3. Tiltakozás a személyes adatok kezelésével szemben**
-- Ha nem szeretnéd, hogy a személyes adataidat gyűjtsük vagy felhasználjuk, kérheted, hogy ne használjuk azokat a jövőben.
+A CCPA biztosítja, hogy te mindig tudhasd, mi történik az adataiddal. Jogosult vagy arra, hogy:
 
-### **2.4. Adatok átvitele**
-- Ha szeretnéd, kérheted, hogy az adataidat átadjuk más szolgáltatóknak, amennyiben ezt a törvények lehetővé teszik.
+- **Megnézd** a saját adataidat, amiket mi tárolunk.
+- **Kérd**, hogy töröljük az adataidat, ha már nincs rájuk szükség.
+- **Ne hagyd, hogy az adataidat más cégek reklámra használják** anélkül, hogy te beleegyeznél.
 
-### **2.5. Adatok módosítása**
-- Ha bármilyen adat, amit rólad gyűjtöttünk, hibás vagy elavult, jogosult vagy arra, hogy kérd annak módosítását. Ha a szüleid is beleegyeznek, ők segíthetnek abban, hogy az adatokat helyesbítsük, hogy mindig a legpontosabb információk legyenek a rendszerben.
+## Hogyan védjük az adataidat?
 
-## 3. Hogyan Védjük Az Adataidat?
+Mi mindent megteszünk azért, hogy az adataid biztonságban legyenek. Minden adatot titkosítunk, hogy mások ne férhessenek hozzájuk. Ha bárki szeretne hozzáférni az adataidhoz, mi biztosítjuk, hogy csak te és azok férhessenek hozzá, akiknek valóban szükségük van rá, például orvosok, ha te beleegyezel.
 
-A **ViviComm** biztosítja, hogy a személyes adataidat titkosítva tároljuk és biztonságosan kezeljük. Az adatokat csak azok a személyek láthatják, akiknek szükségük van rá ahhoz, hogy segítsenek, és csak akkor férhetnek hozzájuk, ha a szüleid beleegyeztek.
+## Mi történik, ha nem akarod, hogy az adataidat használjuk?
 
-## 4. A Szüleid Szerepe
-
-A személyes adataid kezelésekor a szüleidnek beleegyezésükre van szükségük. Ők biztosítják, hogy az adataidat biztonságban kezeljük, és figyelemmel kísérhetik, hogy mi történik azokkal. Ha bármilyen kérdésed van, a szüleid segíthetnek abban is, hogy mi történik az adataiddal.
-
-## 5. Kapcsolat
-
-Ha bárminemű kérdésed van a személyes adataiddal kapcsolatban, kérjük, hogy a szüleiddel lépj kapcsolatba, és tedd fel a kérdéseidet az alábbi elérhetőségek egyikén:
-
-- **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
+Ha nem szeretnéd, hogy a **ViviComm** használja a személyes adataidat, akkor bárminemű adatfelhasználásról lemondhatsz. Ezt bármikor megteheted, és biztosítjuk, hogy az adataid ne legyenek tovább használva semmilyen célra.
 
 ---
 
-Ez a dokumentum elmagyarázza, hogy hogyan kezeljük a személyes adataidat a **ViviComm** alkalmazásban, és hogyan biztosítjuk, hogy a **CCPA** törvényeknek megfelelően védve legyenek a jogaid.
+Ha bármi kérdésed van, vagy szeretnéd, hogy módosítsuk az adataidat, kérjük, vedd fel velünk a kapcsolatot!
 
+- **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
+
+--- 
+
+Ez a dokumentum elmagyarázza, hogy hogyan kezeljük a személyes adataidat a **ViviComm** alkalmazásban, és hogyan biztosítjuk, hogy a **CCPA** törvényeknek megfelelően védve legyenek a jogaid.
+<br/>
+<br/>
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/usa-ccpa-compliance.md)

@@ -53,3 +53,7 @@ A **ViviComm** biztosítja, hogy minden adatkezelési folyamat, ideértve az ada
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás adatmegőrzési politikája összhangban áll az adatkezelési szabályokkal, és figyelembe veszi a felhasználói jogokat. Ha további kérdései vannak, vagy szeretné módosítani az adatkezelési preferenciáit, kérjük, vegye fel velünk a kapcsolatot.
+<br/>
+<br/>
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-data-retention.md)
