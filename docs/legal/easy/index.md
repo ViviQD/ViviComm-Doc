@@ -23,45 +23,45 @@ A **BastionGPT** egy mesterséges intelligencia, amely orvosi tanácsokat ad. Az
 
 Mi biztosítjuk, hogy az adatokat a megfelelő szabályok szerint kezeljük. Az alábbi szabályok és előírások alapján dolgozzuk fel az adataidat:
 
-### **EU-s jogszabályok**
+### 4.1 **EU-s jogszabályok**
 
-### **Általános Adatvédelmi Rendelet (GDPR)**
+#### 4.1.1 **Általános Adatvédelmi Rendelet (GDPR)**
 
 - Az **Általános Adatvédelmi Rendelet (GDPR)** az Európai Unió adatvédelmi törvénye, amely előírja a személyes adatok védelmét és az adatkezelési folyamatok átláthatóságát. A rendelet célja a felhasználók adatvédelmi jogainak védelme, valamint az adatok biztonságos kezelésének elősegítése.
 - [**További információ**](https://gdpr-info.eu/)
 
-### **AI Act (EU mesterséges intelligenciára vonatkozó rendelet)**
+#### 4.1.2 **AI Act (EU mesterséges intelligenciára vonatkozó rendelet)**
 
 - Az **AI Act** az EU által bevezetett szabályozás, amely a mesterséges intelligencia rendszerek alkalmazásának etikai és biztonsági irányelveit tartalmazza. Ez az irányelv szabályozza a mesterséges intelligencia rendszerek alkalmazásának különböző kockázati kategóriáit és azokra vonatkozó kötelezettségeket.
 - [**További információ**](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/financial-markets/securities-markets/ai_act_en)
 
-### **USA jogszabályok**
+### 4.2 **USA jogszabályok**
 
-### **California Consumer Privacy Act (CCPA)**
+#### 4.2.1 **California Consumer Privacy Act (CCPA)**
 
 - A **CCPA** az Egyesült Államok Kalifornia államában érvényes adatvédelmi törvény, amely biztosítja a kaliforniai állampolgárok személyes adatai védelmét, jogot ad nekik azok kezeléséhez és törléséhez, valamint értesítést kérhetnek a személyes adatkezelésről.
 - [**További információ**](https://oag.ca.gov/privacy/ccpa)
 
-### **Health Insurance Portability and Accountability Act (HIPAA)**
+#### 4.2.2 **Health Insurance Portability and Accountability Act (HIPAA)**
 
 - A **HIPAA** az Egyesült Államok egészségügyi törvénye, amely biztosítja az egészségügyi adatok védelmét.
 - A **ViviComm** és a **BastionGPT** használhatják az egészségügyi adatokat, így biztosítani kell, hogy azokat a **HIPAA** előírásainak megfelelően kezeljék.
 - [**További információ**](https://www.hhs.gov/hipaa/index.html)
 
-### **Children's Online Privacy Protection Act (COPPA)**
+#### 4.2.3 **Children's Online Privacy Protection Act (COPPA)**
 
 - A **COPPA** az USA törvénye, amely a 13 év alatti gyermekek adatainak védelmét szabályozza online környezetben.
 - **Miért fontos?** Ha a **ViviComm** 13 év alatti gyermekek adatait kezeli, biztosítani kell a szülői beleegyezést és kontrollt a COPPA-nak való megfelelés érdekében.
 - [**További információ**](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/copl)
 
-### **Magyar jogszabályok**
+### 4.3 **Magyar jogszabályok**
 
-### **Infotv. (Információs Törvény)**
+#### 4.3.1 **Infotv. (Információs Törvény)**
 
 - A **Magyar Információs Törvény (Infotv.)** az adatkezelésről és az adatvédelmi jogokról szóló magyar jogszabály. Ez előírja, hogy a személyes adatokat biztonságosan kell kezelni és hogy a felhasználóknak joguk van kérni az adataik törlését, módosítását.
 - [**További információ**](https://net.jogtar.hu/jogszabaly?docid=2011T0156)
 
-### **Egészségügyi adatkezelés Magyarországon**
+#### 4.3.2 **Egészségügyi adatkezelés Magyarországon**
 
 - Magyarországon az egészségügyi adatok védelmét az **egészségügyi adatkezelési törvények** szabályozzák, amelyek előírják, hogy az orvosi adatokat szigorúan titokban kell tartani és csak megfelelő feltételek mellett szabad kezelni.
 - [**További információ**](https://www.nfh.hu/aktualis-tomegmegmozdulasok)
@@ -72,58 +72,53 @@ A jogszabályok szerint, ha nem szeretnéd, hogy tároljuk az adataidat, kérhet
 
 ## 6. További Szabályok és Irányelvek
 
-### **Iparági szabványok**
-
-- **ISO/IEC 27001 – Információbiztonság**: Az ISO 27001 egy nemzetközi szabvány, amely biztosítja, hogy minden adatot biztonságosan kezeljünk és védjünk.
-- **ISO 27018 – Felhőalapú Adatvédelem**: Ez a szabvány biztosítja, hogy a felhőszolgáltatásokban is biztonságban legyenek a személyes adatok.
-- **ISO 9001 – Minőségirányítás**: A szolgáltatás minőségét és biztonságát ez a szabvány segíti biztosítani.
-
-### **ISO 22301 – Üzletmenet Folytonosság**
+### 6.1 **ISO 22301 – Üzletmenet Folytonosság**
 
 - Az **ISO 22301** az üzletmenet folytonosságának kezelésére vonatkozó szabvány, amely segít biztosítani, hogy a szolgáltatás zavartalanul működjön még vészhelyzetekben is.
 - [**További információ**](https://www.iso.org/iso-22301-business-continuity.html)
 
-### **PCI DSS – Kártyaipari Adatvédelmi Szabványok**
+### 6.2 **PCI DSS – Kártyaipari Adatvédelmi Szabványok**
 
 - A **PCI DSS** a bankkártyás tranzakciók adatvédelmi szabályait tartalmazza. Mivel a **ViviComm** bankkártyás tranzakciókat végez a Stripe használatával, így a szolgáltatásnak teljes mértékben meg kell felelnie a **PCI DSS** előírásainak.
 - [**További információ**](https://www.pcisecuritystandards.org/pci_security/)
 
-### **IEEE AI Etikai Irányelvek**
+### 6.3 **IEEE AI Etikai Irányelvek**
 
 - A **IEEE AI Etikai Irányelvek** a mesterséges intelligencia rendszerek alkalmazásának etikai normáit tartalmazzák. Az irányelvek segítenek biztosítani, hogy az AI rendszerek tiszteletteljesek és felelősségteljesek legyenek a felhasználók jogai és jóléte érdekében.
 - [**További információ**](https://ethicsinaction.ieee.org/)
 
-### **ISO 27799 Megfelelés**
+### 6.4 **ISO 27799 Megfelelés**
 
 - Az **ISO 27799** szabvány az egészségügyi adatok védelmére vonatkozó nemzetközi irányelveket tartalmaz. Ez a szabvány segít biztosítani, hogy az egészségügyi információkat biztonságosan és jogszerűen kezeljük, és hogy azok megfeleljenek az adatvédelmi előírásoknak.
 - [**További információ**](https://www.iso.org/standard/31861.html)
 
-### **OECD AI Etikai Irányelvek**
+### 6.5 **OECD AI Etikai Irányelvek**
 
 - Az **OECD AI Etikai Irányelvek** a mesterséges intelligencia fejlesztésére és alkalmazására vonatkozó irányelveket tartalmaznak, amelyek célja, hogy biztosítsák az AI rendszerek biztonságos, átlátható és igazságos működését. Az irányelvek segítenek megelőzni a diszkriminációt és biztosítják, hogy az AI rendszerek a felhasználók jogait tiszteletben tartva működjenek.
 - [**További információ**](https://www.oecd.org/ai/)
 
-### **E-Privacy Directive (Cookie szabályozás)**
+### 6.6 **E-Privacy Directive (Cookie szabályozás)**
 
 - Az **E-Privacy Directive** az EU által alkalmazott szabályozás, amely a cookie-k és elektronikus kommunikációs adatkezelés kezelésére vonatkozik.
 - A **ViviComm** és a **BastionGPT** online szolgáltatásokat biztosítanak, így a felhasználóknak tájékoztatást kell kapniuk a cookie-król, és beleegyezésüket kell kérni a használatuk előtt.
 - [**További információ**](https://ec.europa.eu/info/law/law-topic/data-protection_en)
 
-### **ISO/IEC 27001 – Információbiztonság**
+### 6.7 **ISO/IEC 27001 – Információbiztonság**
 
 - Az **ISO/IEC 27001** az információbiztonság kezelésére vonatkozó nemzetközi szabvány. Ez a szabvány segít biztosítani, hogy a szervezetek megfelelő információbiztonsági intézkedéseket alkalmazzanak a személyes adatok védelmére.
 - [**További információ**](https://www.iso.org/isoiec-27001-information-security.html)
 
-### **ISO 27018 – Felhőalapú Adatvédelem**
+### 6.7 **ISO 27018 – Felhőalapú Adatvédelem**
 
 - Az **ISO 27018** a felhőalapú adatvédelmi előírásokat tartalmazza, és biztosítja a személyes adatok biztonságos kezelését a felhőalapú szolgáltatásokban.
 - [**További információ**](https://www.iso.org/iso-27018-cloud-privacy.html)
 
-### **ISO 9001 – Minőségirányítás**
+### 6.8 **ISO 9001 – Minőségirányítás**
 
 - Az **ISO 9001** szabvány biztosítja a szolgáltatások minőségét és a folyamatos fejlesztést. Az ISO 9001 segít biztosítani a folyamatosan magas szintű szolgáltatási minőséget és a hatékonyságot.
 - [**További információ**](https://www.iso.org/iso-9001-quality-management.html)
 
+---
 
 A gyerekek számára készült dokumentumok segítenek megérteni az adatkezelés és jogi előírások szabályait, könnyen érthető formában.
 
