@@ -1,1 +1,0 @@
-USA részletes adatvédelmi szabályzat 

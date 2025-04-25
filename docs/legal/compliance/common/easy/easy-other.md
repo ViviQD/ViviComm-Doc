@@ -1,1 +1,0 @@
-Egyéb nemzetközi szabályok 

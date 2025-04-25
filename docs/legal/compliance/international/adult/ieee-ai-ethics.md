@@ -1,1 +1,0 @@
-IEEE AI Ethics szabályok 

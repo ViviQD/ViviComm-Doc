@@ -1,1 +1,0 @@
-USA egyszerűsített adatvédelmi szabályok 

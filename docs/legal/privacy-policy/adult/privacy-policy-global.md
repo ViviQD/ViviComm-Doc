@@ -1,1 +1,0 @@
-Részletes adatvédelmi szabályok (globális) 

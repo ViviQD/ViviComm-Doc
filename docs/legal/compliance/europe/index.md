@@ -1,1 +1,0 @@
-Europe compliance overview 

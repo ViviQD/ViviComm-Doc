@@ -1,1 +1,0 @@
-AI Act részletes szabályozás 

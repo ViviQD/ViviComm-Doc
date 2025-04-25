@@ -1,1 +1,0 @@
-Európai adatvédelmi szabályok összefoglalója 

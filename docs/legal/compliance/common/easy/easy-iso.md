@@ -1,1 +1,0 @@
-Egyszerűsített ISO szabályozás 

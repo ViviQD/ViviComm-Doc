@@ -1,1 +1,0 @@
-Infotv. adatvédelmi szabályok 

@@ -1,1 +1,0 @@
-USA adatvédelmi szabályok összefoglalója 

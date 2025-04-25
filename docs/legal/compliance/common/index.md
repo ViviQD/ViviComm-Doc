@@ -1,1 +1,0 @@
-Központi jogi szabályok összefoglalója 

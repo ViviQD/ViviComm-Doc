@@ -1,1 +1,0 @@
-OECD AI Ethics szabályok 

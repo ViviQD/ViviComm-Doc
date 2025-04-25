@@ -1,1 +1,0 @@
-Európai részletes adatvédelmi szabályzat 
