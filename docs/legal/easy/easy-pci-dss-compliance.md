@@ -1,4 +1,4 @@
-# PCI DSS – Bankkártyás Adatvédelem – Megfelelés
+# PCI DSS – Bankkártyás Adatvédelem – Megfelelés (Gyerekeknek)
 
 Ez a dokumentum bemutatja, hogyan védjük a bankkártyás adatokat a **ViviComm** rendszerében, és hogyan tartjuk be a **PCI DSS** szabályokat, hogy az adataid biztonságban legyenek.
 

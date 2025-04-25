@@ -1,4 +1,4 @@
-# ISO 22301 – Üzletmenet Folytonosság – Megfelelés
+# ISO 22301 – Üzletmenet Folytonosság – Megfelelés (Gyerekeknek)
 
 Ez a dokumentum elmagyarázza, hogyan segítjük biztosítani, hogy a **ViviComm** mindig működjön, még akkor is, ha valami váratlan történik, és miért fontos az **ISO 22301** szabvány a szolgáltatásunk számára.
 
