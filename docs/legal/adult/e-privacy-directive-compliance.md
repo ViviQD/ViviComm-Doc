@@ -34,7 +34,7 @@ A platform nem használ olyan nyomkövető technológiákat, amelyekkel a felhas
 
 A **ViviComm** folyamatosan biztosítja, hogy adatkezelési gyakorlataink megfeleljenek az **E-Privacy Directive** előírásainak, és a felhasználói adatokat biztonságosan és jogszerűen kezeljük.
 
-- [További információ az E-Privacy Directive szabályozásról](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+- [További információ az E-Privacy Directive szabályozásról](https://www.edps.europa.eu/data-protection/our-work/subjects/eprivacy-directive_en)
 
 ---
 

@@ -26,7 +26,7 @@ A **ViviComm** az **E-Privacy Directive** előírásainak megfelelően biztosít
 
 A **ViviComm** az **E-Privacy Directive** szabályai szerint dolgozik, hogy biztosítsa a személyes adatokat, és mindig tájékoztatni fogunk, ha valamilyen adatot gyűjtünk rólad.
 
-- [További információ az E-Privacy Directive-ről](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+- [További információ az E-Privacy Directive-ről](https://www.edps.europa.eu/data-protection/our-work/subjects/eprivacy-directive_en)
 
 ---
 

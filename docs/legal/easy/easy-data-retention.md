@@ -14,17 +14,17 @@ A te orvosi adatokat (például ha megosztasz orvosi kérdéseket) a szüleid be
 
 ## 2. Adatok törlésének szabályai
 
-A személyes adataidat és orvosi adataidat akkor töröljük, amikor már nincs szükségünk rájuk, vagy ha a szüleid azt kérik. A törlés folyamata biztonságos, és mi mindent megteszünk annak érdekében, hogy az adataid ne kerüljenek vissza a rendszerbe, ha már töröltük őket.
+A személyes és orvosi adataidat akkor töröljük, amikor már nincs szükségünk rájuk, vagy ha a szüleid ezt kérik, kivéve, ha jogszabályok előírják azok megőrzését. A törlés folyamata biztonságos, és mi mindent megteszünk annak érdekében, hogy az adataid ne kerüljenek vissza a rendszerbe, ha már töröltük őket.
 
 ### **2.1. Kérheted az adataid törlését**
-Ha bármikor úgy érzed, hogy az adataidra már nincs szükség, vagy ha szeretnéd, hogy töröljük őket, kérheted a szüleiddel együtt. A szüleid beleegyezésével törölhetjük az adatokat, és biztosítjuk, hogy azok végleg eltűnjenek.
+Ha bármikor úgy érzed, hogy az adataidra már nincs szükség, vagy ha szeretnéd, hogy töröljük őket, kérheted a szüleiddel együtt. A szüleid beleegyezésével törölhetjük az adatokat, és ha törlésre kerültek, biztosítjuk, hogy azok végleg eltűnjenek.
 
 ### **2.2. Soft Delete**
-Amikor töröljük az adatokat, először egy ideig tároljuk őket, hogy biztosan ne legyenek visszaállíthatók. Ezt hívjuk "soft delete"-nek. Később az adatokat véglegesen eltávolítjuk, ha már nincs rájuk szükség.
+Amikor töröljük az adatokat, először ideiglenesen inaktiváljuk őket, hogy a felhasználónak legyen lehetősége reagálni, ha úgy dönt, hogy nem szeretné, hogy az adatai törlődjenek. Ezt hívjuk 'soft delete'-nek. Később az adatokat véglegesen eltávolítjuk, ha már nincs rájuk szükség.
 
 ## 3. A szüleid szerepe
 
-A szüleidnek fontos szerepe van az adatok kezelésében. Ők segítenek neked megérteni, hogyan használják az adataidat, és ők dönthetnek arról, hogy mikor tárolhatók az adatok, és mikor törlődnek. Az adatok kezelését és törlését mindig az ő beleegyezésükkel végezzük.
+A szüleid segítenek megérteni, hogyan kezeljük az adataidat, és ha szükséges, ők dönthetnek arról, hogy mikor tárolhatók vagy törlődnek az adataid. Az adatkezelési döntésekhez mindig a szülők beleegyezésére van szükség, ha te vagy ők kérik a törlésüket. Az adatok kezelését és törlését mindig az ő beleegyezésükkel végezzük.
 
 ## 4. Kapcsolat
 
