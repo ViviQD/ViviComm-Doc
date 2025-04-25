@@ -39,6 +39,6 @@ Medical Chatting Platform
 
 [Gyerekeknek szóló változat](./legal/easy)
 
-[Felnőtteknek szóló változat](./legal/eadult)
+[Felnőtteknek szóló változat](./legal/adult)
 
 <!-- https://github.com/ViviQD/ViviComm-Lite -->
