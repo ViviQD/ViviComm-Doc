@@ -16,7 +16,7 @@ Az AI rendszereket különböző kockázati szintekre osztják, és ennek megfel
 
 ### **2.2. Transzparencia és Átláthatóság**
 
-A **ViviComm** biztosítja, hogy az AI által hozott döntések és azok indoklása teljes mértékben átláthatóak legyenek. A felhasználók mindig hozzáférhetnek az AI által adott válaszok indoklásához, és kérhetik azok felülvizsgálatát egy orvosi szakértőtől.
+A **ViviComm** biztosítja, hogy az AI által hozott döntések és azok indoklása teljes mértékben átláthatóak legyenek. A felhasználók mindig hozzáférhetnek az AI által adott válaszok indoklásához, és kérhetik azok felülvizsgálatát egy orvosi szakértőtől, amennyiben kifizetik a szolgáltatás költségét, de gyermek esetén ehhez szülői hozzájárulás is szükséges.
 
 ### **2.3. Képzés és Képzett Szakemberek**
 
@@ -28,7 +28,7 @@ A **ViviComm** biztosítja, hogy minden személyes és egészségügyi adatot bi
 
 ### **2.5. Felelősség és Számonkérhetőség**
 
-Az AI rendszerek alkalmazásával kapcsolatos döntésekért felelősséget kell vállalni. A **ViviComm** biztosítja, hogy minden AI által hozott orvosi döntést és ajánlást egy orvosi szakértő véleményezzen, hogy biztosítsák azok helyességét és megbízhatóságát. Az orvosi döntések felelőssége világosan meghatározott a **ViviComm** rendszerei alapján.
+Az AI rendszerek alkalmazásával kapcsolatos döntésekért felelősséget kell vállalni. A **ViviComm** díj ellenében biztosítja, hogy minden AI által hozott orvosi döntést és ajánlást egy orvosi szakértő véleményezzen, hogy biztosítsák azok helyességét és megbízhatóságát. Az orvosi döntések felelőssége világosan meghatározott a **ViviComm** rendszerei alapján.
 
 ### **2.6. Az AI Hatása és Kockázatok Kezelése**
 
