@@ -1,4 +1,4 @@
-## 1. Licenc és Felelősség
+# Licenc és Felelősség
 
 A Bastion GPT és más AI-alapú szolgáltatásokat az alábbi feltételekkel biztosítjuk:
 
