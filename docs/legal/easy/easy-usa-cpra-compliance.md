@@ -1,4 +1,4 @@
-# USA CCPA Compliance - (Gyerekeknek)
+# USA CCPA Megfelelés - (Gyerekeknek)
 
 Ez a dokumentum elmagyarázza, hogyan védjük a személyes adataidat a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** szerint, ha a **ViviComm** szolgáltatást használod.
 

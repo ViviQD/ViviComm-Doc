@@ -1,4 +1,4 @@
-# ISO 27799 Compliance - Orvosi Adatvédelmi Szabvány (Felnőtteknek)
+# ISO 27799 Megfelelés - Orvosi Adatvédelmi Szabvány (Felnőtteknek)
 
 Ez a dokumentum részletes információt nyújt az **ISO 27799** szabványnak való megfelelésről a **ViviComm** szolgáltatásában, különös figyelmet fordítva az orvosi adatkezelésre és annak biztonságos kezelésére.
 

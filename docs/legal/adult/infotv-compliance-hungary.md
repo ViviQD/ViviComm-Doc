@@ -1,4 +1,4 @@
-# Infotv. Compliance - Magyar Adatvédelmi Szabályok (Felnőtteknek)
+# Infotv. Megfelelés - Magyar Adatvédelmi Szabályok (Felnőtteknek)
 
 Ez a dokumentum a **ViviComm** szolgáltatás adatvédelmi megfelelőségét biztosítja a **Magyar Információs Törvény** (Infotv.) és a kapcsolódó adatvédelmi jogszabályoknak való teljes megfelelés érdekében. Az alábbiakban bemutatjuk azokat a törvényeket, rendeleteket és azok paragrafusait, amelyek a **ViviComm** alkalmazás működésére vonatkoznak, különös figyelmet fordítva az orvosi és személyes adatok védelmére.
 

@@ -1,4 +1,4 @@
-# USA CPRA Compliance - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Felnőtteknek)
+# USA CPRA Megfelelés - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Felnőtteknek)
 
 Ez a dokumentum részletes leírást nyújt a **USA CPRA (California Privacy Rights Act)** törvénynek való megfelelésről a **ViviComm** szolgáltatásában, különös figyelmet fordítva a felhasználók adatvédelmi jogainak biztosítására és az adatkezelési szabályoknak való megfelelésre, amelyek a **ViviComm** szolgáltatásait érinthetik.
 

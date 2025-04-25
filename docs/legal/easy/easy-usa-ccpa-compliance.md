@@ -1,4 +1,4 @@
-# USA CCPA Compliance - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Gyerekeknek)
+# USA CCPA Megfelelés - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Gyerekeknek)
 
 Ez a dokumentum egyszerűen és érthetően elmagyarázza, hogyan védjük a személyes adataidat a Kaliforniai Fogyasztóvédelmi Jogi Szabályoknak megfelelően, és hogy miként biztosítjuk, hogy a te és a szüleid jogai védve legyenek, amikor a **ViviComm** szolgáltatását használod.
 

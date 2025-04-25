@@ -1,4 +1,4 @@
-# E-Privacy Directive – Elektronikus adatkezelés – Megfelelés
+# E-Privacy Irányelv – Elektronikus adatkezelés – Megfelelés
 
 Ez a dokumentum bemutatja, hogyan védjük meg a személyes adatokat a **ViviComm** rendszerében, és hogyan tartjuk be az **E-Privacy Directive** szabályokat, hogy az adataid biztonságban legyenek.
 
