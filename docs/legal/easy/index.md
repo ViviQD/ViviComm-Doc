@@ -35,18 +35,18 @@ Mi biztosítjuk, hogy az adatokat a megfelelő szabályok szerint kezeljük. Az 
 - Az **AI Act** az EU által bevezetett szabályozás, amely a mesterséges intelligencia rendszerek alkalmazásának etikai és biztonsági irányelveit tartalmazza. Ez az irányelv szabályozza a mesterséges intelligencia rendszerek alkalmazásának különböző kockázati kategóriáit és azokra vonatkozó kötelezettségeket.
 - [**További információ**](https://artificialintelligenceact.eu/)
 
+#### 4.1.3 **E-Privacy Directive (Cookie szabályozás)**
+
+- Az **E-Privacy Directive** az EU által alkalmazott szabályozás, amely a cookie-k és elektronikus kommunikációs adatkezelés kezelésére vonatkozik.
+- A **ViviComm** és a **BastionGPT** online szolgáltatásokat biztosítanak, így a felhasználóknak tájékoztatást kell kapniuk a cookie-król, és beleegyezésüket kell kérni a használatuk előtt.
+- [**További információ**](https://eur-lex.europa.eu/eli/dir/2002/58/oj)
+
 ### 4.2 **USA jogszabályok**
 
 #### 4.2.1 **California Consumer Privacy Act (CCPA)**
 
 - A **CCPA** az Egyesült Államok Kalifornia államában érvényes adatvédelmi törvény, amely biztosítja a kaliforniai állampolgárok személyes adatai védelmét, jogot ad nekik azok kezeléséhez és törléséhez, valamint értesítést kérhetnek a személyes adatkezelésről.
 - [**További információ**](https://oag.ca.gov/privacy/ccpa)
-
-### 6.6 **E-Privacy Directive (Cookie szabályozás)**
-
-- Az **E-Privacy Directive** az EU által alkalmazott szabályozás, amely a cookie-k és elektronikus kommunikációs adatkezelés kezelésére vonatkozik.
-- A **ViviComm** és a **BastionGPT** online szolgáltatásokat biztosítanak, így a felhasználóknak tájékoztatást kell kapniuk a cookie-król, és beleegyezésüket kell kérni a használatuk előtt.
-- [**További információ**](https://eur-lex.europa.eu/eli/dir/2002/58/oj)
 
 #### 4.2.2 **Health Insurance Portability and Accountability Act (HIPAA)**
 
@@ -103,7 +103,7 @@ A jogszabályok szerint, ha nem szeretnéd, hogy tároljuk az adataidat, kérhet
 - Az **OECD AI Etikai Irányelvek** a mesterséges intelligencia fejlesztésére és alkalmazására vonatkozó irányelveket tartalmaznak, amelyek célja, hogy biztosítsák az AI rendszerek biztonságos, átlátható és igazságos működését. Az irányelvek segítenek megelőzni a diszkriminációt és biztosítják, hogy az AI rendszerek a felhasználók jogait tiszteletben tartva működjenek.
 - [**További információ**](https://www.oecd.org/ai/)
 
-### 6.7 **ISO/IEC 27001 – Információbiztonság**
+### 6.6 **ISO/IEC 27001 – Információbiztonság**
 
 - Az **ISO/IEC 27001** az információbiztonság kezelésére vonatkozó nemzetközi szabvány. Ez a szabvány segít biztosítani, hogy a szervezetek megfelelő információbiztonsági intézkedéseket alkalmazzanak a személyes adatok védelmére.
 - [**További információ**](https://www.scribd.com/document/521861026/ISO-27001)
