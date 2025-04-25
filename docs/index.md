@@ -37,8 +37,8 @@ Medical Chatting Platform
 [linkedin-url]: https://www.linkedin.com/company/viviqd -->
 
 
-[Gyerekeknek szóló változat](./legal/easy)
-
+## Adatvédelmi és Jogi Szabályozás
+[Gyerekeknek szóló változat](./legal/easy)<br/>
 [Felnőtteknek szóló változat](./legal/adult)
 
 <!-- https://github.com/ViviQD/ViviComm-Lite -->

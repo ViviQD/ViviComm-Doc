@@ -4,7 +4,7 @@ Ez a dokumentum segít megérteni, hogyan védjük az orvosi adatokat a **ViviCo
 
 ## 1. Mi az ISO 27799?
 
-A **ISO/IEC 27001** egy nemzetközi szabvány, amely az információbiztonság menedzsmentjét irányítja és szabályozza, hogyan kell biztonságosan kezelni az orvosi adatokat. Ez biztosítja, hogy minden adatot titokban tartsunk, és csak azok férhessenek hozzá, akiknek szükségük van rá. A ViviQD teljes mértékben megfelel ennek a szabványnak.
+A **ISO/IEC 27001** egy nemzetközi szabvány, amely az információbiztonság menedzsmentjét irányítja és szabályozza, hogyan kell biztonságosan kezelni az orvosi adatokat. Ez biztosítja, hogy minden adatot titokban tartsunk, és csak azok férhessenek hozzá, akiknek szükségük van rá. A **ViviComm** teljes mértékben megfelel ennek a szabványnak.
 
 A **ViviComm** biztosítja, hogy minden orvosi adatot titkosítva tároljunk, hogy megakadályozzuk a jogosulatlan hozzáférést. Az adatokat kizárólag azok a szakemberek és személyek kezelhetik, akiknek szükségük van rá a szolgáltatás megfelelő működéséhez.
 

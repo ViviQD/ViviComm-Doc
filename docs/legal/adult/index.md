@@ -40,9 +40,9 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
   - **Átláthatóság**: A felhasználóknak világos tájékoztatást nyújtunk az adatok gyűjtéséről és felhasználásáról.
   - [**Felhasználói jogok**](https://gdpr-info.eu/): A felhasználók jogot kapnak a személyes adatokat módosítani, törölni és portálokon keresztül elérni.
 
-#### **E-Privacy Directive (Cookie szabályozás)**
+#### **E-Privacy Irányelv (Cookie szabályozás)**
 
-- Az **E-Privacy Directive** az EU által alkalmazott szabályozás, amely a cookie-k és elektronikus kommunikációs adatkezelés kezelésére vonatkozik.
+- Az **E-Privacy Irányelv** az EU által alkalmazott szabályozás, amely a cookie-k és elektronikus kommunikációs adatkezelés kezelésére vonatkozik.
 - [**Miért fontos?**](https://ec.europa.eu/info/law/law-topic/data-protection_en): A **ViviComm** és a **BastionGPT** online szolgáltatásokat biztosítanak, így a felhasználóknak tájékoztatást kell kapniuk a cookie-król, és beleegyezésüket kell kérni a használatuk előtt.
 
 #### **AI Act (EU mesterséges intelligenciára vonatkozó rendelet)**
@@ -65,31 +65,31 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 #### **Children's Online Privacy Protection Act (COPPA)**
 
 - A **COPPA** az USA törvénye, amely a 13 év alatti gyermekek adatainak védelmét szabályozza online környezetben.
-- [**Miért fontos?**](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/copl): Ha a **ViviComm** 13 év alatti gyermekek adatait kezeli, biztosítani kell a szülői beleegyezést és kontrollt a COPPA-nak való megfelelés érdekében. Ha nem biztosított a megfelelőség, akkor a **BastionGPT** nem alkalmazható a gyermekek számára.
+- [**Miért fontos?**](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa): Ha a **ViviComm** 13 év alatti gyermekek adatait kezeli, biztosítani kell a szülői beleegyezést és kontrollt a COPPA-nak való megfelelés érdekében. Ha nem biztosított a megfelelőség, akkor a **BastionGPT** nem alkalmazható a gyermekek számára.
 
 ### **Magyar jogszabályok**
 
 #### **Infotv. (Információs Törvény)**
 
 - A **Magyar Információs Törvény (Infotv.)** az adatkezelésről és az adatvédelmi jogokról szóló magyar jogszabály.
-- [**Miért fontos?**](https://net.jogtar.hu/jogszabaly?docid=2011T0156): A **ViviComm** Magyarországon is működik, így biztosítania kell, hogy az adatkezelési gyakorlat megfeleljen a magyar jogszabályoknak. Az Infotv. előírja, hogy a személyes adatokat biztonságosan kell kezelni, és a felhasználóknak joguk van kérni az adataik törlését, módosítását.
+- [**Miért fontos?**](https://net.jogtar.hu/gyorskereso?keyword=infotv): A **ViviComm** Magyarországon is működik, így biztosítania kell, hogy az adatkezelési gyakorlat megfeleljen a magyar jogszabályoknak. Az Infotv. előírja, hogy a személyes adatokat biztonságosan kell kezelni, és a felhasználóknak joguk van kérni az adataik törlését, módosítását.
 
 #### **Egészségügyi adatkezelésre vonatkozó szabályok**
 
 - Magyarországon az egészségügyi adatok védelmét az **egészségügyi adatkezelési törvények** szabályozzák, amelyek előírják, hogy az orvosi adatokat szigorúan titokban kell tartani és csak megfelelő feltételek mellett szabad kezelni.
-- [**Miért fontos?**](https://www.nfh.hu/aktualis-tomegmegmozdulasok): A **ViviComm** és a **BastionGPT** is kezelhet orvosi adatokat, ezért biztosítani kell, hogy azokat a magyar jogszabályoknak megfelelően tárolják és dolgozzák fel.
+- [**Miért fontos?**](https://net.jogtar.hu/gyorskereso?keyword=eg%C3%A9szs%C3%A9g%C3%BCgyi%20adatkezel%C3%A9si%20t%C3%B6rv%C3%A9nyek): A **ViviComm** és a **BastionGPT** is kezelhet orvosi adatokat, ezért biztosítani kell, hogy azokat a magyar jogszabályoknak megfelelően tárolják és dolgozzák fel.
 
 ### **Iparági szabványok**
 
 #### **ISO/IEC 27001 – Információbiztonság**
 
 - Az **ISO/IEC 27001** az információbiztonság kezelésére vonatkozó nemzetközi szabvány. Az alkalmazás és a **BastionGPT** megfelel az **ISO 27001** szabványnak, biztosítva, hogy a felhasználók adatainak védelme és titkossága garantált legyen.
-- [**További információ**](https://www.iso.org/isoiec-27001-information-security.html)
+- [**További információ**](https://www.scribd.com/document/521861026/ISO-27001)
 
 #### **ISO 27018 – Felhőalapú Adatvédelem**
 
 - Az **ISO 27018** a felhőalapú adatvédelmi előírásokat tartalmazza, és biztosítja a személyes adatok biztonságos kezelését a felhőalapú szolgáltatásokban, mint amilyen a **ViviComm** és a **BastionGPT**.
-- [**További információ**](https://www.iso.org/iso-27018-cloud-privacy.html)
+- [**További információ**](https://www.scribd.com/document/509101287/ISO-IEC-27018-2019-%E9%AB%98%E6%B8%85%E7%89%88-%E9%81%93%E5%AE%A2%E5%B7%B4%E5%B7%B4)
 
 #### **ISO 9001 – Minőségirányítás**
 
@@ -99,12 +99,12 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 #### **ISO 22301 – Üzletmenet Folytonosság**
 
 - Az **ISO 22301** az üzletmenet folytonosságának kezelésére vonatkozó szabvány, amely segít biztosítani, hogy a szolgáltatás zavartalanul működjön még vészhelyzetekben is.
-- [**További információ**](https://www.iso.org/iso-22301-business-continuity.html)
+- [**További információ**](https://www.scribd.com/document/328427292/Implementing-ISO-22301)
 
 #### **PCI DSS – Kártyaipari Adatvédelmi Szabványok**
 
 - A **PCI DSS** a bankkártyás tranzakciók adatvédelmi szabályait tartalmazza. Mivel a **ViviComm** bankkártyás tranzakciókat végez a Stripe használatával, így a szolgáltatásnak teljes mértékben meg kell felelnie a **PCI DSS** előírásainak.
-- [**További információ**](https://www.pcisecuritystandards.org/pci_security/)
+- [**További információ**](https://www.pcisecuritystandards.org/standards/pci-dss/)
 
 #### **IEEE AI Etikai Irányelvek**
 
@@ -114,7 +114,7 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 #### **ISO 27799 Megfelelés**
 
 - Az **ISO 27799** szabvány az egészségügyi adatok védelmére vonatkozó nemzetközi irányelveket tartalmaz. Ez a szabvány segít biztosítani, hogy az egészségügyi információkat biztonságosan és jogszerűen kezeljük, és hogy azok megfeleljenek az adatvédelmi előírásoknak.
-- [**További információ**](https://www.iso.org/standard/31861.html)
+- [**További információ**](https://www.scribd.com/document/627403860/iso-27799)
 
 #### **OECD AI Etikai Irányelvek**
 
@@ -129,14 +129,22 @@ A következő dokumentumok segítenek megérteni az adatkezelés és jogi előí
 
 - [**AI Act**](./eu-ai-act.md)
 - [**Adatkezelési Szabályok**](./data-retention.md)
-- [**GDPR Compliance**](./gdpr-compliance.md)
+- [**GDPR Megfelelés**](./gdpr-compliance.md)
 - [**Egészségügyi Adatkezelés Magyarországon**](./healthcare-compliance-hungary.md)
 - [**IEEE AI Etikai Irányelvek**](./ieee-ai-ethics.md)
-- [**Infotv. Compliance Magyarországon**](./infotv-compliance-hungary.md)
-- [**ISO 27799 Compliance**](./iso-27799-compliance.md)
+- [**Infotv. Megfelelés Magyarországon**](./infotv-compliance-hungary.md)
+- [**ISO 27799 Megfelelés**](./iso-27799-compliance.md)
 - [**OECD AI Etikai Irányelvek**](./oecd-ai-ethics.md)
-- [**USA CPRA Compliance**](./usa-cpra-compliance.md)
-- [**USA CCPA Compliance**](./usa-ccpa-compliance.md)
+- [**USA CPRA Megfelelés**](./usa-cpra-compliance.md)
+- [**USA CCPA Megfelelés**](./usa-ccpa-compliance.md)
+
+- [**ISO 9001 Minőségirányítás Megfelelés**](./usa-ccpa-compliance.md)
+- [**E-Privacy Irányelv Megfelelés**](./usa-ccpa-compliance.md)
+- [**ISO 22301 Üzletmenet Folytonosság Megfelelés**](./usa-ccpa-compliance.md)
+- [**ISO 27018 Felhőalapú Adatvédelem Megfelelés**](./usa-ccpa-compliance.md)
+- [**ISO/IEC 27001 Információbiztonság Megfelelés**](./usa-ccpa-compliance.md)
+- [**PCI DSS Kártyaipari Adatvédelmi Szabványok**](./usa-ccpa-compliance.md)
+
 
 ---
 
