@@ -1,4 +1,4 @@
-# OECD AI Etikai Szabályok - Nemzetközi (Felnőtteknek)
+# OECD AI Etikai Szabályok - Nemzetközi
 
 Ez a dokumentum részletes irányelveket tartalmaz az **OECD AI etikai szabályok** alkalmazásáról a **ViviComm** szolgáltatásában, különös figyelmet fordítva az etikai alapelvek betartására és a felhasználók jogainak védelmére a mesterséges intelligencia használatával kapcsolatban, és hogy hogyan alkalmazzuk őket a **ViviComm** szolgáltatásainál.
 

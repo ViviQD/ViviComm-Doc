@@ -1,4 +1,4 @@
-# Adatmegőrzés - Adatkezelési Szabályok (Felnőtteknek)
+# Adatmegőrzés - Adatkezelési Szabályok
 
 Ez a dokumentum részletes tájékoztatást nyújt a **ViviComm** adatmegőrzési szabályairól, biztosítva, hogy a felhasználói adatok kezelésére és tárolására vonatkozóan teljes mértékben megfeleljünk az alkalmazandó jogszabályoknak és előírásoknak.
 

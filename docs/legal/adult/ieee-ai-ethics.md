@@ -1,4 +1,4 @@
-# IEEE AI Etikai Szabályok - Nemzetközi (Felnőtteknek)
+# IEEE AI Etikai Szabályok - Nemzetközi
 
 Ez a dokumentum részletes információt ad az **IEEE AI etikai szabályok** alkalmazásáról a ViviQD szolgáltatásaiban.
 

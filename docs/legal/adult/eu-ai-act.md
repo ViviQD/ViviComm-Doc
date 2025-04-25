@@ -1,4 +1,4 @@
-# EU AI Act Compliance - Európai Uniós Mesterséges Intelligencia Szabályozás (Felnőtteknek)
+# EU AI Act Compliance - Európai Uniós Mesterséges Intelligencia Szabályozás
 
 Ez a dokumentum részletes leírást nyújt az **EU AI Act** szabályozásnak való megfelelésről a **ViviComm** szolgáltatásban, különös figyelmet fordítva az etikai alapelvek betartására, a felhasználók jogainak védelmére, valamint az AI rendszerek működésére és biztonságára.
 

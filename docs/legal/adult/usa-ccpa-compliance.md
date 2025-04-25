@@ -1,4 +1,4 @@
-# USA CCPA Megfelelés - Kaliforniai Fogyasztóvédelmi Jogi Szabályok (Felnőtteknek)
+# USA CCPA Megfelelés - Kaliforniai Fogyasztóvédelmi Jogi Szabályok
 
 Ez a dokumentum tájékoztatást nyújt a **ViviComm** szolgáltatás adatkezelési gyakorlatáról és annak megfelelőségéről a **California Consumer Privacy Act (CCPA)** előírásaival kapcsolatban, amely biztosítja a kaliforniai lakosok személyes adatainak védelmét.
 
