@@ -132,6 +132,10 @@ const config: Config = {
               label: 'Tutorial',
               to: '/docs/tutorial',
             },
+            {
+              label: 'Software Documentation',
+              to: '/docs/software',
+            },
           ],
         },
         {

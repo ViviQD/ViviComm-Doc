@@ -14,7 +14,7 @@ keywords:
   - jogi adatok
 ---
 
-# Imresszum
+# Imresszum (Gyerekeknek)
 
 ## Imresszum jelentése: "Ki készítette?"
 

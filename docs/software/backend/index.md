@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Sofware Backend
+# Sofware Backend Documentation
 
 Welcome to the ViviComm Lite Software Backend Documentation! This documentation provides an overview of the core components, technology stack, user roles, and how to get started with the platform.
 

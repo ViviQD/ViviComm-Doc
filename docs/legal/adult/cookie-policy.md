@@ -33,7 +33,7 @@ A Google reCAPTCHA használata során elhelyezett cookie-król részletesen táj
 ## 3. Felhasználói hozzájárulás
 
 A **ViviComm** alkalmazás csak abban az esetben kér felhasználói hozzájárulást, ha a működés harmadik fél által elhelyezett cookie-t (például Google reCAPTCHA) igényel.  
-Ilyen esetben a rendszer megfelelő tájékoztatást ad a hozzájárulás megadása előtt. A **ViviComm Lite Atlas**, ez a dokumentációs oldal semmilyen hozzájárulást nem kér, mert nem használ saját cookie-kat.
+Ilyen esetben a rendszer megfelelő tájékoztatást ad a hozzájárulás megadása előtt. A **ViviComm** alkalmazás, és ez a dokumentációs oldal, a **ViviComm Lite Atlas** sem, semmilyen hozzájárulást nem kér, mert nem használ saját cookie-kat.
 
 ## 4. Kapcsolat
 

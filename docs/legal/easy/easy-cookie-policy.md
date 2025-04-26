@@ -23,7 +23,7 @@ Ez segíthet megjegyezni, mit csináltál ott. Olyan, mintha egy kis jegyzet len
 ## 2. Használ a ViviComm sütiket?
 
 **Nem!**  
-A **ViviComm** nem tesz sütiket a gépedre vagy a telefonodra és ez a dokumentációs oldal, amit most látsz, a **ViviComm Lite Atlas** sem.
+A **ViviComm** nem tesz sütiket a gépedre vagy a telefonodra és ez a dokumentációs oldal, és amit most látsz, a ViviComm Lite az internetes dokumentáció oldal, a **ViviComm Lite Atlas** sem.
 
 ## 3. Mikor lehet mégis süti?
 
