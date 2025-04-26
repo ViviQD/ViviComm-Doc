@@ -27,9 +27,34 @@ const config: Config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
-  i18n: {
+  /*i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+  },*/
+
+  // You may have some weird requirements for your site's CSS and JS
+  // e.g. you might want to use a custom CSS framework, or a different
+  // JS framework.
+  // css: ['https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism-okaidia.min.css'],
+  // scripts: ['https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js'],
+
+  // You may use this to point to an external service that will be used to
+  // generate the docs.
+  // See https://docusaurus.io/docs/api/plugins/docusaurus-plugin-content-docs
+  // for more information.
+
+  i18n: {
+    defaultLocale: 'hu',
+    locales: ['en', 'hu'],
+    localeConfigs: {
+      hu: {
+        label: 'Magyar',
+        direction: 'ltr',
+        htmlLang: 'hu-HU',
+        calendar: 'gregory',
+        path: 'hu',
+      },
+    },
   },
 
   presets: [
