@@ -40,6 +40,11 @@ Ha bármilyen kérdése van a sütikezeléssel kapcsolatban, kérjük, lépjen k
 
 - **E-mail:** support@viviqd.com
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-cookie-policy.md)
+
 ---
 
 Ez a dokumentum rögzíti, hogy a **ViviComm** szolgáltatás adatmegőrzési gyakorlata megfelel az adatvédelmi előírásoknak, és figyelembe veszi a felhasználók jogait. Ha kérdése merülne fel, vagy szeretné adatkezelési beállításait módosítani, kérjük, vegye fel velünk a kapcsolatot.

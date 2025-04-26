@@ -1,4 +1,4 @@
-# Adatvédelmi és Jogi Szabályozás (Gyerekeknek)
+# Adatvédelmi és Jogi Szabályozás - Gyerekeknek
 
 Ez a dokumentum segít megérteni, hogyan védjük a **ViviComm** chat szolgáltatásban a személyes adataidat, és hogyan biztosítjuk, hogy a szolgáltatás biztonságosan működjön.
 

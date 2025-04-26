@@ -1,4 +1,4 @@
-# Adatvédelmi és Jogi Szabályozás
+# Adatvédelmi és Jogi Szabályozás - Hivatalos változat
 
 Ez a dokumentum tartalmazza a **ViviQD** platformon a **ViviComm** chat szolgáltatásainak megfelelőségét az alábbi jogszabályi és iparági előírásoknak.
 
