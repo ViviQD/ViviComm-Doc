@@ -35,6 +35,11 @@ Ha bármi kérdésed lenne, kérj meg egy felnőttet, hogy írjon nekünk:
 
 - **E-mail:** support@viviqd.com
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/cookie-policy.md)
+
 ---
 
 *Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
