@@ -206,7 +206,7 @@ const config: Config = {
               href: 'https://www.udemy.com/user/univital/',
             },
             {
-              label: 'lnk.bio',
+              label: 'Lnk.Bio',
               href: 'https://lnk.bio/viviqd',
             },
           ],
@@ -221,14 +221,6 @@ const config: Config = {
             { 
               label: 'ViviQD GitHub',
               href: 'https://github.com/ViviQD',
-            },
-            {
-              label: 'ViviComm Lite GitHub',
-              href: 'https://github.com/ViviQD/ViviComm-Lite',
-            },
-            {
-              label: 'ViviComm Lite Atlas GitHub',
-              href: 'https://github.com/ViviQD/ViviComm-Lite-Atlas',
             },
           ],
         },
