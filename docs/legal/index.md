@@ -31,9 +31,9 @@ A **ViviQD** folyamatosan figyelemmel kíséri a jogszabályi változásokat és
 
 ## 5. Következtetés
 
-A ViviQD elkötelezett amellett, hogy biztosítsa a ViviComm szolgáltatás jogszerű működését és az adatvédelmi előírások betartását. A rendszer minden adatkezelési és biztonsági intézkedése megfelel a nemzetközi jogszabályoknak és iparági szabványoknak, beleértve a GDPR, AI Act, HIPAA és más hasonló előírásokat.
+A **ViviQD** elkötelezett amellett, hogy biztosítsa a **ViviComm** szolgáltatás jogszerű működését és az adatvédelmi előírások betartását. A rendszer minden adatkezelési és biztonsági intézkedése megfelel a nemzetközi jogszabályoknak és iparági szabványoknak, beleértve a GDPR, AI Act, HIPAA és más hasonló előírásokat.
 
-Mindezek mellett, miközben az AI alapú orvosi tanácsok és diagnózisok tájékoztató jellegűek, a ViviComm mindig biztosítja, hogy felhasználói jogai védve legyenek, és a személyes adatok kezelésére a legszigorúbb biztonsági intézkedéseket alkalmazza.
+Mindezek mellett, miközben az AI alapú orvosi tanácsok és diagnózisok tájékoztató jellegűek, a **ViviComm** mindig biztosítja, hogy felhasználói jogai védve legyenek, és a személyes adatok kezelésére a legszigorúbb biztonsági intézkedéseket alkalmazza.
 
 Ha bármilyen kérdése lenne a szolgáltatás jogi kereteivel vagy adatkezelésével kapcsolatban, kérjük, vegye fel velünk a kapcsolatot.
 
@@ -53,7 +53,7 @@ A gyerekek számára készült, könnyen érthető változat, amely segíti a me
 
 ---
 
-Ez a dokumentum áttekintést nyújt a ViviQD megfelelőségi intézkedéseiről és azok alkalmazásáról, hogy biztosítsa a szolgáltatás jogszerű működését és az adatvédelmi előírások betartását.
+Ez a dokumentum áttekintést nyújt a **ViviQD** megfelelőségi intézkedéseiről és azok alkalmazásáról, hogy biztosítsa a szolgáltatás jogszerű működését és az adatvédelmi előírások betartását.
 
 ---
 
