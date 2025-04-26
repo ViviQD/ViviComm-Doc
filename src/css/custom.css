@@ -70,3 +70,17 @@
     column-count: 2;
   }
 }
+
+/* last modification date and time for docs */
+.custom-last-updated {
+  font-size: smaller;
+  font-style: italic;
+  margin-top: 0.2rem;
+  text-align: left; /* mobilon alapból balra */
+}
+
+@media (min-width: 997px) {
+  .custom-last-updated {
+    text-align: right; /* desktopon jobbra */
+  }
+}

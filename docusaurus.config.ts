@@ -67,7 +67,8 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ViviQD/ViviComm-Lite-Atlas',
+            'https://github.com/ViviQD/ViviComm-Lite-Atlas/edit/main/',
+          includeCurrentVersion: true,
         },
         blog: {
           showReadingTime: true,
