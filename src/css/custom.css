@@ -39,7 +39,8 @@
 }
 
 .footer__title {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
   /*text-align: center;*/
 }
 
@@ -54,4 +55,19 @@
 .footer__copyright {
   font-size: 1em;
   margin-top: 50px;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 1rem;
+  }
+  .footer {
+    width: auto;
+  }
+  .footer__item {
+    font-size: 1em;
+  }
+  .clean-list {
+    column-count: 2;
+  }
 }
