@@ -2,11 +2,11 @@
 
 Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CCPA segít biztosítani, hogy a cégek biztonságosan kezeljék a személyes adataidat, és hogy te tudd, hogyan használják azokat.
 
-## Mi az a CCPA?
+## 1. Mi az a CCPA?
 
 A **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** egy olyan törvény, amely biztosítja, hogy a cégek biztonságosan kezeljék a személyes adatokat. Ez a törvény különösen fontos a kaliforniai felhasználók számára, mert így biztosítva van, hogy megvédjék az adataikat.
 
-## Milyen adatokat használunk?
+## 2. Milyen adatokat használunk?
 
 A **ViviComm** szolgáltatásban az alábbi adatokat kérhetjük tőled, amikor regisztrálsz vagy használod a szolgáltatást:
 
@@ -17,7 +17,7 @@ A **ViviComm** szolgáltatásban az alábbi adatokat kérhetjük tőled, amikor 
 
 A **ViviComm** biztosítja, hogy mindezt biztonságosan kezeljük, és soha nem osztjuk meg őket senkivel, akivel nem kellene.
 
-## Mit tehetsz a saját adataiddal?
+## 3. Mit tehetsz a saját adataiddal?
 
 A CCPA biztosítja, hogy te mindig tudhasd, mi történik az adataiddal. Jogosult vagy arra, hogy:
 
@@ -25,11 +25,11 @@ A CCPA biztosítja, hogy te mindig tudhasd, mi történik az adataiddal. Jogosul
 - **Kérd**, hogy töröljük az adataidat, ha már nincs rájuk szükség.
 - **Ne hagyd, hogy az adataidat más cégek reklámra használják** anélkül, hogy te beleegyeznél.
 
-## Hogyan védjük az adataidat?
+## 4. Hogyan védjük az adataidat?
 
 Mi mindent megteszünk azért, hogy az adataid biztonságban legyenek. Minden adatot titkosítunk, hogy mások ne férhessenek hozzájuk. Ha bárki szeretne hozzáférni az adataidhoz, mi biztosítjuk, hogy csak te és azok férhessenek hozzá, akiknek valóban szükségük van rá, például orvosok, ha te beleegyezel.
 
-## Mi történik, ha nem akarod, hogy az adataidat használjuk?
+## 5. Mi történik, ha nem akarod, hogy az adataidat használjuk?
 
 Ha nem szeretnéd, hogy a **ViviComm** használja a személyes adataidat, akkor bárminemű adatfelhasználásról lemondhatsz. Ezt bármikor megteheted, és biztosítjuk, hogy az adataid ne legyenek tovább használva semmilyen célra.
 

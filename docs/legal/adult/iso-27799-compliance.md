@@ -42,11 +42,11 @@ A **ViviComm** rendszeres időközönként végzi el az adatkezelési auditokat,
 
 - **ISO 27799 és jogszabályi megfelelés**: A **ViviComm** és a **BastionGPT** mindent megtesznek annak érdekében, hogy minden működési szakaszban megfeleljenek az egészségügyi adatkezelésre vonatkozó jogszabályi előírásoknak, beleértve a helyi adatvédelmi törvényeket, mint például a GDPR, valamint az egészségügyi adatkezelési törvényeket.
 
-## 2. A felhasználók jogai
+## 9. A felhasználók jogai
 
 A felhasználóknak joguk van hozzáférni az egészségügyi adataikhoz, kérhetik azok módosítását és törlését.
 
-## 3. Kapcsolat
+## 10. Kapcsolat
 
 Ha bármilyen kérdése van az ISO 27799 megfelelőséggel kapcsolatban, kérjük, lépjen kapcsolatba velünk:
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)

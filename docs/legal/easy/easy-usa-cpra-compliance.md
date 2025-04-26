@@ -2,11 +2,11 @@
 
 Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **Kaliforniai Adatvédelmi Jogok Törvénye (CPRA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CPRA segít biztosítani, hogy a cégek tisztelettel bánjanak az adataiddal, és hogy te tudd, hogyan használják azokat.
 
-## Mi az a CPRA?
+## 1. Mi az a CPRA?
 
 A **Kaliforniai Adatvédelmi Jogok Törvénye (CPRA)** egy olyan törvény, amely azt biztosítja, hogy a cégek biztonságosan kezeljék a személyes adatokat, és hogy te, mint felhasználó, megismerhesd, mi történik az adataiddal.
 
-## Milyen adatokat használunk?
+## 2. Milyen adatokat használunk?
 
 A **ViviComm** szolgáltatásban az alábbi adatokat kérhetjük tőled, amikor regisztrálsz vagy használod a szolgáltatást:
 
@@ -17,7 +17,7 @@ A **ViviComm** szolgáltatásban az alábbi adatokat kérhetjük tőled, amikor 
 
 Mi biztosítjuk, hogy mindezt biztonságosan kezeljük és senki nem férhet hozzá az adataidhoz, hacsak te nem engeded meg.
 
-## Mit tehetsz a saját adataiddal?
+## 3. Mit tehetsz a saját adataiddal?
 
 A CPRA biztosítja, hogy te mindig tudhasd, mi történik az adataiddal. Jogosult vagy arra, hogy:
 
@@ -25,11 +25,11 @@ A CPRA biztosítja, hogy te mindig tudhasd, mi történik az adataiddal. Jogosul
 - **Kérd**, hogy töröljük az adataidat, ha már nincs rájuk szükség.
 - **Tudd, hogy hogyan használjuk az adataidat**, és kérheted, hogy ne használjuk reklám célokra.
 
-## Hogyan védjük az adataidat?
+## 4. Hogyan védjük az adataidat?
 
 Minden adatot titkosítunk és biztonságosan tárolunk, hogy mások ne férhessenek hozzájuk. Az adataid csak azok számára elérhetők, akiknek szükségük van rá, például orvosok, ha te beleegyezel.
 
-## Mi történik, ha nem akarod, hogy az adataidat használjuk?
+## 5. Mi történik, ha nem akarod, hogy az adataidat használjuk?
 
 Ha nem szeretnéd, hogy a **ViviComm** használja a személyes adataidat, akkor bárminemű adatfelhasználásról lemondhatsz. Ezt bármikor megteheted, és biztosítjuk, hogy az adataid ne legyenek tovább használva semmilyen célra.
 

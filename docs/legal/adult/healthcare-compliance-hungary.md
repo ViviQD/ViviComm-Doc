@@ -8,7 +8,7 @@ A **ViviComm** platform, amely a **BastionGPT** orvosi AI chatbotot használja, 
 
 ## 2. Adatkezelés és adatvédelmi elvek
 
-### Személyes adatok kezelése
+### 2.1. Személyes adatok kezelése
 
 A **ViviComm** a következő típusú adatokat használja és dolgozza fel a szolgáltatás biztosítása érdekében:
 
@@ -21,7 +21,7 @@ A **ViviComm** az adatkezelés során teljesíti a következő alapelveket:
 - **Adatminimalizálás**: Csak a legszükségesebb adatokat gyűjtjük és kezeljük.
 - **Jogos érdeken alapuló adatkezelés**: Csak a felhasználó hozzájárulásával kezeljük az adatokat.
 
-### A személyes adatok védelme
+### 2.2. A személyes adatok védelme
 
 - **Titkosítás**: Minden adatot titkosítva tárolunk és továbbítunk, biztosítva azok védelmét.
 - **Adatkezelési hozzáférés**: Az adatokhoz csak a megfelelő jogosultsággal rendelkező személyek férhetnek hozzá.
@@ -42,21 +42,21 @@ A felhasználók jogai a személyes adatokkal kapcsolatban:
 
 A személyes adatokat, beleértve az egészségügyi adatokat is, a legszigorúbb biztonsági előírások szerint kezeljük. A felhasználók egészségügyi adatai csak a szükséges célok érdekében kerülnek felhasználásra.
 
-### 4.1 Személyes és Orvosi Adatok Kezelése
+### 4.1. Személyes és Orvosi Adatok Kezelése
 
 A **ViviComm** minden személyes és orvosi adatot titkosítva tárol annak érdekében, hogy biztosítsa azok védelmét a jogosulatlan hozzáférés ellen. Az adatokhoz kizárólag azok a személyek férhetnek hozzá, akik a szolgáltatás biztosításához, a felhasználói jogok érvényesítéséhez, valamint a rendszer működtetéséhez elengedhetetlenek.
 
-#### 4.1.1 A felhasználói adatok kezelésének céljai:
+#### 4.1.1. A felhasználói adatok kezelésének céljai:
 
 1. **Szolgáltatás biztosítása**: A felhasználói adatok szükségesek a szolgáltatás megfelelő működéséhez.
 2. **Jogi és orvosi tanácsadás**: A rendszer működéséhez szükséges szakértői vélemények biztosítása.
 3. **Rendszerfejlesztés és karbantartás**: Technikai működtetés anonimizált adatok alapján.
 
-#### 4.1.2 Anonimizált adatok kezelése
+#### 4.1.2. Anonimizált adatok kezelése
 
 Anonimizált adatokat kezelhetünk a szolgáltatás fejlesztése, elemzése és működésének javítása céljából.
 
-#### 4.1.3 Személyes és orvosi adatok felhasználása
+#### 4.1.3. Személyes és orvosi adatok felhasználása
 
 A személyes és orvosi adatokhoz csak azok férhetnek hozzá, akik az alábbi célokkal szükségesek:
 
@@ -64,7 +64,7 @@ A személyes és orvosi adatokhoz csak azok férhetnek hozzá, akik az alábbi c
 - Felhasználói kérdések megválaszolása.
 - A rendszer technikai működtetése és karbantartása.
 
-#### 4.1.4 Hozzáférés és biztonság
+#### 4.1.4. Hozzáférés és biztonság
 
 Az orvosi adatokhoz való hozzáférést szigorúan szabályozzuk, és kizárólag a jogszabályoknak megfelelő jogosultság alapján biztosítjuk.
 
@@ -116,8 +116,7 @@ Ha kérdése van a jogi megfelelőséggel vagy adatvédelmi intézkedésekkel ka
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** a magyar jogszabályoknak és szabványoknak megfelelően működjön, és hogy a felhasználók személyes adatai biztonságban legyenek. Továbbá biztosítja, hogy minden orvosi adatkezelési tevékenység megfeleljen az orvosi jogszabályoknak és adatvédelmi előírásoknak.
-
-<br/><br/>
-
+<br/>
+<br/>
 A gyerekek számára készült változat, amely segíti a könnyebb megértést, de jogilag nem figyelembe vehető, elérhető itt:  
 [**Gyerekeknek szóló változat**](../easy/easy-healthcare-compliance-hungary.md)

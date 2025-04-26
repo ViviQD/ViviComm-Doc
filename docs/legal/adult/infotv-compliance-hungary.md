@@ -43,11 +43,11 @@ A **ViviComm** szolgáltatás különösen figyelmet fordít az olyan érzékeny
 
 A **ViviComm** és a **BastionGPT** biztosítja, hogy minden orvosi adat titkosított módon legyen tárolva és továbbítva, hogy megakadályozza az illetéktelen hozzáférést. Az adatkezelés során alkalmazott biztonsági intézkedések folyamatosan felülvizsgálatra kerülnek, hogy biztosítsák a legszigorúbb adatvédelmi előírásoknak való megfelelést.
 
-## 5. Adatkezelési Nyilatkozatok és Beleegyezés
+## 6. Adatkezelési Nyilatkozatok és Beleegyezés
 
 A **ViviComm** biztosítja, hogy minden adatkezelés során a felhasználók megfelelő tájékoztatást kapjanak az adatkezelés céljáról és jogalapjáról. A felhasználóknak lehetőségük van beleegyezni az adatok kezelésébe, és kérhetik azok módosítását vagy törlését bármikor.
 
-## 6. Kapcsolat
+## 7. Kapcsolat
 
 Ha bármilyen kérdése van a **ViviComm** adatvédelmi és jogi megfelelőségével kapcsolatban, kérjük, lépjen kapcsolatba velünk:
 
