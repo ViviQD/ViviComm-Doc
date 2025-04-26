@@ -87,7 +87,7 @@ const config: Config = {
       title: 'ViviComm Lite Atlas',
       logo: {
         alt: 'ViviQD Logo',
-        src: 'img/viviqd-logo.svg',
+        src: 'img/fulllogo_transparent_nobuffer_nameOnly.png',
       },
       items: [
         // Tutorials menu
