@@ -39,4 +39,4 @@ Ez a dokumentum segít megérteni, hogyan biztosítjuk a bankkártyás adatok v�
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

@@ -50,4 +50,4 @@ Ez a dokumentum elmagyarázza, hogy hogyan kezeljük a személyes adataidat a **
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

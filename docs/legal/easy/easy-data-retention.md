@@ -44,5 +44,5 @@ Ha további kérdéseid vannak, kérlek, tudasd velünk.
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*
 

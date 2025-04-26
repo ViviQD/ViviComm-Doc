@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 title: Sütikezelési tájékoztató (Gyerekeknek)
 description: A ViviComm nem tesz sütiket a gépedre. Ha kell, a Google jelezni fogja, és megkérdezi az engedélyedet.
 keywords: 
@@ -22,7 +23,7 @@ Ez segíthet megjegyezni, mit csináltál ott. Olyan, mintha egy kis jegyzet len
 ## 2. Használ a ViviComm sütiket?
 
 **Nem!**  
-A **ViviComm** nem tesz sütiket a gépedre vagy a telefonodra.
+A **ViviComm** nem tesz sütiket a gépedre vagy a telefonodra és ez a dokumentációs oldal, amit most látsz, a **ViviComm Lite Atlas** sem.
 
 ## 3. Mikor lehet mégis süti?
 
@@ -42,6 +43,6 @@ Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*
 
 

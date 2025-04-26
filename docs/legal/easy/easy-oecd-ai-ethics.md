@@ -55,4 +55,4 @@ Ez a dokumentum segít megérteni, hogyan alkalmazzuk az **OECD AI Etikai Szabá
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

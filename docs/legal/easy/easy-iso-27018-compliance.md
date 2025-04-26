@@ -39,4 +39,4 @@ Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan védi a felhasználók ada
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

@@ -63,4 +63,4 @@ Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás teljes mértékb
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

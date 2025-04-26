@@ -45,4 +45,4 @@ Ez a dokumentum biztosítja, hogy a **ViviComm** megfeleljen az ISO/IEC 27001 sz
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

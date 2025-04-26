@@ -62,4 +62,4 @@ Ez a dokumentum tartalmazza az ISO 27799 szabványnak való megfelelőségre von
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

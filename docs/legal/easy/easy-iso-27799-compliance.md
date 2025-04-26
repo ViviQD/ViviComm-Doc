@@ -51,4 +51,4 @@ Ez a dokumentum bemutatja, hogyan biztosítjuk a **ViviComm** szolgáltatásban,
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

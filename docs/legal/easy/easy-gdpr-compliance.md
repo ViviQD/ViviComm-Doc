@@ -56,4 +56,4 @@ Ez a dokumentum a **GDPR** előírásainak megfelelően biztosítja, hogy a **Vi
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

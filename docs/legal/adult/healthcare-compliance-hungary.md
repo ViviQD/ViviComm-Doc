@@ -123,4 +123,4 @@ Ez a dokumentum biztosítja, hogy a **ViviComm** a magyar jogszabályoknak és s
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

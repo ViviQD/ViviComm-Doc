@@ -39,4 +39,4 @@ Ez a dokumentum segít megérteni, hogy hogyan védjük a felhasználói adatoka
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

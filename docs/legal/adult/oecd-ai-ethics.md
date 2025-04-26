@@ -59,4 +59,4 @@ Ez a dokumentum részletes leírást tartalmaz az **OECD AI Etikai Szabályok** 
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

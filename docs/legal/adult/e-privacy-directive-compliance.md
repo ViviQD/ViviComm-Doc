@@ -47,5 +47,5 @@ Ez a dokumentum biztosítja, hogy a **ViviComm** platform adatkezelési gyakorla
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*
 

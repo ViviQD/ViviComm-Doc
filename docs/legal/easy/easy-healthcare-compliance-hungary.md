@@ -58,4 +58,4 @@ Ez a dokumentum a **ViviComm** orvosi adatkezelési szabályait ismerteti a gyer
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 title: Sütikezelési tájékoztató
 description: A ViviComm rendszer jelenlegi állapotában nem használ saját cookie-kat. Harmadik fél cookie csak reCAPTCHA esetén lehetséges.
 keywords: 
@@ -32,7 +33,7 @@ A Google reCAPTCHA használata során elhelyezett cookie-król részletesen táj
 ## 3. Felhasználói hozzájárulás
 
 A **ViviComm** alkalmazás csak abban az esetben kér felhasználói hozzájárulást, ha a működés harmadik fél által elhelyezett cookie-t (például Google reCAPTCHA) igényel.  
-Ilyen esetben a rendszer megfelelő tájékoztatást ad a hozzájárulás megadása előtt.
+Ilyen esetben a rendszer megfelelő tájékoztatást ad a hozzájárulás megadása előtt. A **ViviComm Lite Atlas**, ez a dokumentációs oldal semmilyen hozzájárulást nem kér, mert nem használ saját cookie-kat.
 
 ## 4. Kapcsolat
 
@@ -51,5 +52,5 @@ Ez a dokumentum rögzíti, hogy a **ViviComm** szolgáltatás adatmegőrzési gy
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*
 

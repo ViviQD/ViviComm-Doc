@@ -40,4 +40,4 @@ Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan biztosítja, hogy a szolg�
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

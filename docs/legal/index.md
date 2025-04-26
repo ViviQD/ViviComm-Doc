@@ -57,4 +57,4 @@ Ez a dokumentum áttekintést nyújt a ViviQD megfelelőségi intézkedéseiről
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

@@ -141,7 +141,14 @@ A gyerekek számára készült dokumentumok segítenek megérteni az adatkezelé
 
 ---
 
-## 7. Kapcsolat
+## 7. Hivatkozások
+
+- [**ViviQD**](https://viviqd.com)
+- [**BastionGPT**](https://bastiongpt.com)
+- [**Stripe**](https://stripe.com)
+- [**Impresszum**](./easy-impressum.md)
+
+## 8. Kapcsolat
 
 Ha bármilyen kérdésed van a szolgáltatás működésével, vagy az adatkezelés szabályaival kapcsolatban, kérjük, vedd fel velünk a kapcsolatot:
 
@@ -158,4 +165,4 @@ Ez a dokumentum segít megérteni, hogy hogyan biztosítjuk a személyes adatok 
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

@@ -158,6 +158,7 @@ A **ViviQD** folyamatosan figyelemmel kíséri a jogszabályi változásokat és
 - [**ViviQD**](https://viviqd.com)
 - [**BastionGPT**](https://bastiongpt.com)
 - [**Stripe**](https://stripe.com)
+- [**Impresszum**](./impressum.md)
 
 ## 7. Kapcsolat
 
@@ -176,4 +177,4 @@ Ez a dokumentum áttekintést nyújt a VviiComm chat szolgáltatásokhoz tartoz�
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

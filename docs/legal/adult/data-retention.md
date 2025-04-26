@@ -61,4 +61,4 @@ Ez a dokumentum rögzíti, hogy a **ViviComm** szolgáltatás adatmegőrzési gy
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

@@ -61,4 +61,4 @@ Ez a dokumentum bemutatja, hogyan biztosítja a **ViviComm** az etikus és bizto
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

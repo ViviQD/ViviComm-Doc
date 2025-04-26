@@ -47,4 +47,4 @@ Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatásai megfeleljenek 
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

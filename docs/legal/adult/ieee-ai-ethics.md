@@ -74,4 +74,4 @@ Ez a dokumentum tartalmazza az IEEE AI Ethics irányelveit, amelyek segítenek b
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

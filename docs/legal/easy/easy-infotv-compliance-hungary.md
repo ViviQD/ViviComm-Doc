@@ -49,4 +49,4 @@ Ez a dokumentum bemutatja, hogyan biztosítjuk a személyes adatok védelmét a 
 
 ---
 
-*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+*Készült a **ViviComm** rendszerről szóló gyerekbarát tájékoztató részeként.*

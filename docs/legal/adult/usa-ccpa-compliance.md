@@ -71,4 +71,4 @@ A **ViviComm** biztosítja, hogy a felhasználók adatainak kezelése megfelelje
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

@@ -55,4 +55,4 @@ Ez a dokumentum részletes leírást tartalmaz az **EU AI Act** betartásáról 
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

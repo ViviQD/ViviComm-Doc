@@ -47,4 +47,4 @@ Ez a dokumentum biztosítja, hogy a **ViviComm** megfeleljen az ISO 27018 szabv�
 
 ---
 
-*Készült a ViviComm rendszerdokumentáció részeként.*
+*Készült a **ViviComm** rendszerdokumentáció részeként.*

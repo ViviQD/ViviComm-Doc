@@ -99,7 +99,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ViviQD/ViviComm-Lite-Atlas',
           label: 'GitHub',
           position: 'right',
         },
@@ -108,6 +108,23 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {
+          title: 'Legal',
+          items: [
+            {
+              label: 'Privacy Policy',
+              to: '/docs/legal/adult',
+            },
+            {
+              label: 'Cookie Management',
+              to: '/docs/legal/adult/cookie-policy',
+            },
+            {
+              label: 'Legal Notice',
+              to: '/docs/legal/adult/impressum',
+            },
+          ],
+        },
         {
           title: 'Docs',
           items: [
@@ -197,9 +214,17 @@ const config: Config = {
               label: 'Blog',
               to: '/blog',
             },
-            {
+            { 
               label: 'ViviQD GitHub',
               href: 'https://github.com/ViviQD',
+            },
+            {
+              label: 'ViviComm Lite GitHub',
+              href: 'https://github.com/ViviQD/ViviComm-Lite',
+            },
+            {
+              label: 'ViviComm Lite Atlas GitHub',
+              href: 'https://github.com/ViviQD/ViviComm-Lite-Atlas',
             },
           ],
         },
