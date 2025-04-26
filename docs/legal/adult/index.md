@@ -129,22 +129,23 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 
 A következő dokumentumok segítenek megérteni az adatkezelés és jogi előírások szabályait, könnyen érthető formában:
 
-- [**AI Act**](./eu-ai-act.md)
+- [**Cookie Policy**](./cookie-policy.md)
 - [**Adatkezelési Szabályok**](./data-retention.md)
+- [**E-privacy irányelv megfelelés**](./e-privacy-directive-compliance.md)
+- [**AI Act**](./eu-ai-act.md)
 - [**GDPR Megfelelés**](./gdpr-compliance.md)
 - [**Egészségügyi Adatkezelés Magyarországon**](./healthcare-compliance-hungary.md)
 - [**IEEE AI Etikai Irányelvek**](./ieee-ai-ethics.md)
 - [**Infotv. Megfelelés Magyarországon**](./infotv-compliance-hungary.md)
-- [**ISO 27799 Megfelelés**](./iso-27799-compliance.md)
-- [**OECD AI Etikai Irányelvek**](./oecd-ai-ethics.md)
-- [**USA CPRA Megfelelés**](./usa-cpra-compliance.md)
-- [**USA CCPA Megfelelés**](./usa-ccpa-compliance.md)
 - [**ISO 9001 Minőségirányítás Megfelelés**](./usa-ccpa-compliance.md)
-- [**E-Privacy Irányelv Megfelelés**](./usa-ccpa-compliance.md)
 - [**ISO 22301 Üzletmenet Folytonosság Megfelelés**](./usa-ccpa-compliance.md)
 - [**ISO 27018 Felhőalapú Adatvédelem Megfelelés**](./usa-ccpa-compliance.md)
+- [**ISO 27799 Megfelelés**](./iso-27799-compliance.md)
 - [**ISO/IEC 27001 Információbiztonság Megfelelés**](./usa-ccpa-compliance.md)
+- [**OECD AI Etikai Irányelvek**](./oecd-ai-ethics.md)
 - [**PCI DSS Kártyaipari Adatvédelmi Szabványok**](./usa-ccpa-compliance.md)
+- [**USA CCPA Megfelelés**](./usa-ccpa-compliance.md)
+- [**USA CPRA Megfelelés**](./usa-cpra-compliance.md)
 
 ---
 
@@ -152,16 +153,27 @@ A következő dokumentumok segítenek megérteni az adatkezelés és jogi előí
 
 A **ViviQD** folyamatosan figyelemmel kíséri a jogszabályi változásokat és frissíti a megfelelőségi intézkedéseit annak érdekében, hogy mindig megfeleljen a vonatkozó jogszabályoknak és szabványoknak. Az adatvédelmi és biztonsági intézkedések rendszeres felülvizsgálatára kerül sor, hogy biztosítsuk a személyes adatok védelmét.
 
-## 6. Kapcsolat
+## 6. Hivatkozások
+
+- [**ViviQD**](https://viviqd.com)
+- [**BastionGPT**](https://bastiongpt.com)
+- [**Stripe**](https://stripe.com)
+
+## 7. Kapcsolat
 
 Amennyiben bármilyen kérdése van a megfelelőségi szabályokkal vagy a szolgáltatás jogi kereteivel kapcsolatban, kérjük, vegye fel velünk a kapcsolatot:
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
----
+## Tájékoztatás
 
-Ez a dokumentum áttekintést nyújt a ViviQD megfelelőségi intézkedéseiről és azok alkalmazásáról, hogy biztosítsa a szolgáltatás jogszerű működését és az adatvédelmi előírások betartását.
-<br/>
-<br/>
 A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
 [Gyerekeknek szóló változat](../easy/index.md)
+
+---
+
+Ez a dokumentum áttekintést nyújt a VviiComm chat szolgáltatásokhoz tartozó jogszabályi és szabályozási előírásokhoz tartozó megfelelőségi intézkedéseiről és azok alkalmazásáról, hogy biztosítsa a szolgáltatás jogszerű működését és az adatvédelmi előírások betartását.
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

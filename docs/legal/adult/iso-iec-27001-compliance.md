@@ -34,10 +34,15 @@ A **ViviComm** folyamatosan biztosítja, hogy az adatkezelési és adatvédelmi 
 
 - [További információ az ISO/IEC 27001 szabvánnyal kapcsolatban](https://www.iso.org/isoiec-27001-information-security.html)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-iso-iec-27001-compliance.md)
+
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** megfeleljen az ISO/IEC 27001 szabvány előírásainak, és a felhasználók adatainak védelme érdekében a legszigorúbb biztonsági intézkedéseket alkalmazza.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-iso-iec-27001-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

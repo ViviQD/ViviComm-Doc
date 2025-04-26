@@ -36,10 +36,15 @@ A **ViviComm** folyamatosan biztosítja, hogy az adatkezelési és adatvédelmi 
 
 - [További információ az ISO 27018 szabvánnyal kapcsolatban](https://www.amnafzar.net/files/1/ISO%2027000/ISO%20IEC%2027018-2019.pdf)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-iso-27018-compliance.md)
+
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** megfeleljen az ISO 27018 szabvány előírásainak, így garantálva a felhasználói adatok biztonságát és védelmét.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-iso-27018-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

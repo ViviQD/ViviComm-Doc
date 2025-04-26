@@ -51,10 +51,15 @@ A felhasználóknak joguk van hozzáférni az egészségügyi adataikhoz, kérhe
 Ha bármilyen kérdése van az ISO 27799 megfelelőséggel kapcsolatban, kérjük, lépjen kapcsolatba velünk:
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-iso-27799-compliance.md)
+
 ---
 
 Ez a dokumentum tartalmazza az ISO 27799 szabványnak való megfelelőségre vonatkozó részletes információkat, és biztosítja, hogy a **ViviComm** szolgáltatás minden aspektusa megfeleljen az orvosi adatok kezelésére vonatkozó nemzetközi előírásoknak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-iso-27799-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

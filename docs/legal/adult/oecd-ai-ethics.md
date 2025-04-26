@@ -48,10 +48,15 @@ A felhasználók jogot formálhatnak arra, hogy betekintést nyerjenek az **AI**
 Ha bármilyen kérdése van az **OECD AI Etikai Szabályok** alkalmazásával kapcsolatban, kérjük, lépjen kapcsolatba velünk:
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-oecd-ai-ethics.md)
+
 ---
 
 Ez a dokumentum részletes leírást tartalmaz az **OECD AI Etikai Szabályok** betartásáról a **ViviComm** szolgáltatásban, és biztosítja, hogy a rendszer teljes mértékben megfeleljen a nemzetközi etikai előírásoknak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-oecd-ai-ethics.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

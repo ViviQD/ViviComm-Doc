@@ -28,10 +28,15 @@ Az **ISO/IEC 27001** segít abban, hogy a **ViviComm** minden adata biztonságba
 
 - [További információ az ISO/IEC 27001 szabványról](https://www.iso.org/isoiec-27001-information-security.html)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/iso-iec-27001-compliance.md)
+
 ---
 
 Ez a dokumentum segít megérteni, hogy hogyan védjük a felhasználói adatokat a **ViviComm** rendszeren keresztül, és hogyan biztosítjuk, hogy a személyes adatokat biztonságosan kezeljük az **ISO/IEC 27001** szabványnak megfelelően.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/iso-iec-27001-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

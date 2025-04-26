@@ -28,10 +28,15 @@ A **ViviComm** betartja az **ISO 22301** szabványt, hogy mindig biztosítani tu
 
 - [További információ az ISO 22301 szabványról](https://www.iso.org/iso-22301-business-continuity.html)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/iso-22301-compliance.md)
+
 ---
 
 Ez a dokumentum segít megérteni, hogyan biztosítjuk a **ViviComm** folyamatos működését az **ISO 22301** szabvány szerint, hogy a szolgáltatás mindig biztonságos és elérhető legyen.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/iso-22301-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

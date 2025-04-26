@@ -113,10 +113,15 @@ Ha kérdése van a jogi megfelelőséggel vagy adatvédelmi intézkedésekkel ka
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést, de jogilag nem figyelembe vehető, elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-healthcare-compliance-hungary.md)
+
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** a magyar jogszabályoknak és szabványoknak megfelelően működjön, és hogy a felhasználók személyes adatai biztonságban legyenek. Továbbá biztosítja, hogy minden orvosi adatkezelési tevékenység megfeleljen az orvosi jogszabályoknak és adatvédelmi előírásoknak.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést, de jogilag nem figyelembe vehető, elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-healthcare-compliance-hungary.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

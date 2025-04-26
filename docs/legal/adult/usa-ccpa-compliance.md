@@ -54,12 +54,21 @@ Ha szeretnéd gyakorolni a jogaidat a **ViviComm** szolgáltatásban, például 
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
----
+## További információ
 
-További információ a **California Consumer Privacy Act (CCPA)**-ról itt található:  
-- [California Consumer Privacy Act (CCPA) teljes szövege](https://oag.ca.gov/privacy/ccpa)
+A **California Consumer Privacy Act (CCPA)**-ról itt található:  
+- [California Consumer Privacy Act (CCPA) honlapja](https://oag.ca.gov/privacy/ccpa)
 
-<br/>
-<br/>
+## Tájékoztatás
+
 A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
 [**Gyerekeknek szóló változat**](../easy/easy-usa-ccpa-compliance.md)
+
+---
+
+Ez a dokumentum biztosítja, hogy a **ViviComm** platform teljes mértékben megfeleljen a **USA CCPA** előírásainak, és átlátható módon tájékoztassa a felhasználókat az adataik gyűjtéséről, felhasználásáról, megosztásáról és törléséhez való jogaikról. A dokumentum célja továbbá, hogy elősegítse a felhasználók jogainak gyakorlását, és biztosítsa a személyes adatok védelmét a Kaliforniai Fogyasztóvédelmi Törvény (CCPA) rendelkezései szerint.
+A **ViviComm** biztosítja, hogy a felhasználók adatainak kezelése megfeleljen a **CCPA** szabályainak, és átlátható módon tájékoztassa a felhasználókat az adataik gyűjtéséről, felhasználásáról, megosztásáról és törléséhez való jogaikról. A dokumentum célja továbbá, hogy elősegítse a felhasználók jogainak gyakorlását, és biztosítsa a személyes adatok védelmét a Kaliforniai Fogyasztóvédelmi Törvény (CCPA) rendelkezései szerint. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

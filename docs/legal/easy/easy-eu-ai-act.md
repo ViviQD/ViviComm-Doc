@@ -61,10 +61,15 @@ Ha bármilyen kérdésed van a **ViviComm** mesterséges intelligenciájával ka
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/eu-ai-act.md)
+
 ---
 
 Ez a dokumentum részletes tájékoztatást nyújt az **EU AI Act** szabályok betartásáról, és biztosítja, hogy a **ViviComm** minden működése megfeleljen az etikai előírásoknak. Ha további információra van szükséged, kérlek, lépj kapcsolatba velünk.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/eu-ai-act.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

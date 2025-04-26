@@ -40,10 +40,15 @@ A **ViviComm** folyamatosan biztosítja, hogy minden bankkártyás tranzakció m
 
 - [További információ a PCI DSS szabványról](https://www.pcisecuritystandards.org/pci_security/)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-pci-dss-compliance.md)
+
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** platform teljes mértékben megfeleljen a **PCI DSS** előírásainak, és minden bankkártyás tranzakció biztonságos módon történik a felhasználók védelme érdekében.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-pci-dss-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

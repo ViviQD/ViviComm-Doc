@@ -28,10 +28,15 @@ A **ViviComm** mindig arra törekszik, hogy a felhasználók adatainak védelme 
 
 - [További információ az ISO 27018 szabványról](https://www.iso.org/iso-27018-cloud-privacy.html)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/iso-27018-compliance.md)
+
 ---
 
 Ez a dokumentum bemutatja, hogy a **ViviComm** hogyan védi a felhasználók adatait a felhőben, és hogyan alkalmazza az **ISO 27018** szabványt a személyes adatok biztonságos kezelésére.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/iso-27018-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

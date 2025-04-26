@@ -74,10 +74,22 @@ Ha bármilyen kérdése van a **USA CPRA** törvénnyel vagy a személyes adatok
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
----
+## További információ
 
-Ez a dokumentum tartalmazza a **USA CPRA** törvénynek való megfelelőséget, és biztosítja, hogy a **ViviComm** szolgáltatás teljes mértékben megfeleljen a felhasználók adatvédelmi jogainak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
-<br/>
-<br/>
+A **California Privacy Rights Act (CRPA)**-ról itt található:
+- [California Privacy Rights Act (CRPA) honlapja](https://crpa.org/)
+
+A **ViviComm** a személyes adatok védelmével és kezelésével kapcsolatos törvényeknek megfelelően biztosítja, hogy a felhasználók jogai teljes mértékben érvényesüljenek, és a személyes adatok magas szintű védelmével kezelhetőek 
+
+## Tájékoztatás
+
 A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
 [**Gyerekeknek szóló változat**](../easy/easy-usa-cpra-compliance.md)
+
+---
+
+Ez a dokumentum biztosítja, hogy a **ViviComm** platform teljes mértékben megfeleljen a **USA CPRA** előírásainak, és átlátható módon tájékoztassa a felhasználókat az adataik gyűjtéséről, kezeléséről, megosztásáról, valamint a hozzáféréshez, helyesbítéshez, törléshez és adatátviteli jogokhoz kapcsolódó lehetőségeikről. A dokumentum célja, hogy elősegítse a felhasználói jogok érvényesítését, és biztosítsa a személyes adatok magas szintű védelmét a California Privacy Rights Act (CRPA) rendelkezéseinek megfelelően. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

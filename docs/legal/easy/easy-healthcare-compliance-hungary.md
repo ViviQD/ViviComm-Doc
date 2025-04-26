@@ -47,10 +47,15 @@ Ha kérdésed van az orvosi adataiddal kapcsolatban, vagy ha nem vagy biztos abb
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/healthcare-compliance-hungary.md)
+
 ---
 
 Ez a dokumentum a **ViviComm** orvosi adatkezelési szabályait ismerteti a gyerekek számára, és biztosítja, hogy a személyes adatok kezelése mindig a legszigorúbb jogi és etikai előírásoknak megfelelően történik. Ha további információra van szükséged, kérjük, lépj kapcsolatba velünk.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/healthcare-compliance-hungary.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

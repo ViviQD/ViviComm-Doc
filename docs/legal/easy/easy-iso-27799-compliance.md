@@ -4,7 +4,9 @@ Ez a dokumentum segít megérteni, hogyan védjük az orvosi adatokat a **ViviCo
 
 ## 1. Mi az ISO 27799?
 
-A **ISO/IEC 27001** egy nemzetközi szabvány, amely az információbiztonság menedzsmentjét irányítja és szabályozza, hogyan kell biztonságosan kezelni az orvosi adatokat. Ez biztosítja, hogy minden adatot titokban tartsunk, és csak azok férhessenek hozzá, akiknek szükségük van rá. A **ViviComm** teljes mértékben megfelel ennek a szabványnak.
+Az **ISO 27799** egy nemzetközi szabvány, amely meghatározza, hogyan kell az egészségügyi adatokat biztonságosan kezelni az **ISO/IEC 27001** információbiztonsági szabvány elveinek alkalmazásával.  
+Ez a szabvány különösen az orvosi és egészségügyi adatok védelmét helyezi előtérbe, biztosítva, hogy az adatok titkosak maradjanak, sértetlenek legyenek, és csak azok férjenek hozzá, akik jogosultak rá.  
+A **ViviComm** rendszer teljes mértékben összhangban van az **ISO 27799** előírásaival. Az **ISO 27799** szabvány megkülönbözteti az orvosi adatokat a személyes adatokat, és biztosítja, hogy az orvosi adatokat biztonságosan és helyesen kezeljük.
 
 A **ViviComm** biztosítja, hogy minden orvosi adatot titkosítva tároljunk, hogy megakadályozzuk a jogosulatlan hozzáférést. Az adatokat kizárólag azok a szakemberek és személyek kezelhetik, akiknek szükségük van rá a szolgáltatás megfelelő működéséhez.
 
@@ -38,10 +40,15 @@ Ha bárminemű kérdésed van az adataid kezelésével kapcsolatban, kérjük, b
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
----
+## Tájékoztatás
 
-Ez a dokumentum bemutatja, hogyan biztosítjuk az orvosi adatok védelmét a **ViviComm** szolgáltatásban, és hogyan biztosítjuk, hogy mindent a törvényeknek megfelelően kezeljünk. Ha bármilyen kérdésed van, kérlek, vedd fel velünk a kapcsolatot.
-<br/>
-<br/>
 Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
 [**Felnőtteknek szóló változat**](../adult/iso-27799-compliance.md)
+
+---
+
+Ez a dokumentum bemutatja, hogyan biztosítjuk a **ViviComm** szolgáltatásban, hogy az orvosi adatokat biztonságosan kezeljük az **ISO 27799** szabvány szerint. Ha bármilyen kérdésed van, kérlek, vedd fel velünk a kapcsolatot.
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

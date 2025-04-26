@@ -32,10 +32,17 @@ Ha bárminemű kérdésed van az adatkezelésről, törlésről vagy a szolgált
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
----
+## Tájékoztatás
 
-Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás megfeleljen az adatvédelmi szabályoknak, és hogy a személyes és orvosi adatokat biztonságosan kezeljük. Ha további kérdéseid vannak, kérlek, tudasd velünk.
-<br/>
-<br/>
 Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
 [**Felnőtteknek szóló változat**](../adult/data-retention.md)
+
+---
+
+Ez a dokumentum segít megérteni, hogy a **ViviComm** szolgáltatás hogyan kezeli az adataidat, mennyi ideig őrzi meg őket, és mikor törli őket biztonságosan. Fontos számunkra, hogy megvédd az adataidat, és csak addig tároljuk őket, amíg szükség van rájuk. Ha már nincs rájuk szükség, akkor gondosan töröljük őket a rendszerből.  
+Ha további kérdéseid vannak, kérlek, tudasd velünk.
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*
+

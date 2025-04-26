@@ -36,10 +36,16 @@ A **ViviComm** folyamatosan biztosítja, hogy adatkezelési gyakorlataink megfel
 
 - [További információ az E-Privacy Directive szabályozásról](https://www.edps.europa.eu/data-protection/our-work/subjects/eprivacy-directive_en)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-e-privacy-directive-compliance.md)
+
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** platform adatkezelési gyakorlatai teljes mértékben megfeleljenek az **E-Privacy Directive** előírásainak, és hogy a felhasználók adatait tisztelettel és jogszerűen kezeljük.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-e-privacy-directive-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*
+

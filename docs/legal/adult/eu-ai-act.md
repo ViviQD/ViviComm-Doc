@@ -44,10 +44,15 @@ Ha bármilyen kérdése van az **EU AI Act** szabályozással kapcsolatban, kér
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-eu-ai-act.md)
+
 ---
 
 Ez a dokumentum részletes leírást tartalmaz az **EU AI Act** betartásáról a **ViviComm** szolgáltatásban, és biztosítja, hogy a rendszer teljes mértékben megfeleljen az AI alkalmazására vonatkozó legszigorúbb etikai és jogi előírásoknak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-eu-ai-act.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

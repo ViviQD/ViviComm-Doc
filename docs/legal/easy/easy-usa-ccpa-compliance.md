@@ -39,10 +39,15 @@ Ha bármi kérdésed van, vagy szeretnéd, hogy módosítsuk az adataidat, kérj
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/usa-ccpa-compliance.md)
+
 --- 
 
 Ez a dokumentum elmagyarázza, hogy hogyan kezeljük a személyes adataidat a **ViviComm** alkalmazásban, és hogyan biztosítjuk, hogy a **CCPA** törvényeknek megfelelően védve legyenek a jogaid.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/usa-ccpa-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

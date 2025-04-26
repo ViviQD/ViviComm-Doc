@@ -50,10 +50,15 @@ Ha bármilyen kérdése van a felhasználói adatok tárolásával, törléséve
 
 A **ViviComm** biztosítja, hogy minden adatkezelési folyamat, ideértve az adatmegőrzést és törlést, teljes mértékben megfeleljen a vonatkozó jogszabályoknak, beleértve a **GDPR**, a **Magyar Infotv.** és más vonatkozó jogi előírásokat.
 
----
+## Tájékoztatás
 
-Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás adatmegőrzési politikája összhangban áll az adatkezelési szabályokkal, és figyelembe veszi a felhasználói jogokat. Ha további kérdései vannak, vagy szeretné módosítani az adatkezelési preferenciáit, kérjük, vegye fel velünk a kapcsolatot.
-<br/>
-<br/>
 A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
 [**Gyerekeknek szóló változat**](../easy/easy-data-retention.md)
+
+---
+
+Ez a dokumentum rögzíti, hogy a **ViviComm** szolgáltatás adatmegőrzési gyakorlata megfelel az adatvédelmi előírásoknak, és figyelembe veszi a felhasználók jogait. Ha kérdése merülne fel, vagy szeretné adatkezelési beállításait módosítani, kérjük, vegye fel velünk a kapcsolatot.
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

@@ -43,7 +43,7 @@ Amennyiben bármilyen kérdése van a megfelelőségi szabályokkal vagy a szolg
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
-## 7. Változatok
+## Tájékoztatás
 
 A felnőtteknek szóló megfelelőség dokumentumok, amelyek a felnőttek számára készültek, elérhetők az alábbi linken:  
 [Felnőtteknek szóló változat](./adult/index.md)
@@ -54,3 +54,7 @@ A gyerekek számára készült, könnyen érthető változat, amely segíti a me
 ---
 
 Ez a dokumentum áttekintést nyújt a ViviQD megfelelőségi intézkedéseiről és azok alkalmazásáról, hogy biztosítsa a szolgáltatás jogszerű működését és az adatvédelmi előírások betartását.
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

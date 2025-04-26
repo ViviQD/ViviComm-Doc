@@ -36,10 +36,15 @@ A **ViviComm** alkalmazza az **ISO 9001** mellett az összes vonatkozó jogszab�
 
 - [További információ az ISO 9001-ről](https://www.iso.org/iso-9001-quality-management.html)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-iso-9001-compliance.md)
+
 --- 
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatásai megfeleljenek az ISO 9001 szabványnak, biztosítva ezzel a folyamatos minőségjavítást és a felhasználói elégedettséget.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-iso-9001-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

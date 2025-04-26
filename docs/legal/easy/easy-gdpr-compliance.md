@@ -45,10 +45,15 @@ Ha kérdésed van vagy szeretnéd gyakorolni a jogodat, kérjük, vedd fel velü
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
+[**Felnőtteknek szóló változat**](../adult/gdpr-compliance.md)
+
 ---
 
 Ez a dokumentum a **GDPR** előírásainak megfelelően biztosítja, hogy a **ViviComm** szolgáltatásában biztosított adatkezelés teljes mértékben védje a felhasználók jogait, különösen a személyes és egészségügyi adatok védelmét. Ha további információra van szükséged, kérjük, lépj kapcsolatba velünk.
-<br/>
-<br/>
-Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br/> de jogi szempontból csak ez figyelembe vehető, elérhető itt:  
-[**Felnőtteknek szóló változat**](../adult/gdpr-compliance.md)
+
+---
+
+*Készült a ViviComm rendszerről szóló gyerekbarát tájékoztató részeként.*

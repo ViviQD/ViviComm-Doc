@@ -53,10 +53,15 @@ Ha bármilyen kérdése van a **ViviComm** adatvédelmi és jogi megfelelőség�
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
+## Tájékoztatás
+
+A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
+[**Gyerekeknek szóló változat**](../easy/easy-infotv-compliance-hungary.md)
+
 ---
 
 Ez a dokumentum biztosítja, hogy a **ViviComm** szolgáltatás teljes mértékben megfeleljen a **Magyar Információs Törvény (Infotv.)** előírásainak, és biztosítja a felhasználók jogait a személyes adatok védelmében. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
-<br/>
-<br/>
-A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
-[**Gyerekeknek szóló változat**](../easy/easy-infotv-compliance-hungary.md)
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*

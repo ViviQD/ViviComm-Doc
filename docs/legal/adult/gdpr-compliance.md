@@ -71,10 +71,15 @@ Amennyiben bármilyen kérdése van a GDPR-nak való megfelelésünkkel vagy a s
 
 - **E-mail**: [support@viviqd.com](mailto:support@viviqd.com)
 
----
+## Tájékoztatás
 
-Ez a dokumentum áttekintést nyújt a **ViviComm** és a **ViviQD** adatvédelmi intézkedéseiről és azok GDPR előírásoknak való megfeleléséről.
-<br/>
-<br/>
 A gyerekek számára készült változat, amely segíti a könnyebb megértést,<br/> de jogilag nem figyelembe vehető, szintén elérhető itt:  
 [**Gyerekeknek szóló változat**](../easy/easy-gdpr-compliance.md)
+
+---
+
+Ez a dokumentum részletes leírást tartalmaz az **EU AI Act** betartásáról a **ViviComm** szolgáltatásban, és biztosítja, hogy a rendszer teljes mértékben megfeleljen az GDPR-re vonatkozó legszigorúbb etikai és jogi előírásoknak. Ha további információra van szüksége, kérjük, vegye fel velünk a kapcsolatot.
+
+---
+
+*Készült a ViviComm rendszerdokumentáció részeként.*
