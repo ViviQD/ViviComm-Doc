@@ -34,7 +34,7 @@ A **ViviComm** folyamatosan felülvizsgálja adatkezelési gyakorlatát, és az 
 
 A **ViviComm** folyamatosan biztosítja, hogy az adatkezelési és adatvédelmi gyakorlatok megfeleljenek az ISO 27018 szabvány előírásainak, hogy a felhasználók adatainak védelmét mindig a legmagasabb szintre emeljük.
 
-- [További információ az ISO 27018 szabvánnyal kapcsolatban](https://www.iso.org/iso-27018-cloud-privacy.html)
+- [További információ az ISO 27018 szabvánnyal kapcsolatban](https://www.amnafzar.net/files/1/ISO%2027000/ISO%20IEC%2027018-2019.pdf)
 
 ---
 

@@ -84,12 +84,12 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 #### 4.4.1 **ISO/IEC 27001 – Információbiztonság**
 
 - Az **ISO/IEC 27001** az információbiztonság kezelésére vonatkozó nemzetközi szabvány. Az alkalmazás és a **BastionGPT** megfelel az **ISO 27001** szabványnak, biztosítva, hogy a felhasználók adatainak védelme és titkossága garantált legyen.
-- [**További információ**](https://www.scribd.com/document/521861026/ISO-27001)
+- [**További információ**](https://itref.ir/uploads/editor/42890b.pdf)
 
 #### 4.4.2 **ISO 27018 – Felhőalapú Adatvédelem**
 
 - Az **ISO 27018** a felhőalapú adatvédelmi előírásokat tartalmazza, és biztosítja a személyes adatok biztonságos kezelését a felhőalapú szolgáltatásokban, mint amilyen a **ViviComm** és a **BastionGPT**.
-- [**További információ**](https://www.scribd.com/document/509101287/ISO-IEC-27018-2019-%E9%AB%98%E6%B8%85%E7%89%88-%E9%81%93%E5%AE%A2%E5%B7%B4%E5%B7%B4)
+- [**További információ**](https://www.amnafzar.net/files/1/ISO%2027000/ISO%20IEC%2027018-2019.pdf)
 
 #### 4.4.3 **ISO 9001 – Minőségirányítás**
 
@@ -99,12 +99,12 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 #### 4.4.4 **ISO 22301 – Üzletmenet Folytonosság**
 
 - Az **ISO 22301** az üzletmenet folytonosságának kezelésére vonatkozó szabvány, amely segít biztosítani, hogy a szolgáltatás zavartalanul működjön még vészhelyzetekben is.
-- [**További információ**](https://www.scribd.com/document/328427292/Implementing-ISO-22301)
+- [**További információ**](https://dri.ca/docs/ISO_DIS_22301_(E).pdf)
 
 #### 4.4.5 **PCI DSS – Kártyaipari Adatvédelmi Szabványok**
 
 - A **PCI DSS** a bankkártyás tranzakciók adatvédelmi szabályait tartalmazza. Mivel a **ViviComm** bankkártyás tranzakciókat végez a Stripe használatával, így a szolgáltatásnak teljes mértékben meg kell felelnie a **PCI DSS** előírásainak.
-- [**További információ**](https://www.pcisecuritystandards.org/standards/pci-dss/)
+- [**További információ**](https://www.commerce.uwo.ca/pdf/PCI-DSS-v4_0.pdf)
 
 #### 4.4.6 **IEEE AI Etikai Irányelvek**
 
@@ -115,6 +115,8 @@ A személyes adatok kezelése során a ViviQD biztosítja, hogy megfeleljen az a
 
 - Az **ISO 27799** szabvány az egészségügyi adatok védelmére vonatkozó nemzetközi irányelveket tartalmaz. Ez a szabvány segít biztosítani, hogy az egészségügyi információkat biztonságosan és jogszerűen kezeljük, és hogy azok megfeleljenek az adatvédelmi előírásoknak.
 - [**További információ**](https://www.scribd.com/document/627403860/iso-27799)
+- [**További információ**](https://www.iso.org/obp/ui/#iso:std:iso:27799:ed-2:v1:en)
+- [**További információ**](https://www.iso27001security.com/html/27799.html)
 
 #### 4.4.8 **OECD AI Etikai Irányelvek**
 

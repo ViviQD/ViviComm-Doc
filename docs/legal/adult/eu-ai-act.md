@@ -36,8 +36,6 @@ Az AI rendszerek használata során figyelembe kell venni azok hatását, és bi
 
 ## 3. A Felhasználók Jogai és Az AI Döntéseinek Felülvizsgálata
 
-## 3. A Felhasználók Jogai és Az AI Döntéseinek Felülvizsgálata
-
 A felhasználók jogosultak betekinteni az AI által hozott döntések indoklásába, és kérhetik azok felülvizsgálatát. A felhasználók számára biztosítani kell, hogy lehetőségük legyen megérteni az AI válaszait, és amennyiben szükséges, orvosi szakértői felülvizsgálatot kérhetnek, amelyhez díjat kell fizetniük. A **ViviComm** biztosítja, hogy minden AI-alapú döntés felelőssége világosan meghatározott, és az AI által hozott döntések felülvizsgálatát orvosi szakértők végezhetik el, amennyiben a felhasználó fizeti a szolgáltatást.
 
 ## 4. Kapcsolat
