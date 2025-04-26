@@ -87,7 +87,7 @@ Ez a törvény meghatározza az egészségi állapotra vonatkozó különleges s
 
 - [**62/1997. (XII. 21.) NM rendelet**](https://net.jogtar.hu/jogszabaly?docid=99700062.NM): Az egészségügyi adatkezelés és a betegjogok részletes szabályozása. Lefedi a betegadatok védelmét és az adathozzáférés módjait.
 
-- [**47/1997. (XII. 17.) NM rendelet**](https://net.jogtar.hu/jogszabaly?docid=99700047.TV): A gyermekek egészségügyi adatkezelésére vonatkozó szabályokat határozza meg. Különösen fontos a szülői hozzájárulás és a gyermekek különleges adatainak védelme szempontjából.
+- [**47/1997. (XII. 17.) NM rendelet**](https://net.jogtar.hu/jogszabaly?docid=99700047.nm): A gyermekek egészségügyi adatkezelésére vonatkozó szabályokat határozza meg. Különösen fontos a szülői hozzájárulás és a gyermekek különleges adatainak védelme szempontjából.
 
 - [**2004. évi II. törvény az elektronikus aláírásról (EUM)**](https://net.jogtar.hu/jogszabaly?docid=A0400002.EUM) *(részben releváns, ha aláírt nyilatkozatok lesznek)*
 
@@ -101,7 +101,6 @@ Az online adatkezelésre, az adatkezelési tájékoztatásra és a szolgáltató
 
 - [**Az Európai Parlament és a Tanács (EU) 2016/679 rendelete (GDPR)**](https://eur-lex.europa.eu/legal-content/HU/TXT/?uri=CELEX:32016R0679):  
 Az általános adatvédelmi rendelet, amely közvetlenül alkalmazandó az EU tagállamaiban, és meghatározza a személyes adatok védelmének követelményeit.
-
 
 ## 9. A jogi megfelelőség fenntartása
 

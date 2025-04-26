@@ -31,8 +31,7 @@ Az elektronikus kereskedelmi szolgáltatások és az információs társadalomma
 
 - [**1995. évi CXIX. törvény (DM törvény)**](https://net.jogtar.hu/jogszabaly?docid=99500119.TV):  
 A személyes adatok közvetlen üzletszerzés céljából történő kezeléséről szóló törvény. Akkor releváns, ha a ViviComm marketingtevékenységet is folytat (pl. hírlevelek, értesítések küldése), de a jelenlegi verzió ilyet nem tartalmaz.
-
-
+<br/>
 A jogszabályok szerint az orvosi adatokat titokban kell tartani és kizárólag azok férhetnek hozzá, akik jogszabály szerint jogosultak erre. A **ViviComm** biztosítja, hogy az adatkezelés a megfelelő jogalapok és beleegyezések alapján történjen.
 
 ## 4. Különleges Adatok Kezelése
