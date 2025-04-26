@@ -1,6 +1,6 @@
-# California Consumer Privacy Act (CCPA) (Gyerekeknek)
+# Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA) (Gyerekeknek)
 
-Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **Kaliforniai Fogyasztóvédelmi Jogi Szabályok (CCPA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CCPA segít biztosítani, hogy a cégek biztonságosan kezeljék a személyes adataidat, és hogy te tudd, hogyan használják azokat.
+Ez a dokumentum elmagyarázza, hogyan védjük meg a személyes adataidat a **California Consumer Privacy Act (CCPA)** szerint, és hogyan alkalmazzuk azt a **ViviComm** szolgáltatásban. A CCPA segít biztosítani, hogy a cégek biztonságosan kezeljék a személyes adataidat, és hogy te tudd, hogyan használják azokat.
 
 ## 1. Mi az a CCPA?
 
@@ -46,7 +46,7 @@ Felnőtteknek számára készült, nehezebben érthető, hivatalos változat,<br
 
 --- 
 
-Ez a dokumentum elmagyarázza, hogy hogyan kezeljük a személyes adataidat a **ViviComm** alkalmazásban, és hogyan biztosítjuk, hogy a **CCPA** törvényeknek megfelelően védve legyenek a jogaid.
+Ez a dokumentum elmagyarázza, hogy hogyan kezeljük a személyes adataidat a **ViviComm** alkalmazásban, és hogyan biztosítjuk, hogy a **USA CCPA** törvényeknek megfelelően védve legyenek a jogaid.
 
 ---
 

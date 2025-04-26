@@ -1,14 +1,14 @@
-# California Privacy Rights Act CPRA
+# Kaliforniai adatvédelmi törvény (CPRA)
 
 Ez a dokumentum részletes leírást nyújt a **USA CPRA (California Privacy Rights Act)** törvénynek való megfelelésről a **ViviComm** szolgáltatásában, különös figyelmet fordítva a felhasználók adatvédelmi jogainak biztosítására és az adatkezelési szabályoknak való megfelelésre, amelyek a **ViviComm** szolgáltatásait érinthetik.
 
 ## 1. Bevezetés
 
-A **California Privacy Rights Act (CPRA)** a CCPA kiegészítéseként biztosítja a Kaliforniában élő felhasználók jogait az adatvédelmi kérdésekben. A **ViviComm** szolgáltatásai megfelelnek a CPRA előírásainak.
+A **Kaliforniai adatvédelmi törvény (CPRA)** a CCPA kiegészítéseként biztosítja a Kaliforniában élő felhasználók jogait az adatvédelmi kérdésekben. A **ViviComm** szolgáltatásai megfelelnek a CPRA előírásainak.
 
-## 2. USA CPRA (California Privacy Rights Act) - Áttekintés
+## 2. USA CPRA (Kaliforniai adatvédelmi törvény) - Áttekintés
 
-A **California Privacy Rights Act (CPRA)**, amely a Kaliforniai Fogyasztóvédelmi Jogi Szabályok, előírja a személyes adatok védelmét és a felhasználók adatvédelmi jogait, és különösen a **ViviComm** számára fontos, mivel a felhasználók személyes adatainak védelme és azok biztonságos kezelése kulcsfontosságú a szolgáltatás működése során.
+A **Kaliforniai adatvédelmi törvény (CPRA)**, amely a Kaliforniai Fogyasztóvédelmi Jogi Szabályok, előírja a személyes adatok védelmét és a felhasználók adatvédelmi jogait, és különösen a **ViviComm** számára fontos, mivel a felhasználók személyes adatainak védelme és azok biztonságos kezelése kulcsfontosságú a szolgáltatás működése során.
 
 A **ViviComm** és a **BastionGPT** szolgáltatások megfelelnek a CPRA törvény előírásainak, biztosítva, hogy a felhasználói adatok kezelése és védelme megfeleljen a kaliforniai állampolgárok jogainak.
 
