@@ -206,9 +206,15 @@ Our community thrives on collaboration, and your input makes a difference.
 
 ---
 
-## License
+# Documentation License  
+The documentation of ViviComm Lite is licensed under **Apache 2.0** (see [LICENSE.md](LICENSE.md)).  
 
-This project is distributed under the GNU GPL v3 license. This means any modifications or derivative works must also be licensed under GPL v3, ensuring that all contributions remain open and freely available. For the full license text, please refer to the LICENSE file included in this repository.
+## Commercial Use Statement  
+ViviComm Lite serves as the open-source version of the ViviComm platform.  
+Under the terms of Apache 2.0, **content from this documentation may be freely incorporated into the commercial version** without restriction.  
+
+For additional details, refer to [LICENSE.md](LICENSE.md) or contact the project maintainers.
+
 
 ---
 
