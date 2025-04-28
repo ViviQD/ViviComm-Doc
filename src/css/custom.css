@@ -76,11 +76,11 @@
   font-size: smaller;
   font-style: italic;
   margin-top: 0.2rem;
-  text-align: left; /* mobilon alapból balra */
+  text-align: left; /* mobile left */
 }
 
 @media (min-width: 997px) {
   .custom-last-updated {
-    text-align: right; /* desktopon jobbra */
+    text-align: right; /* desktop right */
   }
 }
