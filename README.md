@@ -174,6 +174,11 @@ npm run build
 
 This will create a `build` directory containing all the static assets.
 
+### More information on building the project:
+- For more installation details read the [install](- [Docusaurus documentation](https://docusaurus.io/docs/)
+- [Docusaurus GitHub repository](https://github.com/facebook/docusaurus)
+
+
 ---
 
 ## Deploy
