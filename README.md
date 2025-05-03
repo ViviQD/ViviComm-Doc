@@ -239,7 +239,7 @@ Thank you for being a part of the ViviQD Chat adventure, using ViviComm-Lite –
 [stars-url]: https://img.shields.io/github/stars/ViviQD/ViviComm-Lite-Atlas
 [issues-shield]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite-Atlas?style=for-the-badge&color=blue
 [issues-url]: https://img.shields.io/github/issues/ViviQD/ViviComm-Lite-Atlas
-[license-shield]: https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge
 [license-url]: https://github.com/ViviQD/ViviComm-Lite-Atlas/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/viviqd
