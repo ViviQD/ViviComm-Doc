@@ -174,17 +174,6 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-    # License Notice  
-
-    This project, ViviComm, is licensed under the **Apache License, Version 2.0** (the "License").  
-    You may freely use, modify, and distribute this project under the terms of the License.  
-
-    ### Commercial Use Statement  
-    The developers of ViviComm maintain a commercial version of this project.  
-    Under the terms of Apache 2.0, **code from this open-source version may be freely incorporated into the commercial version** without restriction.  
-
-    For more details, refer to [LICENSE](LICENSE) or contact the project maintainers.
-
    END OF TERMS AND CONDITIONS
 
    APPENDIX: How to apply the Apache License to your work.
@@ -198,7 +187,62 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   ## Additional Terms and Project Notices (non-Apache)
+
+   ### Medical and Legal Disclaimer
+
+   This software is provided "as-is" without any warranties or guarantees.  
+   It is not a certified medical device and must not be used to provide real-time or life-critical medical advice without regulatory clearance.
+
+   Any modified versions of this codebase that are used for healthcare or AI decision-making must include a visible and explicit disclaimer that they are unofficial and not affiliated with the ViviComm project or UniVital.Net.
+
+   The original maintainers of this project assume **no liability or responsibility** for any use, misuse, or modification of this codebase in healthcare or other high-risk environments.
+
+   ### License Notice  
+   
+   This project, ViviComm Lite, is licensed under the **Apache License, Version 2.0** (the "License").  
+   You may freely use, modify, and distribute this project under the terms of the License.  
+
+   ### Commercial & Open-Source Licensing  
+
+   This project is open-source under **Apache 2.0**, but a commercial version exists with premium features.  
+   For full licensing details, see [LICENSING.md](LICENSING.md).
+
+   ### Commercial Use Statement  
+
+   The developers of ViviComm Lite maintain a commercial version of this project.  
+   Under the terms of Apache 2.0, **code from this open-source version may be freely incorporated into the commercial version** without attribution or notification and without restriction.  
+
+   ### Security & Data Compliance  
+
+   The project implements advanced security measures to protect sensitive user data.  
+   All contributions and usage must comply with the security guidelines outlined in [SECURITY.md](SECURITY.md).  
+
+   ### Trademark & Brand Protection  
+
+   Project branding, logos, and trademarks are legally protected. For details, see [BRAND_PROTECTION.md](BRAND_PROTECTION.md).
+
+   ### Licensing Terms  
+
+   This project is open-source under the **Apache 2.0 License**, but a commercial version exists with premium features and certain components, including branding and proprietary elements, have additional legal protections.  
+   See [LICENSING.md](LICENSING.md) and [COPYRIGHT.md](COPYRIGHT.md) for details.
+
+   ### License Reference  
+
+   For an overview of the project, its licensing terms, and usage details, see [README.md](README.md).
+
+   ### Trademark & Legal Ownership
+
+   This project is open-source under Apache 2.0, but its name, logos, and branding remain trademarked.  
+   For full details, see [TRADEMARK.md](TRADEMARK.md).  
+
+   ### Copyright Notice  
+    
+   This document and its contents are protected under applicable copyright laws.  
+   Unauthorized use, modification, or distribution is prohibited without explicit permission.
+
+   Copyright 2025 UniVital.Net  
+   © 2025 UniVital.Net. All rights reserved.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
